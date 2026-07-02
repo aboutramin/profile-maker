@@ -1,0 +1,262 @@
+You are synthesizing a Candidate Career Profile from multiple extracted knowledge files.
+
+Return VALID JSON ONLY.
+
+You will receive:
+
+1. SOURCE_INDEX
+   - A mapping between generic source IDs and original input files.
+   - Example: DOC-001, DOC-002, DOC-003.
+
+2. SOURCE_EXTRACTIONS
+   - Extracted knowledge from all files found in the data/ folder.
+   - Sources may include CVs, resumes, theses, reference letters, certificates, portfolios, transcripts, or other candidate documents.
+
+Your goal is NOT to preserve all information.
+
+Your goal is to create the smallest high-value profile that can support:
+
+* CV tailoring
+* Cover letter generation
+* Truthfulness auditing
+
+IMPORTANT:
+
+The final profile should be concise.
+
+Prefer compression over completeness.
+
+Do not repeat evidence.
+
+Do not store long descriptions.
+
+Do not store narrative text.
+
+Do not store recommendation letter text.
+
+Do not store thesis summaries.
+
+Do not store document summaries.
+
+Store only reusable career intelligence.
+
+Use generic source IDs such as DOC-001, DOC-002, DOC-003 in evidence references.
+
+Do not make the profile dependent on specific file names such as CV, thesis, references, or supplementary documents.
+
+====================
+RULES
+====================
+
+1. Merge duplicates aggressively.
+2. Keep only information useful for future job applications.
+3. Convert long project descriptions into keywords.
+4. Convert software evidence into compact entries.
+5. Keep only verified claims.
+6. If evidence is weak, place the claim in uncertain_claims.
+7. Create forbidden_claims for unsupported, risky, exaggerated, or unsafe wording.
+8. Use concise wording everywhere.
+9. Prefer lists over paragraphs.
+10. Every project should fit in a few lines.
+11. Limit evidence_index to the most important claims only.
+12. Do not create evidence entries for every skill, software, or project.
+13. Prefer evidence coverage over evidence completeness.
+14. Do not invent candidate identity, job titles, tools, methods, achievements, certifications, or languages.
+15. If the source evidence is unclear, leave the field empty or place the claim in uncertain_claims.
+16. Do not include personal, sensitive, or irrelevant information unless it is clearly useful for professional job applications.
+17. Preserve the exact top-level JSON structure shown below.
+18. Return JSON only.
+
+====================
+OUTPUT STRUCTURE
+====================
+
+{
+  "candidate_identity": {
+    "name": "",
+    "current_role": "",
+    "location": "",
+    "target_roles": []
+  },
+  "languages": [],
+  "certifications": [],
+  "education": [],
+  "career_timeline": [],
+  "verified_projects": [
+    {
+      "name": "",
+      "keywords": [],
+      "tools": [],
+      "domains": []
+    }
+  ],
+  "verified_skills": [],
+  "verified_software": [],
+  "verified_methods": [],
+  "verified_domains": [],
+  "verified_achievements": [],
+  "verified_strengths": [],
+  "safe_claim_bank": [],
+  "forbidden_claims": [],
+  "uncertain_claims": [],
+  "evidence_index": [
+    {
+      "claim": "",
+      "sources": []
+    }
+  ],
+  "metadata": {
+    "profile_type": "candidate_career_profile",
+    "compression_priority": "HIGH",
+    "version": "1.1"
+  }
+}
+
+====================
+FIELD GUIDELINES
+====================
+
+candidate_identity:
+Use only directly supported identity information.
+If a field is not supported by evidence, leave it empty.
+Do not guess target roles unless the source documents clearly support them.
+
+languages:
+Include only languages that appear in the source evidence.
+Use compact entries, for example:
+[
+  "English",
+  "Finnish",
+  "Persian"
+]
+Do not guess proficiency levels unless they are explicitly supported.
+
+certifications:
+Include only verified certifications, courses, licenses, or formal training that are career-relevant.
+Do not list normal degrees here; use education for degrees.
+
+education:
+Keep concise.
+Include degree, field, institution, location, dates, and thesis/topic only when useful and supported.
+
+career_timeline:
+Keep concise.
+Include roles, organizations, locations, dates, and compact responsibility keywords.
+Do not write narrative job descriptions.
+
+verified_projects:
+* maximum 20 projects
+* use keywords only
+* no long descriptions
+* include tools and domains only when supported by evidence
+* merge similar projects when possible
+
+verified_skills:
+* deduplicated
+* maximum 100 entries
+* use compact skill names
+* do not include weak or vague claims unless evidence is clear
+
+verified_software:
+* deduplicated
+* maximum 50 entries
+* include software only when supported by evidence
+* do not infer software from general domain knowledge
+
+verified_methods:
+Examples:
+
+* FEM
+* DOE
+* Topology Optimization
+* Injection Molding
+* Design for Manufacturing
+
+verified_domains:
+Examples:
+
+* Additive Manufacturing
+* Mechanical Design
+* Product Development
+* Manufacturing Engineering
+* Research
+
+verified_achievements:
+Use only concrete achievements supported by evidence.
+Avoid exaggeration.
+Avoid vague praise.
+
+verified_strengths:
+Use only repeated or clearly supported professional strengths.
+Prefer concise phrases.
+
+safe_claim_bank:
+Short reusable claims only.
+These claims should be safe to reuse in CVs and cover letters.
+
+Example:
+
+[
+  "Experience in additive manufacturing research",
+  "Hands-on experience with injection molding tooling",
+  "Experience with FEM-based engineering analysis"
+]
+
+forbidden_claims:
+Claims that should NOT be used in future CVs or cover letters because they are unsupported, risky, exaggerated, or too specific.
+
+Examples:
+
+[
+  "DFSS Black Belt",
+  "Certified Six Sigma Black Belt",
+  "10 years UPS industry experience"
+]
+
+uncertain_claims:
+Claims with incomplete, indirect, weak, ambiguous, or low-confidence evidence.
+
+Evidence_index:
+VERY COMPACT.
+Use only the most important source references.
+Use DOC IDs, not file-specific labels.
+
+Example:
+
+[
+  {
+    "claim": "PTC Creo",
+    "sources": [
+      "DOC-001",
+      "DOC-002"
+    ]
+  }
+]
+
+metadata:
+Keep the structure exactly as shown.
+
+====================
+TARGET SIZE
+====================
+
+Target final profile:
+
+3,000 - 10,000 tokens
+
+NOT 40,000+ tokens
+
+If information is not useful for:
+
+* CV generation
+* Cover letters
+* Truthfulness audit
+
+REMOVE IT.
+
+PROFILE SIZE IS MORE IMPORTANT THAN COMPLETENESS.
+
+If unsure whether information should be included,
+exclude it or place it in uncertain_claims.
+
+A smaller profile is preferred over a larger profile.

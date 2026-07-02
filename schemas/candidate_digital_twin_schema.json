@@ -1,0 +1,40 @@
+{
+  "candidate_identity": {
+    "name": "",
+    "current_role": "",
+    "location": "",
+    "target_roles": []
+  },
+  "languages": [],
+  "certifications": [],
+  "education": [],
+  "career_timeline": [],
+  "verified_projects": [
+    {
+      "name": "",
+      "keywords": [],
+      "tools": [],
+      "domains": []
+    }
+  ],
+  "verified_skills": [],
+  "verified_software": [],
+  "verified_methods": [],
+  "verified_domains": [],
+  "verified_achievements": [],
+  "verified_strengths": [],
+  "safe_claim_bank": [],
+  "forbidden_claims": [],
+  "uncertain_claims": [],
+  "evidence_index": [
+    {
+      "claim": "",
+      "sources": []
+    }
+  ],
+  "metadata": {
+    "profile_type": "candidate_career_profile",
+    "compression_priority": "HIGH",
+    "version": "1.1"
+  }
+}

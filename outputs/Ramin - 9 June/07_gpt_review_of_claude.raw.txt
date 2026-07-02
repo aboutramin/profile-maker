@@ -1,0 +1,69 @@
+{
+  "missing_items": [
+    "Advanced Casting Technology course grade 5 is verified in DOC-003 but is not included in verified_achievements, despite related casting/foundry skills being emphasized.",
+    "Aalto Production Engineering course context is underused: DOC-003 verifies grade 5 and top 5% performance, which supports manufacturing/production-engineering positioning beyond the general achievement line.",
+    "DOC-003 verifies a pass with distinction in the NC-exam for Manufacturing Methods 2; the profile lists it as an achievement but does not clarify that it is an exam/course achievement rather than a certification.",
+    "DOC-004 verifies additional manufacturing training/project details such as turning, milling, drilling, grooving, chamfering, Okuma CNC Lathe concepts, NC/CAD-CAM fundamentals, CNC code generation, and machining-time calculation; these are only compressed into broad CNC/CAD-CAM wording.",
+    "DOC-002 and DOC-004 verify specific thesis materials tested: Formlabs Rigid 10K, Formlabs High Temp, BASF Ultracur3D RG 3280, and Stratasys Digital ABS Plus. These are missing and could be useful for AM/tooling roles.",
+    "DOC-002 and DOC-004 verify Babyplast 6/12 and medical-grade LDPE Purell 2410T use in the thesis. The Babyplast item appears only in the safe claim bank, not in projects, methods, or tools.",
+    "DOC-002 verifies use of Keyence digital microscopy, thermal imaging, calipers, micrometers, Micro-Hite, and Mitutoyo digital indicator in thesis metrology. The profile compresses this mostly into CMM/digital microscopy and omits several specific instruments.",
+    "DOC-003 verifies TU Wien work involving lenses, cameras, laser-based elements, sample preparation, calibration/repeatability attention, and visualized data presentation; the profile includes photonic measurement broadly but misses some of these concrete referee-supported details.",
+    "DOC-001 verifies technical communication and customer coordination through a Tehran-based distributor and industrial clients including IKCO, Golgohar Mining & Industrial, and SSECO. The profile includes customer coordination generally but omits the named industrial-client context.",
+    "DOC-004 verifies Atron's Industrial Gas Pressure Regulator was released in February 2022; this is included in the project keyword list but not in the career timeline entry, where it could help distinguish employment dates from product milestone."
+  ],
+  "unsupported_claims": [
+    "The safe_claim_bank states: 'Mechanical engineer with M.Sc. in Additive Manufacturing and B.Sc. in Mechanical Engineering.' This conflicts with the profile's own forbidden/uncertain sections stating that master's degree conferral is not explicitly confirmed. DOC-001 lists the M.Sc., but DOC-002 and DOC-003 caution that degree award is not independently confirmed.",
+    "The Industrial Gas Pressure Regulator project lists tools 'PTC Creo' and 'Altair Inspire Cast'. DOC-001 supports CAD/design work for Atron but does not specifically tie PTC Creo to the regulator. DOC-004 ties Altair Inspire Casting to the Valve Casting project, not the Atron regulator. This tool attribution is unsupported or misassigned.",
+    "The label 'verified_projects' is too strong for several portfolio items from DOC-004, such as Topology Optimization, CubeSat, Sewing Machine Mechanism, Valve Casting, and Metal Printing Simulation. They are documented portfolio/project claims, but not externally verified professional projects.",
+    "The certifications section includes 'EIT Manufacturing scholarship recipient' and 'Dean's List' as certifications. DOC-001 supports them as achievements, not certifications.",
+    "The certifications section includes Summer School 2024, Winter School 2026, and INDUSAC innovation project certificates. DOC-004 only states that the portfolio contains these certificates, while extracted certificate details are blank. Calling them certifications in the main certifications list is stronger than the evidence supports.",
+    "The evidence_index claim 'CMM metrology (ZEISS DuraMax/Calypso)' cites DOC-002 and DOC-004. DOC-004 supports ZEISS DuraMax use; DOC-002 supports ZEISS Calypso plot protocols for CMM surface deviation maps. If phrased as direct ZEISS Calypso software proficiency, that would be stronger than the evidence.",
+    "The phrase 'full lifecycle' in the Atron project may imply individual ownership. DOC-004 uses collective wording that the Atron team managed the lifecycle, while DOC-001 supports the candidate leading mechanical design/product development and contributing to launch, not sole lifecycle ownership."
+  ],
+  "weak_evidence_claims": [
+    "Location 'Espoo, Finland (willing to relocate and travel)' is supported by DOC-003, but it appears on a portfolio cover page and may be self-presented rather than independently referee-confirmed.",
+    "English fluency and Persian native proficiency are supported by DOC-001, but no language certificate or test score is provided.",
+    "Python and VBA are listed in DOC-001, but no project-specific Python or VBA use is described. They should be treated as listed skills, not demonstrated project experience.",
+    "Materialise Magics is listed in DOC-001, but no project-specific usage is described. It should remain a listed tool rather than a demonstrated project tool.",
+    "GD&T, tolerance analysis, calibration, and failure analysis are supported mainly by CV skill lists and related thesis/metrology context, but no certification or detailed project examples are provided for each.",
+    "Co-founder/legal founder status at Atron is partly supported by DOC-001, while DOC-004 says he and colleagues established Atron. However, legal registration, equity, ownership percentage, and formal title are not independently verified.",
+    "Referee-based strengths such as 'Reliable, proactive, independent' and 'Bridges academic research with industrial needs' are supported by DOC-003 recommendation letters, but they are opinion-based and should not be presented as objective verified traits.",
+    "The topology optimization result of 75% mass reduction and safety factor 2.3 is explicitly stated in DOC-004, but only as a portfolio project result without calculations, validation data, or certification context.",
+    "BikePark '3rd place / 120 teams' is supported by DOC-004 and partly by DOC-001, but the candidate's individual contribution within the team is not specified.",
+    "CubeSat prototype success is supported by DOC-004, but there is no evidence of flight qualification, launch, formal testing, or space-industry validation."
+  ],
+  "compression_opportunities": [
+    "The thesis appears repeatedly across education, career timeline, verified_projects, verified_skills, verified_methods, verified_achievements, safe_claim_bank, and evidence_index. It could be compressed into one thesis/project block plus linked keywords.",
+    "The profile duplicates risk controls by including both forbidden_claims and uncertain_claims, while also embedding cautionary notes in education and certifications. These could be merged into a single 'risk flags' or 'claim boundaries' section.",
+    "The verified_skills, verified_methods, and verified_domains sections overlap heavily. For example, injection molding, micro-injection molding, DFM/DFA, FEM, MBS, topology optimization, casting, and metrology appear in multiple places.",
+    "The verified_software section could distinguish 'project-used tools' from 'listed-only tools' instead of presenting one long flat list.",
+    "Several portfolio projects from DOC-004 could be grouped under 'Selected academic/portfolio projects' rather than each occupying a full verified project entry.",
+    "The evidence_index is useful for auditability but duplicates many claims already present in the profile. If compression priority is high, it could be shortened to source IDs per major section.",
+    "Certifications and achievements should be separated. Dean's List, scholarship, course grades, and challenge placements are achievements; Summer/Winter School and INDUSAC items are weakly extracted certificates."
+  ],
+  "recommended_additions": [
+    "Add Advanced Casting Technology course grade 5 from DOC-003, preferably under academic achievements or coursework rather than certifications.",
+    "Add thesis grade 5 source context from DOC-003 more clearly, while preserving the caveat that degree conferral is not explicitly confirmed.",
+    "Add specific thesis equipment/materials where relevant for AM/tooling roles: Babyplast 6/12, LDPE Purell 2410T, Rigid 10K, High Temp, Ultracur3D RG 3280, Digital ABS Plus, Keyence digital microscope, and thermal imaging, all supported by DOC-002 and DOC-004.",
+    "Add Atron product milestone 'released February 2022' as a milestone, not as proof of commercial scale, supported by DOC-004.",
+    "Add TU Wien referee-supported details such as optical component alignment involving lenses, cameras, and laser-based elements, plus calibration/repeatability attention, supported by DOC-003.",
+    "Add manufacturing training details from DOC-004 for roles requiring practical manufacturing exposure: turning, milling, drilling, NC/CAD-CAM fundamentals, CNC code generation, and machining-time calculation.",
+    "Add named source-bound caveat that Karl Storz was a thesis collaboration / thesis-student context, not ordinary full-time employment, because this boundary is repeatedly important across DOC-001, DOC-002, and DOC-003.",
+    "Add distinction between 'listed software' and 'project-demonstrated software' to improve truthfulness for Python, VBA, Materialise Magics, and some CAD/CAE tools."
+  ],
+  "recommended_removals": [
+    "Remove or reclassify Summer School 2024, Winter School 2026, and INDUSAC certificates from the main certifications list unless certificate details are extracted or separately verified. Keep them only as weak/uncertain portfolio items.",
+    "Remove 'Altair Inspire Cast' from the Industrial Gas Pressure Regulator project tools unless another source ties it to Atron; DOC-004 ties it to the Valve Casting project.",
+    "Remove or soften 'Mechanical engineer with M.Sc. in Additive Manufacturing' from the safe_claim_bank unless degree conferral is confirmed. Safer wording should reflect that the M.Sc. is listed in DOC-001 but not independently confirmed by diploma/transcript.",
+    "Remove 'certifications' classification for Dean's List and EIT Manufacturing scholarship; these should be achievements or honors.",
+    "Remove or soften opinion-based traits from 'verified_strengths' such as reliable, proactive, independent, and bridging academic research with industrial needs. These are referee-supported, not objectively verified.",
+    "Remove implication that all project portfolio items are 'verified' in the same sense as employment or thesis documents. Label them as documented portfolio projects.",
+    "Avoid keeping both 'Completed/awarded master's degree' in forbidden_claims and 'Mechanical engineer with M.Sc.' in safe_claim_bank because this creates internal inconsistency.",
+    "Remove or qualify any wording that implies individual full-lifecycle ownership of the Atron regulator; evidence supports team lifecycle work and individual mechanical design/product development contribution."
+  ],
+  "overall_assessment": "The profile is highly comprehensive and generally evidence-aware, with useful source-bound caution sections. Its main weaknesses are over-compression into 'verified' labels, misclassification of achievements as certifications, a few tool-attribution errors, and an internal contradiction around the M.Sc. degree being both claimed and flagged as not explicitly conferred. It is strong for career tailoring but should separate verified employment/thesis facts from portfolio projects, listed skills, referee opinions, and weak certificate claims.",
+  "review_metadata": {
+    "review_type": "cross_review",
+    "version": "1.0"
+  }
+}

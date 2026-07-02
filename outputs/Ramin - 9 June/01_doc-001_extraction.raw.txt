@@ -1,0 +1,1189 @@
+{
+  "source_id": "DOC-001",
+  "source_type_inferred_from_content": "CV/resume",
+  "high_value_claims": [
+    {
+      "claim": "The candidate presents themselves as a Mechanical Engineer with an M.Sc. in Additive Manufacturing.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "Mechanical Engineer with an M.Sc. in Additive Manufacturing",
+      "confidence": "HIGH",
+      "safe_wording": "Mechanical Engineer with an M.Sc. in Additive Manufacturing, as stated in the CV.",
+      "risk_note": "Degree completion is supported by the education section, but no diploma or transcript is included."
+    },
+    {
+      "claim": "The candidate has experience in mechanical design, product development, manufacturing, prototyping, and measurement-driven validation.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "hands-on experience in mechanical design, product development, manufacturing, prototyping, and measurement-driven validation",
+      "confidence": "HIGH",
+      "safe_wording": "Has documented CV experience in mechanical design, product development, manufacturing, prototyping, and measurement-driven validation.",
+      "risk_note": "This is self-reported in a CV and should not be overstated as independently verified."
+    },
+    {
+      "claim": "The candidate has experience with additive manufacturing workflows and laser metal additive manufacturing research.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "Skilled in ... additive manufacturing workflows; Laser Metal Additive Manufacturing Researcher; Contribute to a laser metal additive manufacturing research project",
+      "confidence": "HIGH",
+      "safe_wording": "Has CV-documented additive manufacturing experience, including laser metal additive manufacturing research.",
+      "risk_note": "The exact technical depth of laser metal AM work is not fully described beyond listed responsibilities."
+    },
+    {
+      "claim": "The candidate co-founded a hardware startup focused on industrial gas equipment and contributed to launching an industrial gas pressure regulator.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "Co-founded an industrial gas equipment startup and contributed to the launch of its first product, an Industrial Gas Pressure Regulator, after an 18-month development cycle.",
+      "confidence": "HIGH",
+      "safe_wording": "Co-founded an industrial gas equipment startup and contributed to launching its first product, an Industrial Gas Pressure Regulator.",
+      "risk_note": "Commercial performance, revenue, market share, and scale of launch are not stated."
+    },
+    {
+      "claim": "The candidate has experience coordinating suppliers and manufacturing partners.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "Coordinated suppliers and manufacturing partners for component fabrication, tooling, material selection, quality control, and production troubleshooting.",
+      "confidence": "HIGH",
+      "safe_wording": "Has CV-documented experience coordinating suppliers and manufacturing partners.",
+      "risk_note": "The number of suppliers, contract value, and scope of authority are not stated."
+    }
+  ],
+  "experience": [
+    {
+      "role": "Laser Metal Additive Manufacturing Researcher",
+      "organization": "University of Turku",
+      "location": "Finland",
+      "dates": "April 2026 -- Now",
+      "claims": [
+        {
+          "claim": "The candidate works as a Laser Metal Additive Manufacturing Researcher at the University of Turku in Finland.",
+          "source_id": "DOC-001",
+          "source_type_inferred_from_content": "CV/resume",
+          "evidence": "Laser Metal Additive Manufacturing Researcher; April 2026 -- Now; University of Turku, Finland",
+          "confidence": "HIGH",
+          "safe_wording": "Listed as Laser Metal Additive Manufacturing Researcher at the University of Turku, Finland, from April 2026 to present.",
+          "risk_note": "Employment status and contract type are not specified."
+        },
+        {
+          "claim": "The candidate contributes to a laser metal additive manufacturing research project involving technical development, commercialization, and market validation.",
+          "source_id": "DOC-001",
+          "source_type_inferred_from_content": "CV/resume",
+          "evidence": "Contribute to a laser metal additive manufacturing research project combining technical development, commercialization, and market validation.",
+          "confidence": "HIGH",
+          "safe_wording": "Contributes to a laser metal AM research project with technical development, commercialization, and market validation elements.",
+          "risk_note": "The level of technical ownership is not specified."
+        },
+        {
+          "claim": "The candidate conducts stakeholder and expert interviews to capture application needs, adoption barriers, and technical requirements.",
+          "source_id": "DOC-001",
+          "source_type_inferred_from_content": "CV/resume",
+          "evidence": "Conduct stakeholder and expert interviews with potential users, partners, and industry contacts to capture application needs, adoption barriers, and technical requirements.",
+          "confidence": "HIGH",
+          "safe_wording": "Conducts stakeholder and expert interviews related to laser metal AM applications.",
+          "risk_note": "The number of interviews and interview methodology are not stated."
+        },
+        {
+          "claim": "The candidate uses NVivo to analyze qualitative interview data.",
+          "source_id": "DOC-001",
+          "source_type_inferred_from_content": "CV/resume",
+          "evidence": "Analyze qualitative interview data using NVivo",
+          "confidence": "HIGH",
+          "safe_wording": "Uses NVivo for qualitative interview data analysis.",
+          "risk_note": "Proficiency level is not independently verified."
+        },
+        {
+          "claim": "The candidate supports market research, competitor analysis, commercialization planning, IP-related documentation, project deliverables, and technical development planning inputs.",
+          "source_id": "DOC-001",
+          "source_type_inferred_from_content": "CV/resume",
+          "evidence": "Support market research, competitor analysis, and commercialization planning... Prepare IP-related documentation, project deliverables, and structured inputs for future technical development planning.",
+          "confidence": "HIGH",
+          "safe_wording": "Supports market research, competitor analysis, commercialization planning, IP-related documentation, and project deliverables.",
+          "risk_note": "No specific deliverables, IP filings, or commercialization outcomes are provided."
+        }
+      ]
+    },
+    {
+      "role": "Master Thesis Student -- Manufacturing / Additive Manufacturing Engineering",
+      "organization": "Karl Storz",
+      "location": "Estonia",
+      "dates": "April 2025 -- December 2025",
+      "claims": [
+        {
+          "claim": "The candidate completed or undertook a master thesis role at Karl Storz, described as a medical devices manufacturer, in Estonia.",
+          "source_id": "DOC-001",
+          "source_type_inferred_from_content": "CV/resume",
+          "evidence": "Master Thesis Student -- Manufacturing / Additive Manufacturing Engineering; April 2025 -- December 2025; Karl Storz (Medical Devices Manufacturer), Estonia",
+          "confidence": "HIGH",
+          "safe_wording": "Listed as a Master Thesis Student in Manufacturing / Additive Manufacturing Engineering at Karl Storz in Estonia from April to December 2025.",
+          "risk_note": "Do not present this as regular full-time industry employment unless confirmed; it is specifically labeled as a master thesis student role."
+        },
+        {
+          "claim": "The thesis work involved additive-manufacturing-supported tooling concepts for manufacturing validation of small, thin-walled polymer components.",
+          "source_id": "DOC-001",
+          "source_type_inferred_from_content": "CV/resume",
+          "evidence": "Developed and evaluated additive-manufacturing-supported tooling concepts for manufacturing validation of small, thin-walled polymer components.",
+          "confidence": "HIGH",
+          "safe_wording": "Worked on AM-supported tooling concepts for manufacturing validation of small, thin-walled polymer components.",
+          "risk_note": "The document does not identify the exact component, material, or production process beyond polymer components and tooling."
+        },
+        {
+          "claim": "The candidate designed mold insert assemblies, parting surfaces, and alignment/slider concepts in PTC Creo.",
+          "source_id": "DOC-001",
+          "source_type_inferred_from_content": "CV/resume",
+          "evidence": "Designed mold insert assemblies, parting surfaces, and alignment/slider concepts in PTC Creo",
+          "confidence": "HIGH",
+          "safe_wording": "Designed mold insert assemblies, parting surfaces, and alignment/slider concepts using PTC Creo.",
+          "risk_note": "No drawings, models, or design outputs are included."
+        },
+        {
+          "claim": "The candidate used Autodesk Moldflow to evaluate gate location, pressure/flow feasibility, and process behavior.",
+          "source_id": "DOC-001",
+          "source_type_inferred_from_content": "CV/resume",
+          "evidence": "Used Autodesk Moldflow to evaluate gate location, pressure/flow feasibility, and process behavior of physical trials.",
+          "confidence": "HIGH",
+          "safe_wording": "Used Autodesk Moldflow for gate-location, pressure/flow feasibility, and process-behavior evaluation.",
+          "risk_note": "Simulation complexity and validation results are not quantified."
+        },
+        {
+          "claim": "The candidate conducted experimental trials and metrology-based evaluations using CMM, microscopy, and profilometry.",
+          "source_id": "DOC-001",
+          "source_type_inferred_from_content": "CV/resume",
+          "evidence": "Conducted structured experimental trials and metrology-based evaluation using CMM, microscopy, and profilometry",
+          "confidence": "HIGH",
+          "safe_wording": "Conducted experimental trials and metrology-based evaluation using CMM, microscopy, and profilometry.",
+          "risk_note": "Instrument models, measurement uncertainty, and sample size are not stated."
+        }
+      ]
+    },
+    {
+      "role": "Research Assistant -- Photonic Measurement Systems",
+      "organization": "Institute of Production Engineering and Photonic Technologies - TU Wien",
+      "location": "Austria",
+      "dates": "October 2024 -- March 2025",
+      "claims": [
+        {
+          "claim": "The candidate worked as a Research Assistant in Photonic Measurement Systems at TU Wien in Austria.",
+          "source_id": "DOC-001",
+          "source_type_inferred_from_content": "CV/resume",
+          "evidence": "Research Assistant -- Photonic Measurement Systems; October 2024 -- March 2025; Institute of Production Engineering and Photonic Technologies - TU Wien, Austria",
+          "confidence": "HIGH",
+          "safe_wording": "Listed as Research Assistant -- Photonic Measurement Systems at TU Wien from October 2024 to March 2025.",
+          "risk_note": "Employment type and working hours are not specified."
+        },
+        {
+          "claim": "The candidate designed and fabricated precision opto-mechanical fixtures for cylindrical and curved samples.",
+          "source_id": "DOC-001",
+          "source_type_inferred_from_content": "CV/resume",
+          "evidence": "Designed and fabricated precision opto-mechanical fixtures for cylindrical and curved samples",
+          "confidence": "HIGH",
+          "safe_wording": "Designed and fabricated opto-mechanical fixtures for cylindrical and curved samples.",
+          "risk_note": "Precision level and tolerances are not provided."
+        },
+        {
+          "claim": "The candidate developed rotary and linear motion stages for controlled dynamic measurement workflows.",
+          "source_id": "DOC-001",
+          "source_type_inferred_from_content": "CV/resume",
+          "evidence": "Developed rotary and linear motion stages to enable controlled dynamic measurement workflows for foils, vials, and PET bottles.",
+          "confidence": "HIGH",
+          "safe_wording": "Developed rotary and linear motion stages for dynamic measurement workflows.",
+          "risk_note": "The document does not state whether stages were automated, manually operated, or production-grade."
+        },
+        {
+          "claim": "The candidate operated and optimized real-time imaging ellipsometry setups for thin-film analysis.",
+          "source_id": "DOC-001",
+          "source_type_inferred_from_content": "CV/resume",
+          "evidence": "Operated and optimized real-time imaging ellipsometry setups for thin-film analysis on moving webs and complex geometries.",
+          "confidence": "HIGH",
+          "safe_wording": "Operated and optimized real-time imaging ellipsometry setups for thin-film analysis.",
+          "risk_note": "No specific optimization metrics are stated."
+        },
+        {
+          "claim": "The candidate processed measurement data using in-house software and benchmarked sensor performance against commercial laboratory equipment.",
+          "source_id": "DOC-001",
+          "source_type_inferred_from_content": "CV/resume",
+          "evidence": "Processed measurement data using in-house software and benchmarked sensor performance against commercial laboratory equipment.",
+          "confidence": "HIGH",
+          "safe_wording": "Processed measurement data and benchmarked sensor performance against commercial laboratory equipment.",
+          "risk_note": "The in-house software name and benchmarking results are not given."
+        }
+      ]
+    },
+    {
+      "role": "Mechanical Engineer & Co-founder",
+      "organization": "Atron",
+      "location": null,
+      "dates": "August 2020 -- August 2023",
+      "claims": [
+        {
+          "claim": "The candidate was Mechanical Engineer and Co-founder at Atron, a hardware startup focused on industrial control equipment.",
+          "source_id": "DOC-001",
+          "source_type_inferred_from_content": "CV/resume",
+          "evidence": "Mechanical Engineer & Co-founder; August 2020 -- August 2023; Atron (Hardware Startup -- Industrial Control Equipment)",
+          "confidence": "HIGH",
+          "safe_wording": "Listed as Mechanical Engineer and Co-founder at Atron from August 2020 to August 2023.",
+          "risk_note": "Company registration, ownership percentage, and legal role are not provided."
+        },
+        {
+          "claim": "The candidate led mechanical design and product development for a regulator assembly with more than 60 components.",
+          "source_id": "DOC-001",
+          "source_type_inferred_from_content": "CV/resume",
+          "evidence": "Led mechanical design and product development for a regulator assembly with 60+ components",
+          "confidence": "HIGH",
+          "safe_wording": "Led mechanical design and product development for a 60+ component regulator assembly.",
+          "risk_note": "Leadership scope, team size, and final product validation standard are not stated."
+        },
+        {
+          "claim": "The candidate took product concepts through CAD design, prototyping, manufacturing coordination, testing, assembly, and delivery.",
+          "source_id": "DOC-001",
+          "source_type_inferred_from_content": "CV/resume",
+          "evidence": "taking concepts through CAD design, prototyping, manufacturing coordination, testing, assembly, and delivery",
+          "confidence": "HIGH",
+          "safe_wording": "Worked across CAD design, prototyping, manufacturing coordination, testing, assembly, and delivery for the regulator product.",
+          "risk_note": "Do not infer formal full-cycle product ownership beyond the responsibilities stated."
+        },
+        {
+          "claim": "The candidate applied DFM/DFA and manufacturing planning across casting, rubber injection molding, CNC machining, laser cutting, pressing, assembly, and painting/coating.",
+          "source_id": "DOC-001",
+          "source_type_inferred_from_content": "CV/resume",
+          "evidence": "Applied DFM/DFA and manufacturing planning across conventional processes, including casting, rubber injection molding, CNC machining, laser cutting, pressing, assembly, and painting/coating.",
+          "confidence": "HIGH",
+          "safe_wording": "Applied DFM/DFA and manufacturing planning across multiple conventional manufacturing processes.",
+          "risk_note": "Depth of expertise in each individual process is not specified."
+        },
+        {
+          "claim": "The candidate supported technical communication, product delivery, and customer coordination through a Tehran-based distributor and direct industrial clients.",
+          "source_id": "DOC-001",
+          "source_type_inferred_from_content": "CV/resume",
+          "evidence": "Supported technical communication, product delivery, and customer coordination through a Tehran-based distributor and direct industrial clients, including IKCO, Golgohar Mining & Industrial, and SSECO.",
+          "confidence": "HIGH",
+          "safe_wording": "Supported technical communication, product delivery, and customer coordination with a distributor and industrial clients.",
+          "risk_note": "Client relationship depth, contract status, and revenue are not stated."
+        }
+      ]
+    },
+    {
+      "role": "Mechanical Engineer & Operations Supervisor",
+      "organization": "Novin Technic",
+      "location": null,
+      "dates": "July 2018 -- July 2020",
+      "claims": [
+        {
+          "claim": "The candidate worked as Mechanical Engineer and Operations Supervisor at Novin Technic.",
+          "source_id": "DOC-001",
+          "source_type_inferred_from_content": "CV/resume",
+          "evidence": "Mechanical Engineer & Operations Supervisor; July 2018 -- July 2020; Novin Technic (Manufacturer of display systems for textiles and flooring)",
+          "confidence": "HIGH",
+          "safe_wording": "Listed as Mechanical Engineer and Operations Supervisor at Novin Technic from July 2018 to July 2020.",
+          "risk_note": "Location and reporting structure are not stated."
+        },
+        {
+          "claim": "The candidate collaborated with engineering to improve existing products and support new developments.",
+          "source_id": "DOC-001",
+          "source_type_inferred_from_content": "CV/resume",
+          "evidence": "Collaborated with the engineering team to improve existing products and support new developments",
+          "confidence": "HIGH",
+          "safe_wording": "Collaborated with engineering teams on product improvements and new developments.",
+          "risk_note": "Specific products and results are not listed."
+        },
+        {
+          "claim": "The candidate created technical documentation and process standards.",
+          "source_id": "DOC-001",
+          "source_type_inferred_from_content": "CV/resume",
+          "evidence": "creating technical documentation and process standards",
+          "confidence": "HIGH",
+          "safe_wording": "Created technical documentation and process standards.",
+          "risk_note": "Document types and standards are not specified."
+        },
+        {
+          "claim": "The candidate coordinated production workflows and inventory management.",
+          "source_id": "DOC-001",
+          "source_type_inferred_from_content": "CV/resume",
+          "evidence": "Coordinated production workflows and inventory management to streamline manufacturing execution and improve delivery reliability.",
+          "confidence": "HIGH",
+          "safe_wording": "Coordinated production workflows and inventory management.",
+          "risk_note": "No quantitative delivery or efficiency improvement is provided."
+        },
+        {
+          "claim": "The candidate developed Excel-based analytical tools for production scheduling and cost analysis.",
+          "source_id": "DOC-001",
+          "source_type_inferred_from_content": "CV/resume",
+          "evidence": "Developed analytical tools (Excel-based) for production scheduling and cost analysis",
+          "confidence": "HIGH",
+          "safe_wording": "Developed Excel-based tools for production scheduling and cost analysis.",
+          "risk_note": "Tool complexity and adoption level are not specified."
+        },
+        {
+          "claim": "The candidate supported technical communication for international exhibitions and customers.",
+          "source_id": "DOC-001",
+          "source_type_inferred_from_content": "CV/resume",
+          "evidence": "Supported technical communication for international exhibitions and customers",
+          "confidence": "HIGH",
+          "safe_wording": "Supported technical communication for international exhibitions and customers.",
+          "risk_note": "The countries, exhibition names, and communication languages are not stated."
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.Sc. Additive Manufacturing",
+      "institution": "Aalto University & Vienna University of Technology",
+      "location": "Finland and Austria",
+      "dates": "2023 -- 2025",
+      "claims": [
+        {
+          "claim": "The candidate completed or lists an M.Sc. in Additive Manufacturing from Aalto University and Vienna University of Technology.",
+          "source_id": "DOC-001",
+          "source_type_inferred_from_content": "CV/resume",
+          "evidence": "M.Sc. Additive Manufacturing; 2023 -- 2025; Aalto University (Finland) & Vienna University of Technology (Austria) -- GPA 4.7/5",
+          "confidence": "HIGH",
+          "safe_wording": "Lists an M.Sc. in Additive Manufacturing from Aalto University and Vienna University of Technology, 2023--2025, GPA 4.7/5.",
+          "risk_note": "No official transcript or degree certificate is included."
+        }
+      ]
+    },
+    {
+      "degree": "B.Sc. Mechanical Engineering",
+      "institution": "Azad University",
+      "location": null,
+      "dates": "2009 -- 2014",
+      "claims": [
+        {
+          "claim": "The candidate lists a B.Sc. in Mechanical Engineering from Azad University.",
+          "source_id": "DOC-001",
+          "source_type_inferred_from_content": "CV/resume",
+          "evidence": "B.Sc. Mechanical Engineering; 2009 -- 2014; Azad University",
+          "confidence": "HIGH",
+          "safe_wording": "Lists a B.Sc. in Mechanical Engineering from Azad University, 2009--2014.",
+          "risk_note": "No official transcript or degree certificate is included."
+        }
+      ]
+    },
+    {
+      "degree": "B.Sc. Industrial Management",
+      "institution": "Payam Noor University",
+      "location": null,
+      "dates": "2010 -- 2015",
+      "claims": [
+        {
+          "claim": "The candidate lists a B.Sc. in Industrial Management from Payam Noor University.",
+          "source_id": "DOC-001",
+          "source_type_inferred_from_content": "CV/resume",
+          "evidence": "B.Sc. Industrial Management; 2010 -- 2015; Payam Noor University",
+          "confidence": "HIGH",
+          "safe_wording": "Lists a B.Sc. in Industrial Management from Payam Noor University, 2010--2015.",
+          "risk_note": "No official transcript or degree certificate is included."
+        }
+      ]
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Fluent",
+      "claim": "The candidate lists English as fluent.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "English (Fluent)",
+      "confidence": "HIGH",
+      "safe_wording": "English listed as fluent.",
+      "risk_note": "No language test score or certificate is provided."
+    },
+    {
+      "language": "Persian",
+      "proficiency": "Native",
+      "claim": "The candidate lists Persian as native.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "Persian (Native)",
+      "confidence": "HIGH",
+      "safe_wording": "Persian listed as native.",
+      "risk_note": "No independent language verification is provided."
+    }
+  ],
+  "projects": [
+    {
+      "project": "Industrial Gas Pressure Regulator",
+      "organization_context": "Atron",
+      "claims": [
+        {
+          "claim": "The candidate contributed to launching an Industrial Gas Pressure Regulator after an 18-month development cycle.",
+          "source_id": "DOC-001",
+          "source_type_inferred_from_content": "CV/resume",
+          "evidence": "contributed to the launch of its first product, an Industrial Gas Pressure Regulator, after an 18-month development cycle",
+          "confidence": "HIGH",
+          "safe_wording": "Contributed to launching an Industrial Gas Pressure Regulator after an 18-month development cycle.",
+          "risk_note": "No market performance, certification, sales numbers, or production volume are stated."
+        },
+        {
+          "claim": "The regulator assembly had more than 60 components.",
+          "source_id": "DOC-001",
+          "source_type_inferred_from_content": "CV/resume",
+          "evidence": "regulator assembly with 60+ components",
+          "confidence": "HIGH",
+          "safe_wording": "Worked on a regulator assembly described as having 60+ components.",
+          "risk_note": "The component count is self-reported in the CV."
+        }
+      ]
+    },
+    {
+      "project": "Laser metal additive manufacturing research project",
+      "organization_context": "University of Turku",
+      "claims": [
+        {
+          "claim": "The project combines technical development, commercialization, and market validation for laser metal additive manufacturing applications.",
+          "source_id": "DOC-001",
+          "source_type_inferred_from_content": "CV/resume",
+          "evidence": "laser metal additive manufacturing research project combining technical development, commercialization, and market validation",
+          "confidence": "HIGH",
+          "safe_wording": "Participates in a laser metal AM research project with technical development, commercialization, and market validation elements.",
+          "risk_note": "Specific technical outcomes are not described."
+        }
+      ]
+    },
+    {
+      "project": "Rail Innovation Challenge - Team BikePark",
+      "organization_context": "FERROCAMPUS, France",
+      "claims": [
+        {
+          "claim": "The candidate achieved 3rd place with Team BikePark in the Rail Innovation Challenge by FERROCAMPUS in France in 2024.",
+          "source_id": "DOC-001",
+          "source_type_inferred_from_content": "CV/resume",
+          "evidence": "3rd place (Team BikePark), Rail Innovation Challenge by FERROCAMPUS (France, 2024)",
+          "confidence": "HIGH",
+          "safe_wording": "Placed 3rd with Team BikePark in the 2024 Rail Innovation Challenge by FERROCAMPUS.",
+          "risk_note": "The candidate's individual contribution to the team result is not described."
+        }
+      ]
+    }
+  ],
+  "research_or_thesis_evidence": [
+    {
+      "type": "Master thesis",
+      "topic_or_area": "Manufacturing / Additive Manufacturing Engineering",
+      "organization": "Karl Storz",
+      "dates": "April 2025 -- December 2025",
+      "claims": [
+        {
+          "claim": "The candidate's thesis work involved AM-supported tooling concepts for manufacturing validation of small, thin-walled polymer components.",
+          "source_id": "DOC-001",
+          "source_type_inferred_from_content": "CV/resume",
+          "evidence": "Master Thesis Student -- Manufacturing / Additive Manufacturing Engineering; Developed and evaluated additive-manufacturing-supported tooling concepts for manufacturing validation of small, thin-walled polymer components.",
+          "confidence": "HIGH",
+          "safe_wording": "Thesis work involved AM-supported tooling concepts for manufacturing validation of small, thin-walled polymer components.",
+          "risk_note": "Thesis title, supervisor, and final thesis grade are not provided."
+        }
+      ]
+    },
+    {
+      "type": "Research assistantship",
+      "topic_or_area": "Photonic Measurement Systems",
+      "organization": "Institute of Production Engineering and Photonic Technologies - TU Wien",
+      "dates": "October 2024 -- March 2025",
+      "claims": [
+        {
+          "claim": "The candidate conducted research assistant work involving opto-mechanical fixtures, dynamic measurement workflows, real-time imaging ellipsometry, and measurement data processing.",
+          "source_id": "DOC-001",
+          "source_type_inferred_from_content": "CV/resume",
+          "evidence": "Research Assistant -- Photonic Measurement Systems; Designed and fabricated precision opto-mechanical fixtures... Developed rotary and linear motion stages... Operated and optimized real-time imaging ellipsometry setups... Processed measurement data",
+          "confidence": "HIGH",
+          "safe_wording": "Research assistant experience in photonic measurement systems, opto-mechanical fixtures, motion stages, imaging ellipsometry, and measurement data processing.",
+          "risk_note": "No publication output or funded project title is stated."
+        }
+      ]
+    },
+    {
+      "type": "Research project",
+      "topic_or_area": "Laser metal additive manufacturing",
+      "organization": "University of Turku",
+      "dates": "April 2026 -- Now",
+      "claims": [
+        {
+          "claim": "The candidate contributes to research related to laser metal additive manufacturing and commercialization planning.",
+          "source_id": "DOC-001",
+          "source_type_inferred_from_content": "CV/resume",
+          "evidence": "Contribute to a laser metal additive manufacturing research project combining technical development, commercialization, and market validation.",
+          "confidence": "HIGH",
+          "safe_wording": "Contributes to a laser metal additive manufacturing research project involving commercialization and market validation.",
+          "risk_note": "No publication, patent, or experimental laser metal AM results are stated."
+        }
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "skill_area": "Mechanical design and product development",
+      "items": [
+        "CAD design",
+        "assembly design",
+        "prototyping",
+        "testing & validation",
+        "DFM/DFA",
+        "technical drawings",
+        "GD&T",
+        "design reviews"
+      ],
+      "claim": "The candidate lists mechanical design and product development skills including CAD design, assembly design, prototyping, testing and validation, DFM/DFA, technical drawings, GD&T, and design reviews.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "Mechanical Design & Product Development: CAD design, assembly design, prototyping, testing & validation, DFM/DFA, technical drawings, GD&T, design reviews",
+      "confidence": "HIGH",
+      "safe_wording": "Lists skills in CAD design, assembly design, prototyping, testing and validation, DFM/DFA, technical drawings, GD&T, and design reviews.",
+      "risk_note": "Skill level for each item is not explicitly rated."
+    },
+    {
+      "skill_area": "Manufacturing and process knowledge",
+      "items": [
+        "machining",
+        "casting",
+        "welding",
+        "laser cutting",
+        "pressing",
+        "assembly",
+        "painting/coating",
+        "plastic/rubber injection molding",
+        "process troubleshooting"
+      ],
+      "claim": "The candidate lists manufacturing and process knowledge in machining, casting, welding, laser cutting, pressing, assembly, painting/coating, plastic/rubber injection molding, and process troubleshooting.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "Manufacturing & Process Knowledge: Machining, casting, welding, laser cutting, pressing, assembly, painting/coating, plastic/rubber injection molding, process troubleshooting",
+      "confidence": "HIGH",
+      "safe_wording": "Lists manufacturing/process knowledge across machining, casting, welding, laser cutting, pressing, assembly, coating, injection molding, and troubleshooting.",
+      "risk_note": "The document does not define proficiency level for each process."
+    },
+    {
+      "skill_area": "Additive manufacturing",
+      "items": [
+        "SLA/MSLA",
+        "FDM",
+        "PolyJet",
+        "build preparation",
+        "support strategy",
+        "post-processing",
+        "AM process simulation"
+      ],
+      "claim": "The candidate lists additive manufacturing skills including SLA/MSLA, FDM, PolyJet, build preparation, support strategy, post-processing, and AM process simulation.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "Additive Manufacturing: SLA/MSLA, FDM, PolyJet, build preparation, support strategy, post-processing, AM process simulation",
+      "confidence": "HIGH",
+      "safe_wording": "Lists additive manufacturing skills in SLA/MSLA, FDM, PolyJet, build preparation, support strategy, post-processing, and AM process simulation.",
+      "risk_note": "The document does not separately evidence hands-on work with every listed AM process."
+    },
+    {
+      "skill_area": "Metrology and validation",
+      "items": [
+        "CMM",
+        "profilometry",
+        "digital microscopy",
+        "dimensional inspection",
+        "calibration",
+        "tolerance analysis",
+        "failure analysis",
+        "test reporting"
+      ],
+      "claim": "The candidate lists metrology and validation skills including CMM, profilometry, digital microscopy, dimensional inspection, calibration, tolerance analysis, failure analysis, and test reporting.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "Metrology & Validation: CMM, profilometry, digital microscopy, dimensional inspection, calibration, tolerance analysis, failure analysis, test reporting",
+      "confidence": "HIGH",
+      "safe_wording": "Lists metrology and validation skills including CMM, profilometry, microscopy, dimensional inspection, calibration, tolerance analysis, failure analysis, and reporting.",
+      "risk_note": "No certification or formal metrology qualification is provided."
+    },
+    {
+      "skill_area": "Data and productivity",
+      "items": [
+        "Excel",
+        "VBA",
+        "Python",
+        "NVivo"
+      ],
+      "claim": "The candidate lists Excel, VBA, Python, and NVivo under data and productivity.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "Data & Productivity: Excel, VBA, Python, NVivo",
+      "confidence": "HIGH",
+      "safe_wording": "Lists Excel, VBA, Python, and NVivo.",
+      "risk_note": "Proficiency levels are not specified."
+    }
+  ],
+  "software_tools": [
+    {
+      "tool": "PTC Creo",
+      "claim": "The candidate lists and has role evidence of using PTC Creo.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "PTC Creo; Designed mold insert assemblies, parting surfaces, and alignment/slider concepts in PTC Creo",
+      "confidence": "HIGH",
+      "safe_wording": "Uses PTC Creo for CAD design tasks.",
+      "risk_note": "Certification level is not stated."
+    },
+    {
+      "tool": "Siemens NX",
+      "claim": "The candidate lists Siemens NX as engineering software.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "CAD / CAE / Engineering Software: PTC Creo, Siemens NX...",
+      "confidence": "HIGH",
+      "safe_wording": "Lists Siemens NX as CAD/CAE engineering software.",
+      "risk_note": "No project-specific use of Siemens NX is described."
+    },
+    {
+      "tool": "Autodesk Moldflow",
+      "claim": "The candidate lists and used Autodesk Moldflow for process evaluation.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "Autodesk Moldflow; Used Autodesk Moldflow to evaluate gate location, pressure/flow feasibility, and process behavior",
+      "confidence": "HIGH",
+      "safe_wording": "Used Autodesk Moldflow for gate-location and pressure/flow feasibility evaluation.",
+      "risk_note": "Simulation depth and results are not quantified."
+    },
+    {
+      "tool": "Altair Inspire",
+      "claim": "The candidate lists Altair Inspire as engineering software.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "CAD / CAE / Engineering Software: ... Altair Inspire",
+      "confidence": "HIGH",
+      "safe_wording": "Lists Altair Inspire as engineering software.",
+      "risk_note": "No project-specific evidence is provided."
+    },
+    {
+      "tool": "Altair Inspire Cast",
+      "claim": "The candidate lists Altair Inspire Cast as engineering software.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "CAD / CAE / Engineering Software: ... Altair Inspire Cast",
+      "confidence": "HIGH",
+      "safe_wording": "Lists Altair Inspire Cast as engineering software.",
+      "risk_note": "No project-specific evidence is provided."
+    },
+    {
+      "tool": "Simufact Additive",
+      "claim": "The candidate lists Simufact Additive as engineering software.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "CAD / CAE / Engineering Software: ... Simufact Additive",
+      "confidence": "HIGH",
+      "safe_wording": "Lists Simufact Additive as engineering software.",
+      "risk_note": "No project-specific evidence is provided."
+    },
+    {
+      "tool": "Materialise Magics",
+      "claim": "The candidate lists Materialise Magics as engineering software.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "CAD / CAE / Engineering Software: ... Materialise Magics",
+      "confidence": "HIGH",
+      "safe_wording": "Lists Materialise Magics as engineering software.",
+      "risk_note": "No project-specific evidence is provided."
+    },
+    {
+      "tool": "nTop",
+      "claim": "The candidate lists nTop as engineering software.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "CAD / CAE / Engineering Software: ... nTop",
+      "confidence": "HIGH",
+      "safe_wording": "Lists nTop as engineering software.",
+      "risk_note": "No project-specific evidence is provided."
+    },
+    {
+      "tool": "Excel",
+      "claim": "The candidate lists Excel and developed Excel-based analytical tools.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "Excel; Developed analytical tools (Excel-based) for production scheduling and cost analysis",
+      "confidence": "HIGH",
+      "safe_wording": "Uses Excel, including for production scheduling and cost-analysis tools.",
+      "risk_note": "Advanced Excel proficiency is implied but not explicitly rated."
+    },
+    {
+      "tool": "VBA",
+      "claim": "The candidate lists VBA under data and productivity.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "Data & Productivity: Excel, VBA, Python, NVivo",
+      "confidence": "HIGH",
+      "safe_wording": "Lists VBA as a data/productivity skill.",
+      "risk_note": "No project-specific VBA use is described."
+    },
+    {
+      "tool": "Python",
+      "claim": "The candidate lists Python under data and productivity.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "Data & Productivity: Excel, VBA, Python, NVivo",
+      "confidence": "HIGH",
+      "safe_wording": "Lists Python as a data/productivity skill.",
+      "risk_note": "No project-specific Python use is described."
+    },
+    {
+      "tool": "NVivo",
+      "claim": "The candidate lists and used NVivo for qualitative interview data analysis.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "NVivo; Analyze qualitative interview data using NVivo",
+      "confidence": "HIGH",
+      "safe_wording": "Uses NVivo for qualitative interview data analysis.",
+      "risk_note": "No details on coding framework or analysis volume are provided."
+    }
+  ],
+  "methods": [
+    {
+      "method": "DFM/DFA",
+      "claim": "The candidate lists and applied DFM/DFA in product development and manufacturing planning.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "DFM/DFA; Applied DFM/DFA and manufacturing planning across conventional processes",
+      "confidence": "HIGH",
+      "safe_wording": "Has CV-documented use of DFM/DFA in product development and manufacturing planning.",
+      "risk_note": "No specific DFM/DFA review outputs are included."
+    },
+    {
+      "method": "GD&T",
+      "claim": "The candidate lists GD&T under mechanical design and product development skills.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "technical drawings, GD&T",
+      "confidence": "HIGH",
+      "safe_wording": "Lists GD&T as a skill.",
+      "risk_note": "No certification or example drawing is included."
+    },
+    {
+      "method": "Tolerance analysis",
+      "claim": "The candidate lists tolerance analysis under metrology and validation.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "Metrology & Validation: ... tolerance analysis",
+      "confidence": "HIGH",
+      "safe_wording": "Lists tolerance analysis as a metrology and validation skill.",
+      "risk_note": "No specific tolerance-analysis project is described."
+    },
+    {
+      "method": "Failure analysis",
+      "claim": "The candidate lists and performed work related to identifying failure modes.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "failure analysis; identify dimensional deviations, deformation, adhesion, and failure modes",
+      "confidence": "HIGH",
+      "safe_wording": "Has CV-documented exposure to failure analysis and identifying failure modes.",
+      "risk_note": "Do not infer certified failure-analysis expertise."
+    },
+    {
+      "method": "Qualitative interview analysis",
+      "claim": "The candidate analyzes qualitative interview data to identify customer segments, early adopters, use-case priorities, and market feedback patterns.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "Analyze qualitative interview data using NVivo to identify customer segments, early adopters, use-case priorities, and market feedback patterns.",
+      "confidence": "HIGH",
+      "safe_wording": "Analyzes qualitative interview data for customer and market insights.",
+      "risk_note": "No methodology details or sample size are stated."
+    },
+    {
+      "method": "Competitor analysis",
+      "claim": "The candidate supports competitor analysis in the context of laser metal AM applications.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "Support market research, competitor analysis, and commercialization planning for laser metal AM applications.",
+      "confidence": "HIGH",
+      "safe_wording": "Supports competitor analysis for laser metal AM applications.",
+      "risk_note": "No named competitors or analysis outputs are provided."
+    }
+  ],
+  "domains": [
+    {
+      "domain": "Mechanical engineering",
+      "claim": "The candidate's roles and education are in mechanical engineering and related manufacturing areas.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "Mechanical Engineer; B.Sc. Mechanical Engineering; roles titled Mechanical Engineer",
+      "confidence": "HIGH",
+      "safe_wording": "Mechanical engineering background with related roles and education.",
+      "risk_note": "Professional engineering licensure is not stated."
+    },
+    {
+      "domain": "Additive manufacturing",
+      "claim": "The candidate has education and experience in additive manufacturing.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "M.Sc. Additive Manufacturing; Laser Metal Additive Manufacturing Researcher; Additive Manufacturing skills",
+      "confidence": "HIGH",
+      "safe_wording": "Additive manufacturing education and CV-documented experience.",
+      "risk_note": "Do not infer expert level in all AM technologies listed."
+    },
+    {
+      "domain": "Medical device manufacturing",
+      "claim": "The candidate undertook a thesis role at Karl Storz, identified in the document as a medical devices manufacturer.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "Karl Storz (Medical Devices Manufacturer)",
+      "confidence": "HIGH",
+      "safe_wording": "Thesis experience at Karl Storz, described as a medical devices manufacturer.",
+      "risk_note": "Do not infer regulatory experience, ISO 13485 experience, or medical-device design ownership unless separately confirmed."
+    },
+    {
+      "domain": "Industrial control equipment and industrial gas equipment",
+      "claim": "The candidate has startup experience in industrial control equipment and industrial gas equipment.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "Atron (Hardware Startup -- Industrial Control Equipment); Co-founded an industrial gas equipment startup",
+      "confidence": "HIGH",
+      "safe_wording": "Experience in a hardware startup related to industrial control and industrial gas equipment.",
+      "risk_note": "Product certification and regulatory compliance experience are not stated."
+    },
+    {
+      "domain": "Photonic measurement systems",
+      "claim": "The candidate has research assistant experience in photonic measurement systems.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "Research Assistant -- Photonic Measurement Systems",
+      "confidence": "HIGH",
+      "safe_wording": "Research assistant experience in photonic measurement systems.",
+      "risk_note": "No publications or formal optics degree are stated."
+    }
+  ],
+  "achievements": [
+    {
+      "claim": "The candidate was on the Dean’s List at Aalto School of Engineering for 2023--2024.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "Dean’s List (Aalto School of Engineering, 2023--2024)",
+      "confidence": "HIGH",
+      "safe_wording": "Dean’s List, Aalto School of Engineering, 2023--2024.",
+      "risk_note": "No official award certificate is included."
+    },
+    {
+      "claim": "The candidate received an EIT Manufacturing scholarship.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "EIT Manufacturing scholarship recipient",
+      "confidence": "HIGH",
+      "safe_wording": "EIT Manufacturing scholarship recipient.",
+      "risk_note": "Scholarship amount, selection criteria, and dates are not stated."
+    },
+    {
+      "claim": "The candidate achieved 3rd place with Team BikePark in the 2024 Rail Innovation Challenge by FERROCAMPUS in France.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "3rd place (Team BikePark), Rail Innovation Challenge by FERROCAMPUS (France, 2024)",
+      "confidence": "HIGH",
+      "safe_wording": "3rd place with Team BikePark in the 2024 Rail Innovation Challenge by FERROCAMPUS.",
+      "risk_note": "The document does not describe the project scope or individual contribution."
+    },
+    {
+      "claim": "The candidate lists an M.Sc. GPA of 4.7/5.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "GPA 4.7/5",
+      "confidence": "HIGH",
+      "safe_wording": "M.Sc. GPA listed as 4.7/5.",
+      "risk_note": "No transcript is included."
+    }
+  ],
+  "strengths": [
+    {
+      "claim": "The candidate has cross-functional collaboration experience with suppliers, manufacturing teams, technical stakeholders, customers, and industry contacts.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "cross-functional work with suppliers, manufacturing teams, and technical stakeholders; Coordinated suppliers and manufacturing partners; Conduct stakeholder and expert interviews; Supported technical communication... customers",
+      "confidence": "HIGH",
+      "safe_wording": "Has CV-documented cross-functional collaboration experience involving suppliers, manufacturing partners, stakeholders, and customers.",
+      "risk_note": "Collaboration quality is not independently assessed."
+    },
+    {
+      "claim": "The candidate has technical communication experience.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "Supported technical communication, product delivery, and customer coordination; Supported technical communication for international exhibitions and customers",
+      "confidence": "HIGH",
+      "safe_wording": "Has CV-documented technical communication experience with customers, distributors, and exhibitions.",
+      "risk_note": "Communication effectiveness is not externally evaluated."
+    },
+    {
+      "claim": "The candidate has experience converting measurements and experimental findings into design and process recommendations.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "Converted experimental and measurement findings into design and process recommendations",
+      "confidence": "HIGH",
+      "safe_wording": "Has experience translating experimental and measurement findings into design and process recommendations.",
+      "risk_note": "No specific recommendation outcomes are quantified."
+    },
+    {
+      "claim": "The candidate has operational coordination experience in production workflows and inventory management.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "Coordinated production workflows and inventory management",
+      "confidence": "HIGH",
+      "safe_wording": "Has experience coordinating production workflows and inventory management.",
+      "risk_note": "Do not infer formal operations management seniority beyond the stated role."
+    }
+  ],
+  "safe_claims": [
+    {
+      "claim": "Mechanical engineer with education in additive manufacturing and mechanical engineering.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "Mechanical Engineer with an M.Sc. in Additive Manufacturing; B.Sc. Mechanical Engineering",
+      "confidence": "HIGH",
+      "safe_wording": "Mechanical engineer with listed M.Sc. in Additive Manufacturing and B.Sc. in Mechanical Engineering.",
+      "risk_note": "No licensure is stated."
+    },
+    {
+      "claim": "Has CAD/CAE tool exposure including PTC Creo, Siemens NX, Autodesk Moldflow, Altair Inspire, Altair Inspire Cast, Simufact Additive, Materialise Magics, and nTop.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "CAD / CAE / Engineering Software: PTC Creo, Siemens NX, Autodesk Moldflow, Altair Inspire, Altair Inspire Cast, Simufact Additive, Materialise Magics, nTop",
+      "confidence": "HIGH",
+      "safe_wording": "Lists CAD/CAE software including PTC Creo, Siemens NX, Autodesk Moldflow, Altair Inspire, Altair Inspire Cast, Simufact Additive, Materialise Magics, and nTop.",
+      "risk_note": "Do not rank proficiency unless confirmed."
+    },
+    {
+      "claim": "Has experience in mechanical design, prototyping, manufacturing coordination, testing, assembly, and delivery for industrial hardware.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "taking concepts through CAD design, prototyping, manufacturing coordination, testing, assembly, and delivery",
+      "confidence": "HIGH",
+      "safe_wording": "Has CV-documented experience across design, prototyping, manufacturing coordination, testing, assembly, and delivery for an industrial gas pressure regulator.",
+      "risk_note": "Do not imply sole ownership of every phase."
+    },
+    {
+      "claim": "Has research experience in photonic measurement systems and laser metal additive manufacturing.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "Research Assistant -- Photonic Measurement Systems; Laser Metal Additive Manufacturing Researcher",
+      "confidence": "HIGH",
+      "safe_wording": "Has listed research experience in photonic measurement systems and laser metal additive manufacturing.",
+      "risk_note": "No publications are listed."
+    },
+    {
+      "claim": "Has metrology experience using CMM, microscopy, and profilometry.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "metrology-based evaluation using CMM, microscopy, and profilometry",
+      "confidence": "HIGH",
+      "safe_wording": "Has used CMM, microscopy, and profilometry in metrology-based evaluation.",
+      "risk_note": "No certification or calibration responsibility details are provided."
+    }
+  ],
+  "uncertain_claims": [
+    {
+      "claim": "The candidate may currently be based in Finland.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "Laser Metal Additive Manufacturing Researcher; April 2026 -- Now; University of Turku, Finland",
+      "confidence": "LOW",
+      "safe_wording": "Current listed role is at the University of Turku in Finland.",
+      "risk_note": "Residence or work location is not explicitly stated; only the institution location is listed."
+    },
+    {
+      "claim": "The candidate may have hands-on experience with all listed additive manufacturing processes.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "Additive Manufacturing: SLA/MSLA, FDM, PolyJet, build preparation, support strategy, post-processing, AM process simulation",
+      "confidence": "MEDIUM",
+      "safe_wording": "Lists SLA/MSLA, FDM, PolyJet, build preparation, support strategy, post-processing, and AM process simulation under additive manufacturing skills.",
+      "risk_note": "The CV lists these skills, but role-specific evidence is not given for each process."
+    },
+    {
+      "claim": "The candidate may have advanced Python skills.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "Data & Productivity: Excel, VBA, Python, NVivo",
+      "confidence": "LOW",
+      "safe_wording": "Lists Python as a data/productivity skill.",
+      "risk_note": "No Python project, application, or proficiency level is stated."
+    },
+    {
+      "claim": "The candidate may have regulatory or quality-system experience in medical devices.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "Karl Storz (Medical Devices Manufacturer), Estonia",
+      "confidence": "LOW",
+      "safe_wording": "Thesis experience was at Karl Storz, described as a medical devices manufacturer.",
+      "risk_note": "The document does not mention regulatory standards, ISO 13485, FDA, MDR, validation protocols, or quality-system responsibilities."
+    },
+    {
+      "claim": "The candidate may have patent or IP filing experience.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "Prepare IP-related documentation",
+      "confidence": "LOW",
+      "safe_wording": "Prepared IP-related documentation.",
+      "risk_note": "The document does not state patent drafting, filing, inventorship, or granted IP."
+    }
+  ],
+  "forbidden_or_risky_claims": [
+    {
+      "claim": "The candidate is a licensed Professional Engineer or chartered engineer.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "No license, registration, chartership, or professional engineering credential is mentioned.",
+      "confidence": "HIGH",
+      "safe_wording": "Do not claim professional engineering licensure.",
+      "risk_note": "Unsupported by the document."
+    },
+    {
+      "claim": "The candidate has ISO 13485, FDA, MDR, or regulated medical-device compliance experience.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "Only 'Karl Storz (Medical Devices Manufacturer)' is stated; no regulatory standards are mentioned.",
+      "confidence": "HIGH",
+      "safe_wording": "Can state thesis experience at a medical devices manufacturer, but not regulatory compliance experience.",
+      "risk_note": "Would be an inference beyond the text."
+    },
+    {
+      "claim": "The candidate has published academic papers or patents.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "No publications, patents, patent applications, or publication titles are listed.",
+      "confidence": "HIGH",
+      "safe_wording": "Do not claim publications or patents based on this document.",
+      "risk_note": "Unsupported by the document."
+    },
+    {
+      "claim": "The candidate is an expert or certified user in all listed software tools.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "Tools are listed under skills, but no certifications or proficiency levels are provided.",
+      "confidence": "HIGH",
+      "safe_wording": "Can state the tools are listed or used where role evidence exists.",
+      "risk_note": "Expertise or certification is not supported."
+    },
+    {
+      "claim": "The candidate solely developed and commercialized the Industrial Gas Pressure Regulator.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "The CV says 'contributed to the launch' and 'led mechanical design and product development,' not sole ownership.",
+      "confidence": "HIGH",
+      "safe_wording": "Contributed to the launch and led mechanical design/product development for the regulator assembly.",
+      "risk_note": "Sole ownership would overstate the evidence."
+    },
+    {
+      "claim": "The candidate has proven revenue growth, cost savings, production volume, or quantified operational improvements.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "The CV uses qualitative phrases such as 'enhancing operational efficiency' and 'improve delivery reliability' but provides no metrics.",
+      "confidence": "HIGH",
+      "safe_wording": "Can state the candidate worked on tools and workflows intended to improve efficiency and delivery reliability.",
+      "risk_note": "Quantified business outcomes are not supported."
+    },
+    {
+      "claim": "The candidate has direct employment experience at Karl Storz equivalent to a full-time engineering role.",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "The role is labeled 'Master Thesis Student -- Manufacturing / Additive Manufacturing Engineering.'",
+      "confidence": "HIGH",
+      "safe_wording": "Master thesis student experience at Karl Storz.",
+      "risk_note": "Do not convert a thesis role into regular employment unless separately verified."
+    }
+  ],
+  "timeline": [
+    {
+      "date_or_period": "2009 -- 2014",
+      "event": "B.Sc. Mechanical Engineering at Azad University",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "B.Sc. Mechanical Engineering; 2009 -- 2014; Azad University",
+      "confidence": "HIGH",
+      "safe_wording": "B.Sc. Mechanical Engineering, Azad University, 2009--2014.",
+      "risk_note": "No degree certificate included."
+    },
+    {
+      "date_or_period": "2010 -- 2015",
+      "event": "B.Sc. Industrial Management at Payam Noor University",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "B.Sc. Industrial Management; 2010 -- 2015; Payam Noor University",
+      "confidence": "HIGH",
+      "safe_wording": "B.Sc. Industrial Management, Payam Noor University, 2010--2015.",
+      "risk_note": "No degree certificate included."
+    },
+    {
+      "date_or_period": "July 2018 -- July 2020",
+      "event": "Mechanical Engineer & Operations Supervisor at Novin Technic",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "Mechanical Engineer & Operations Supervisor; July 2018 -- July 2020; Novin Technic",
+      "confidence": "HIGH",
+      "safe_wording": "Mechanical Engineer & Operations Supervisor at Novin Technic, July 2018--July 2020.",
+      "risk_note": "Location not stated."
+    },
+    {
+      "date_or_period": "August 2020 -- August 2023",
+      "event": "Mechanical Engineer & Co-founder at Atron",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "Mechanical Engineer & Co-founder; August 2020 -- August 2023; Atron",
+      "confidence": "HIGH",
+      "safe_wording": "Mechanical Engineer & Co-founder at Atron, August 2020--August 2023.",
+      "risk_note": "Company registration and ownership details are not included."
+    },
+    {
+      "date_or_period": "2023 -- 2025",
+      "event": "M.Sc. Additive Manufacturing at Aalto University and Vienna University of Technology",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "M.Sc. Additive Manufacturing; 2023 -- 2025; Aalto University (Finland) & Vienna University of Technology (Austria)",
+      "confidence": "HIGH",
+      "safe_wording": "M.Sc. Additive Manufacturing, Aalto University and Vienna University of Technology, 2023--2025.",
+      "risk_note": "No official transcript or diploma included."
+    },
+    {
+      "date_or_period": "2023 -- 2024",
+      "event": "Dean’s List at Aalto School of Engineering",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "Dean’s List (Aalto School of Engineering, 2023--2024)",
+      "confidence": "HIGH",
+      "safe_wording": "Dean’s List, Aalto School of Engineering, 2023--2024.",
+      "risk_note": "No award certificate included."
+    },
+    {
+      "date_or_period": "2024",
+      "event": "3rd place with Team BikePark in Rail Innovation Challenge by FERROCAMPUS",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "3rd place (Team BikePark), Rail Innovation Challenge by FERROCAMPUS (France, 2024)",
+      "confidence": "HIGH",
+      "safe_wording": "3rd place with Team BikePark in the 2024 Rail Innovation Challenge by FERROCAMPUS.",
+      "risk_note": "Individual contribution not described."
+    },
+    {
+      "date_or_period": "October 2024 -- March 2025",
+      "event": "Research Assistant -- Photonic Measurement Systems at TU Wien",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "Research Assistant -- Photonic Measurement Systems; October 2024 -- March 2025; Institute of Production Engineering and Photonic Technologies - TU Wien, Austria",
+      "confidence": "HIGH",
+      "safe_wording": "Research Assistant -- Photonic Measurement Systems at TU Wien, October 2024--March 2025.",
+      "risk_note": "Employment type not specified."
+    },
+    {
+      "date_or_period": "April 2025 -- December 2025",
+      "event": "Master Thesis Student -- Manufacturing / Additive Manufacturing Engineering at Karl Storz",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "Master Thesis Student -- Manufacturing / Additive Manufacturing Engineering; April 2025 -- December 2025; Karl Storz, Estonia",
+      "confidence": "HIGH",
+      "safe_wording": "Master Thesis Student at Karl Storz, April 2025--December 2025.",
+      "risk_note": "Do not present as regular employment without confirmation."
+    },
+    {
+      "date_or_period": "April 2026 -- Now",
+      "event": "Laser Metal Additive Manufacturing Researcher at University of Turku",
+      "source_id": "DOC-001",
+      "source_type_inferred_from_content": "CV/resume",
+      "evidence": "Laser Metal Additive Manufacturing Researcher; April 2026 -- Now; University of Turku, Finland",
+      "confidence": "HIGH",
+      "safe_wording": "Laser Metal Additive Manufacturing Researcher at University of Turku, April 2026--present.",
+      "risk_note": "Contract type and exact employment status are not specified."
+    }
+  ],
+  "metadata": {
+    "extraction_type": "generic_document_extraction",
+    "file_name_used_for_reasoning": false
+  }
+}

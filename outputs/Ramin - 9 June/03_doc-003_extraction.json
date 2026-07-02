@@ -1,0 +1,651 @@
+{
+  "source_id": "DOC-003",
+  "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+  "high_value_claims": [
+    {
+      "claim": "The candidate is identified as Ramin Mahmoudi.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "Ramin Mahmoudi | Reference Letters",
+      "confidence": "HIGH",
+      "safe_wording": "Ramin Mahmoudi is the candidate named in the reference-letter portfolio.",
+      "risk_note": "Identity is directly stated."
+    },
+    {
+      "claim": "The candidate is located in Espoo, Finland and is willing to relocate and travel.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "Espoo, Finland (Willing to relocate and travel)",
+      "confidence": "HIGH",
+      "safe_wording": "The portfolio states that Ramin Mahmoudi is based in Espoo, Finland and is willing to relocate and travel.",
+      "risk_note": "This appears on the portfolio cover page and may be self-presented rather than referee-confirmed."
+    },
+    {
+      "claim": "The candidate was a master's degree student in the Master’s Program in Manufacturing at Aalto University, EIT Manufacturing Master School.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "Ramin Mahmoudi was a master’s degree student in the Master’s Program in Manufacturing (EIT Manufacturing Master School) at Aalto University.",
+      "confidence": "HIGH",
+      "safe_wording": "Ramin Mahmoudi was described by an Aalto University assistant professor as a master’s degree student in the Master’s Program in Manufacturing at Aalto University.",
+      "risk_note": "The document does not explicitly state that the degree was awarded."
+    },
+    {
+      "claim": "The candidate’s major was Additive Manufacturing for Full Flexibility.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "His Major was Additive Manufacturing for Full Flexibility",
+      "confidence": "HIGH",
+      "safe_wording": "His Aalto University major was described as Additive Manufacturing for Full Flexibility.",
+      "risk_note": "Directly supported by the academic reference letter."
+    },
+    {
+      "claim": "The candidate completed a thesis titled 'Additively manufactured photopolymer mold inserts for low-volume micro-injection molding' with grade 5.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "His thesis topic was Additively manufactured photopolymer mold inserts for low-volume micro-injection molding with a grade 5.",
+      "confidence": "HIGH",
+      "safe_wording": "His thesis topic was 'Additively manufactured photopolymer mold inserts for low-volume micro-injection molding' and it received grade 5.",
+      "risk_note": "Do not infer final degree completion unless separately documented."
+    },
+    {
+      "claim": "The candidate worked as a research assistant at TU Wien’s Institute of Production Engineering and Photonic Technologies.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "I supervised during his work as a research assistant at the Institute of Production Engineering and Photonic Technologies at TU Wien (Vienna University of Technology).",
+      "confidence": "HIGH",
+      "safe_wording": "A TU Wien supervisor states that Ramin worked as a research assistant at the Institute of Production Engineering and Photonic Technologies.",
+      "risk_note": "The letter does not provide employment dates, contract type, or duration."
+    },
+    {
+      "claim": "The candidate’s study average was 4.68 on Aalto’s 0–5 grading scale.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "He has very good study records, with an average grade of 4,68. (Grade scale: 5 (excellent), 4 (very good), 3 (good), 2 (satisfactory), 1 (passable), 0 (fail))",
+      "confidence": "HIGH",
+      "safe_wording": "An Aalto University reference letter reports an average grade of 4.68 on a 0–5 scale.",
+      "risk_note": "Use the comma as decimal notation from the source; it corresponds to 4.68."
+    }
+  ],
+  "experience": [
+    {
+      "claim": "Research assistant experience at TU Wien involved optical measurement experiments, automation, and laboratory workflows.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "I supervised during his work as a research assistant at the Institute of Production Engineering and Photonic Technologies at TU Wien... He translated experimental objectives into reliable and repeatable measurement setups... integrated optical, mechanical, and automated elements into effective laboratory workflows.",
+      "confidence": "HIGH",
+      "safe_wording": "Ramin worked as a research assistant at TU Wien, where his responsibilities included optical measurement setups, automated elements, and laboratory workflows.",
+      "risk_note": "No dates or duration are provided."
+    },
+    {
+      "claim": "The candidate set up and operated optical measurement experiments and aligned lenses, cameras, and laser-based elements.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "His work included setting up and operating optical measurement experiments; configuring and aligning components such as lenses, cameras, and laser-based elements",
+      "confidence": "HIGH",
+      "safe_wording": "At TU Wien, he set up and operated optical measurement experiments and configured components including lenses, cameras, and laser-based elements.",
+      "risk_note": "The exact instruments, software, and measurement systems are not named."
+    },
+    {
+      "claim": "The candidate prepared experimental samples and designed custom fixtures to improve alignment stability and reproducibility.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "preparing experimental samples; and designing custom fixtures to improve alignment stability and reproducibility",
+      "confidence": "HIGH",
+      "safe_wording": "His TU Wien work included sample preparation and custom fixture design for alignment stability and reproducibility.",
+      "risk_note": "No specific CAD tool or manufacturing process is identified."
+    },
+    {
+      "claim": "The candidate developed a motor-driven linear motion mechanism to automate sample positioning.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "he developed a motor-driven linear motion mechanism to automate sample positioning, which improved process control and reduced operator dependence.",
+      "confidence": "HIGH",
+      "safe_wording": "He developed a motor-driven linear motion mechanism for automated sample positioning.",
+      "risk_note": "Do not infer specific control platforms, programming languages, or commercial deployment."
+    },
+    {
+      "claim": "The candidate carried out a master’s thesis project in collaboration between Karl Storz Video Endoscopy Estonia OÜ and Aalto University.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "I supervised Ramin during his Master’s thesis project, which was carried out in close collaboration between our company and Aalto University.",
+      "confidence": "HIGH",
+      "safe_wording": "His master’s thesis project was conducted in collaboration between Karl Storz Video Endoscopy Estonia OÜ and Aalto University.",
+      "risk_note": "This supports industrial collaboration, not employment at Karl Storz."
+    }
+  ],
+  "education": [
+    {
+      "claim": "Ramin Mahmoudi was a master’s degree student in Aalto University’s Master’s Program in Manufacturing.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "Ramin Mahmoudi was a master’s degree student in the Master’s Program in Manufacturing (EIT Manufacturing Master School) at Aalto University.",
+      "confidence": "HIGH",
+      "safe_wording": "He was a master’s degree student in the Master’s Program in Manufacturing at Aalto University.",
+      "risk_note": "The reference does not explicitly confirm graduation."
+    },
+    {
+      "claim": "The candidate’s major was Additive Manufacturing for Full Flexibility.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "His Major was Additive Manufacturing for Full Flexibility",
+      "confidence": "HIGH",
+      "safe_wording": "His major was Additive Manufacturing for Full Flexibility.",
+      "risk_note": "Direct academic reference evidence."
+    },
+    {
+      "claim": "The candidate is described as a master’s degree student in Aalto University School of Engineering, Degree Programme in Mechanical Engineering.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "Mr. Ramin Mahmoudi is studying as a master’s degree student in Aalto University School of Engineering, Degree Programme in Mechanical Engineering.",
+      "confidence": "HIGH",
+      "safe_wording": "Aalto University lecturer Juha Huuki described him as a master’s degree student in the School of Engineering, Degree Programme in Mechanical Engineering.",
+      "risk_note": "The letter is dated 28 January 2026; current enrollment should not be assumed beyond that date."
+    },
+    {
+      "claim": "The candidate completed the Production Engineering course at Aalto University in autumn 2023 with grade 5.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "He has successfully completed Production Engineering, 5 cr course in the autumn 2023 Aalto University. He completed the course with grade 5=excellent (scale 0 - 5)",
+      "confidence": "HIGH",
+      "safe_wording": "He completed Aalto University’s 5-credit Production Engineering course in autumn 2023 with grade 5.",
+      "risk_note": "This is course-level evidence, not a separate degree."
+    },
+    {
+      "claim": "The candidate was a student in the Advanced Casting Technology course at Aalto University and received grade 5.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "Ramin Mahmoudi was my student in ”Advanced Casting Technology” course. He got the grade 5, exellent from that course.",
+      "confidence": "HIGH",
+      "safe_wording": "He received grade 5 in the Advanced Casting Technology course at Aalto University.",
+      "risk_note": "The source contains a typographical error, 'exellent'; do not alter quoted evidence."
+    }
+  ],
+  "certifications": [],
+  "languages": [],
+  "projects": [
+    {
+      "claim": "Master’s thesis project on additively manufactured photopolymer mold inserts for low-volume micro-injection molding.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "Ramin’s thesis, titled “Additively Manufactured Photopolymer Mold Inserts for Low-Volume Micro-Injection Molding”",
+      "confidence": "HIGH",
+      "safe_wording": "His master’s thesis focused on additively manufactured photopolymer mold inserts for low-volume micro-injection molding.",
+      "risk_note": "The document does not provide a publication record for this thesis."
+    },
+    {
+      "claim": "The thesis addressed rapid tooling opportunities and challenges using additive manufacturing technologies.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "addressed rapid tooling opportunities and challenges using additive manufacturing technologies",
+      "confidence": "HIGH",
+      "safe_wording": "The thesis addressed rapid tooling opportunities and challenges using additive manufacturing technologies.",
+      "risk_note": "Avoid claiming commercial implementation or quantified results unless separately evidenced."
+    },
+    {
+      "claim": "The candidate developed a motor-driven linear motion mechanism for automated sample positioning.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "he developed a motor-driven linear motion mechanism to automate sample positioning",
+      "confidence": "HIGH",
+      "safe_wording": "He developed a motor-driven linear motion mechanism to automate sample positioning in a research laboratory context.",
+      "risk_note": "No details are given about hardware, software, controller, or timeline."
+    }
+  ],
+  "research_or_thesis_evidence": [
+    {
+      "claim": "The candidate independently designed experiments and interpreted results with scientific rigor during his thesis project.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "His ability to quickly understand complex industrial challenges, independently design experiments, and interpret results with scientific rigor was impressive.",
+      "confidence": "MEDIUM",
+      "safe_wording": "A thesis supervisor praised his ability to independently design experiments and interpret results with scientific rigor.",
+      "risk_note": "This is supervisor evaluation, not a neutral transcript of tasks."
+    },
+    {
+      "claim": "The candidate researched additive manufacturing possibilities in injection molding tooling.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "his work on researching additive manufacturing possibilities in the field of injection molding tooling",
+      "confidence": "HIGH",
+      "safe_wording": "His thesis work involved researching additive manufacturing possibilities for injection molding tooling.",
+      "risk_note": "Do not infer expertise in all injection molding tooling applications."
+    },
+    {
+      "claim": "The candidate performed experimental validation, documentation, calibration attention, repeatability work, data analysis, and visual presentation in a TU Wien research assistant role.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "took full responsibility for the implementation and validation of experiments... documented everything systematically, and paid close attention to calibration and repeatability. He also performed valuable data analysis and presented his findings clearly, including through visualizations.",
+      "confidence": "HIGH",
+      "safe_wording": "In his TU Wien research assistant work, he implemented and validated experiments, documented work systematically, considered calibration and repeatability, analyzed data, and presented findings with visualizations.",
+      "risk_note": "No specific analysis software or statistical method is named."
+    }
+  ],
+  "skills": [
+    {
+      "claim": "Experimental design and interpretation of results.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "independently design experiments, and interpret results with scientific rigor",
+      "confidence": "MEDIUM",
+      "safe_wording": "He has referee-supported experience with experimental design and result interpretation.",
+      "risk_note": "Based on recommendation-letter praise; should be stated as supported by referee comments."
+    },
+    {
+      "claim": "Optical measurement setup configuration and operation.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "setting up and operating optical measurement experiments; configuring and aligning components such as lenses, cameras, and laser-based elements",
+      "confidence": "HIGH",
+      "safe_wording": "He has experience setting up and operating optical measurement experiments.",
+      "risk_note": "Specific measurement systems are not identified."
+    },
+    {
+      "claim": "Custom fixture design for alignment stability and reproducibility.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "designing custom fixtures to improve alignment stability and reproducibility",
+      "confidence": "HIGH",
+      "safe_wording": "He designed custom fixtures to improve alignment stability and reproducibility.",
+      "risk_note": "No specific design software is named."
+    },
+    {
+      "claim": "Data analysis and visualization of research findings.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "He also performed valuable data analysis and presented his findings clearly, including through visualizations.",
+      "confidence": "HIGH",
+      "safe_wording": "He performed data analysis and presented findings using visualizations.",
+      "risk_note": "No tools, programming languages, or analysis methods are specified."
+    },
+    {
+      "claim": "Documentation of technical and experimental work.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "His documentation was precise and clear... documented everything systematically",
+      "confidence": "MEDIUM",
+      "safe_wording": "Referees described his technical documentation as clear and systematic.",
+      "risk_note": "This is partly opinion-based praise."
+    },
+    {
+      "claim": "Material selection, cast component design, mold design, analyses, and simulations in an academic course context.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "he specialized in material selection, cast component and mold design and to conduct analyses and simulations.",
+      "confidence": "HIGH",
+      "safe_wording": "In the Advanced Casting Technology course, he specialized in material selection, cast component and mold design, analyses, and simulations.",
+      "risk_note": "This is course-context evidence, not necessarily industrial project experience."
+    }
+  ],
+  "software_tools": [],
+  "methods": [
+    {
+      "claim": "Additive manufacturing for rapid tooling and injection molding tooling research.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "addressed rapid tooling opportunities and challenges using additive manufacturing technologies... researching additive manufacturing possibilities in the field of injection molding tooling",
+      "confidence": "HIGH",
+      "safe_wording": "He has thesis-level research exposure to additive manufacturing for rapid tooling and injection molding tooling.",
+      "risk_note": "Do not claim broad professional AM tooling expertise beyond the thesis evidence."
+    },
+    {
+      "claim": "Optical measurement experiments and calibration/repeatability practices.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "setting up and operating optical measurement experiments... paid close attention to calibration and repeatability",
+      "confidence": "HIGH",
+      "safe_wording": "He has research-assistant experience with optical measurement experiments, calibration attention, and repeatability.",
+      "risk_note": "No named standards or calibration protocols are provided."
+    },
+    {
+      "claim": "Automation of sample positioning using a motor-driven linear motion mechanism.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "developed a motor-driven linear motion mechanism to automate sample positioning",
+      "confidence": "HIGH",
+      "safe_wording": "He developed a motor-driven linear motion mechanism for automated sample positioning.",
+      "risk_note": "Specific automation platform or programming implementation is not documented."
+    },
+    {
+      "claim": "Advanced casting methods including material selection, cast component and mold design, analyses, and simulations.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "Advanced Casting Technology... specialized in material selection, cast component and mold design and to conduct analyses and simulations.",
+      "confidence": "HIGH",
+      "safe_wording": "He has academic exposure to advanced casting topics including material selection, cast component and mold design, analyses, and simulations.",
+      "risk_note": "Course performance should not be overstated as professional casting experience."
+    }
+  ],
+  "domains": [
+    {
+      "claim": "Mechanical engineering.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "Aalto University School of Engineering, Degree Programme in Mechanical Engineering",
+      "confidence": "HIGH",
+      "safe_wording": "His academic program is associated with mechanical engineering.",
+      "risk_note": "The cover page also labels him 'Mechanical Engineer,' but academic evidence is safer."
+    },
+    {
+      "claim": "Manufacturing and production engineering.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "Master’s Program in Manufacturing... Production Engineering, 5 cr course",
+      "confidence": "HIGH",
+      "safe_wording": "His education includes manufacturing and production engineering.",
+      "risk_note": "Do not infer professional production-engineering employment."
+    },
+    {
+      "claim": "Additive manufacturing.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "His Major was Additive Manufacturing for Full Flexibility",
+      "confidence": "HIGH",
+      "safe_wording": "His major was in additive manufacturing.",
+      "risk_note": "Directly supported academically."
+    },
+    {
+      "claim": "Low-volume micro-injection molding and tooling.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "Additively Manufactured Photopolymer Mold Inserts for Low-Volume Micro-Injection Molding",
+      "confidence": "HIGH",
+      "safe_wording": "His thesis concerned low-volume micro-injection molding tooling.",
+      "risk_note": "Thesis domain only; do not infer employment as an injection molding engineer."
+    },
+    {
+      "claim": "Optical measurement and photonic technologies.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "Institute of Production Engineering and Photonic Technologies... optical measurement experiments",
+      "confidence": "HIGH",
+      "safe_wording": "His research assistant work involved optical measurement in a photonic-technologies institute.",
+      "risk_note": "No specific photonics subfield is identified."
+    },
+    {
+      "claim": "Casting and foundry engineering.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "Advanced Casting Technology... Foundry Engineering",
+      "confidence": "HIGH",
+      "safe_wording": "His coursework included advanced casting technology and foundry-related topics.",
+      "risk_note": "Coursework should not be converted into industry work experience."
+    }
+  ],
+  "achievements": [
+    {
+      "claim": "Average study grade of 4.68 on a 0–5 scale.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "He has very good study records, with an average grade of 4,68. (Grade scale: 5... 0...)",
+      "confidence": "HIGH",
+      "safe_wording": "An Aalto reference reports an average grade of 4.68 on a 0–5 scale.",
+      "risk_note": "Scope of courses included in the average is not detailed."
+    },
+    {
+      "claim": "Thesis grade 5.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "His thesis topic was... with a grade 5.",
+      "confidence": "HIGH",
+      "safe_wording": "His thesis received grade 5.",
+      "risk_note": "Does not by itself prove degree conferral."
+    },
+    {
+      "claim": "Production Engineering course grade 5 and top 5% course performance.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "He completed the course with grade 5=excellent (scale 0 - 5) and he belong top 5 % of the course.",
+      "confidence": "HIGH",
+      "safe_wording": "He completed Production Engineering with grade 5 and was reported to be in the top 5% of the course.",
+      "risk_note": "The source contains grammatical errors; preserve meaning without overcorrecting."
+    },
+    {
+      "claim": "Pass with distinction in the NC-exam for Manufacturing Methods 2.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "Mr. Ramin Mahmoudi has achieved a pass with distinction in the NC-exam for Manufacturing Methods 2.",
+      "confidence": "HIGH",
+      "safe_wording": "He achieved a pass with distinction in the NC-exam for Manufacturing Methods 2.",
+      "risk_note": "The document does not define NC-exam or establish it as a certification."
+    },
+    {
+      "claim": "Advanced Casting Technology course grade 5.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "He got the grade 5, exellent from that course.",
+      "confidence": "HIGH",
+      "safe_wording": "He received grade 5 in Advanced Casting Technology.",
+      "risk_note": "Course date is not provided."
+    }
+  ],
+  "strengths": [
+    {
+      "claim": "Technical ability, analytical thinking, and research potential were praised by a thesis supervisor.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "I gained a clear and detailed view of his technical abilities, analytical thinking, and potential as a future researcher.",
+      "confidence": "MEDIUM",
+      "safe_wording": "A thesis supervisor praised his technical abilities, analytical thinking, and research potential.",
+      "risk_note": "Opinion-based recommendation statement."
+    },
+    {
+      "claim": "Ability to bridge academic research with industrial needs was praised.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "One of Ramin’s notable strengths is his ability to bridge academic research with real industrial needs.",
+      "confidence": "MEDIUM",
+      "safe_wording": "A Karl Storz referee described him as able to connect academic research with industrial needs.",
+      "risk_note": "Opinion-based; avoid presenting as objectively measured."
+    },
+    {
+      "claim": "Communication skills were praised, including presenting findings to engineers and management.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "his communication skills allowed him to present findings effectively to both engineers and management.",
+      "confidence": "MEDIUM",
+      "safe_wording": "A supervisor stated that he presented findings effectively to engineers and management.",
+      "risk_note": "Recommendation-letter assessment."
+    },
+    {
+      "claim": "Reliability, proactivity, independence, and critical thinking were praised.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "Ramin is highly motivated, reliable, and exceptionally proactive. He required minimal supervision and displayed a level of independence and critical thinking.",
+      "confidence": "MEDIUM",
+      "safe_wording": "Referees described him as reliable, proactive, independent, and able to work with minimal supervision.",
+      "risk_note": "Opinion-based praise."
+    },
+    {
+      "claim": "Structured research mindset and systematic documentation were praised.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "Ramin approaches research with a highly structured mindset... documented everything systematically",
+      "confidence": "MEDIUM",
+      "safe_wording": "A TU Wien supervisor described his research approach as structured and his documentation as systematic.",
+      "risk_note": "Supervisor evaluation, not an independently verified metric."
+    },
+    {
+      "claim": "Active and innovative classroom participation was praised.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "As a student, Ramin Mahmoudi was always active and innovative.",
+      "confidence": "MEDIUM",
+      "safe_wording": "An Aalto emeritus professor described him as active and innovative in the Advanced Casting Technology course.",
+      "risk_note": "Opinion-based classroom assessment."
+    }
+  ],
+  "safe_claims": [
+    {
+      "claim": "Ramin Mahmoudi has academic background in mechanical engineering, manufacturing, and additive manufacturing at Aalto University.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "Degree Programme in Mechanical Engineering... Master’s Program in Manufacturing... His Major was Additive Manufacturing for Full Flexibility",
+      "confidence": "HIGH",
+      "safe_wording": "Ramin Mahmoudi has Aalto University academic experience in mechanical engineering, manufacturing, and additive manufacturing.",
+      "risk_note": "Avoid saying he has completed a master's degree unless verified elsewhere."
+    },
+    {
+      "claim": "Ramin Mahmoudi has research assistant experience at TU Wien involving optical measurement setups and laboratory automation.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "work as a research assistant at the Institute of Production Engineering and Photonic Technologies at TU Wien... integrated optical, mechanical, and automated elements into effective laboratory workflows",
+      "confidence": "HIGH",
+      "safe_wording": "He has referee-confirmed research assistant experience at TU Wien involving optical measurement setups and automated laboratory workflows.",
+      "risk_note": "No dates or duration are provided."
+    },
+    {
+      "claim": "His master’s thesis focused on additively manufactured photopolymer mold inserts for low-volume micro-injection molding and received grade 5.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "Additively manufactured photopolymer mold inserts for low-volume micro-injection molding with a grade 5.",
+      "confidence": "HIGH",
+      "safe_wording": "His thesis topic was additively manufactured photopolymer mold inserts for low-volume micro-injection molding, and it received grade 5.",
+      "risk_note": "Do not claim peer-reviewed publication or patented outcome."
+    },
+    {
+      "claim": "His academic references report strong grades, including an average grade of 4.68 and multiple grade-5 course/thesis results.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "average grade of 4,68... thesis... grade 5... Production Engineering... grade 5... Advanced Casting Technology... grade 5",
+      "confidence": "HIGH",
+      "safe_wording": "Academic references report strong performance, including a 4.68 average and grade 5 in the thesis, Production Engineering, and Advanced Casting Technology.",
+      "risk_note": "Do not generalize to all possible courses unless transcript evidence is provided."
+    }
+  ],
+  "uncertain_claims": [
+    {
+      "claim": "The candidate has completed the master's degree.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "Ramin Mahmoudi was a master’s degree student... His thesis topic was... with a grade 5.",
+      "confidence": "LOW",
+      "safe_wording": "He was a master’s degree student and had a graded thesis.",
+      "risk_note": "The document does not explicitly state that the master’s degree was awarded."
+    },
+    {
+      "claim": "The candidate is currently enrolled as a master’s degree student.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "Mr. Ramin Mahmoudi is studying as a master’s degree student... dated 28th of January 2026",
+      "confidence": "MEDIUM",
+      "safe_wording": "As of the 28 January 2026 letter, he was described as studying as a master’s degree student.",
+      "risk_note": "Enrollment status may have changed after the letter date; another letter says he 'was' a master's student."
+    },
+    {
+      "claim": "The candidate is a professional Mechanical Engineer.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "Mechanical Engineer",
+      "confidence": "LOW",
+      "safe_wording": "The cover page labels him as 'Mechanical Engineer.'",
+      "risk_note": "This appears as a heading and is not independently explained by a degree award, license, or employment record."
+    },
+    {
+      "claim": "The candidate has industry work experience at Karl Storz.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "Master’s thesis project... carried out in close collaboration between our company and Aalto University",
+      "confidence": "LOW",
+      "safe_wording": "His thesis was conducted in collaboration with Karl Storz Video Endoscopy Estonia OÜ.",
+      "risk_note": "The document supports thesis collaboration, not employment or an industry job title at Karl Storz."
+    }
+  ],
+  "forbidden_or_risky_claims": [
+    {
+      "claim": "Ramin Mahmoudi was employed by Karl Storz.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "supervised Ramin during his Master’s thesis project, which was carried out in close collaboration between our company and Aalto University",
+      "confidence": "LOW",
+      "safe_wording": "His master’s thesis was supervised in collaboration with Karl Storz Video Endoscopy Estonia OÜ and Aalto University.",
+      "risk_note": "Employment at Karl Storz is not stated."
+    },
+    {
+      "claim": "Ramin Mahmoudi holds a completed Master of Science degree.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "was a master’s degree student... thesis... with a grade 5",
+      "confidence": "LOW",
+      "safe_wording": "He was a master’s degree student and completed a graded thesis.",
+      "risk_note": "Degree conferral is not explicitly documented."
+    },
+    {
+      "claim": "Ramin Mahmoudi is certified in Manufacturing Methods 2.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "pass with distinction in the NC-exam for Manufacturing Methods 2",
+      "confidence": "LOW",
+      "safe_wording": "He achieved a pass with distinction in the NC-exam for Manufacturing Methods 2.",
+      "risk_note": "The source does not define the exam as a certification."
+    },
+    {
+      "claim": "Ramin Mahmoudi has professional expertise in CAD, MATLAB, Python, LabVIEW, or specific simulation software.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "designing custom fixtures... data analysis... visualizations... simulations",
+      "confidence": "LOW",
+      "safe_wording": "The document supports fixture design, data analysis, visualizations, and simulations, but does not name software tools.",
+      "risk_note": "No specific software tools are listed."
+    },
+    {
+      "claim": "Ramin Mahmoudi has peer-reviewed publications or patents from the thesis or research assistant work.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "thesis... research assistant... data analysis and presented his findings",
+      "confidence": "LOW",
+      "safe_wording": "The document supports thesis and research assistant activity only.",
+      "risk_note": "No publications, patents, or filed intellectual property are mentioned."
+    }
+  ],
+  "timeline": [
+    {
+      "claim": "Date of birth is stated as 13 October 1990.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "Ramin Mahmoudi, born 13 October 1990",
+      "confidence": "HIGH",
+      "safe_wording": "One reference letter states that Ramin Mahmoudi was born on 13 October 1990.",
+      "risk_note": "Sensitive personal data; use only where appropriate."
+    },
+    {
+      "claim": "Production Engineering course completed in autumn 2023.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "Production Engineering, 5 cr course in the autumn 2023 Aalto University",
+      "confidence": "HIGH",
+      "safe_wording": "He completed Aalto University’s Production Engineering course in autumn 2023.",
+      "risk_note": "Course duration beyond autumn 2023 is not detailed."
+    },
+    {
+      "claim": "Reference letter from Mika Salmi is dated 26 January 2026.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "Espoo 26.1.2026",
+      "confidence": "HIGH",
+      "safe_wording": "Mika Salmi’s reference letter is dated 26 January 2026.",
+      "risk_note": "Letter date is not necessarily the date of study completion."
+    },
+    {
+      "claim": "Reference letter from Siim Jäger is dated 27 January 2026.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "Letter of recommendation 27.01.2026",
+      "confidence": "HIGH",
+      "safe_wording": "Siim Jäger’s recommendation letter is dated 27 January 2026.",
+      "risk_note": "Letter date is not the thesis project date."
+    },
+    {
+      "claim": "Reference letters from Ferdinand Bammer, Juha Huuki, and Juhani Orkas are dated 28 January 2026.",
+      "source_id": "DOC-003",
+      "source_type_inferred_from_content": "compiled portfolio of recommendation/reference letters",
+      "evidence": "Vienna, Jan. 28th, 2026... In Otaniemi, Finland, 28th of January 2026... Tampere 28.1.2026",
+      "confidence": "HIGH",
+      "safe_wording": "Three reference letters are dated 28 January 2026.",
+      "risk_note": "Letter dates do not provide exact dates for research assistant work, thesis work, or course attendance except where separately stated."
+    }
+  ],
+  "metadata": {
+    "extraction_type": "generic_document_extraction",
+    "file_name_used_for_reasoning": false
+  }
+}

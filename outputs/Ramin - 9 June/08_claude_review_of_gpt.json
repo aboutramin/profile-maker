@@ -1,0 +1,164 @@
+{
+  "missing_items": [
+    {
+      "item": "Date of birth (13 October 1990) is present in DOC-003 but absent from the profile.",
+      "source_id": "DOC-003",
+      "note": "Sensitive personal data; optional to include, but it is verified and may be relevant for some application jurisdictions."
+    },
+    {
+      "item": "Thesis supervisors Prof. Friedrich Bleicher (TU Wien) and Prof. Mika Salmi (Aalto) and Karl Storz advisors (Siim Jäger, Vadim Satsivkin) are documented but not captured.",
+      "source_id": "DOC-002, DOC-003",
+      "note": "Useful for reference/contact context and to substantiate the academic-industrial collaboration."
+    },
+    {
+      "item": "Thesis-specific reference detail that Karl Storz collaboration was explicitly thesis-based (not employment) and that referees praised bridging academia and industry.",
+      "source_id": "DOC-003",
+      "note": "Referee-supported strengths are partially captured but the explicit collaboration framing strengthens truthfulness."
+    },
+    {
+      "item": "INDUSAC innovation project certificates (three) referenced in DOC-004 are not listed.",
+      "source_id": "DOC-004",
+      "note": "Mentioned only in uncertain_claims, but could be added with the caveat that details are not visible."
+    },
+    {
+      "item": "Clients named in Atron context (IKCO, Golgohar Mining & Industrial, SSECO) and Tehran-based distributor are documented but omitted.",
+      "source_id": "DOC-001",
+      "note": "Named industrial clients add concreteness to customer-coordination claims."
+    },
+    {
+      "item": "Specific thesis findings (demolding as dominant bottleneck; ta-C+TiO PVD coating produced no measurable improvement; chemical release qualitatively reduced adhesion) are not fully reflected in keywords.",
+      "source_id": "DOC-002, DOC-004",
+      "note": "These nuanced, verified conclusions support technical credibility."
+    },
+    {
+      "item": "Novin Technic company description (manufacturer of display systems for textiles and flooring) and international exhibition technical communication are only partially reflected.",
+      "source_id": "DOC-001",
+      "note": "Already partly present in keywords; the exhibition detail is verified."
+    }
+  ],
+  "unsupported_claims": [
+    {
+      "claim": "Location 'Espoo, Finland' is presented in candidate_identity without caveat.",
+      "source_id": "DOC-003",
+      "note": "DOC-003 states Espoo, Finland on a self-presented portfolio cover page; the current institutional role is at University of Turku. The uncertain_claims section flags this, but the top-level identity block presents it as fact."
+    },
+    {
+      "claim": "Certifications list includes 'Production Engineering course', 'Advanced Casting Technology course', and 'Manufacturing Methods 2 NC-exam' as certifications.",
+      "source_id": "DOC-003",
+      "note": "These are course grades and an exam distinction, not certifications. Sources explicitly note the NC-exam is not defined as a certification. Mislabeling as certifications risks overstatement."
+    },
+    {
+      "claim": "GPA listed/reported as '4.68-4.7/5' presented as a single conflated metric.",
+      "source_id": "DOC-001, DOC-003",
+      "note": "4.7/5 is the self-reported CV GPA (DOC-001); 4.68 is the referee-reported average study grade (DOC-003). These are from different sources and should not be merged into a range as if equivalent."
+    },
+    {
+      "claim": "'Welding exposure' and 'Painting/coating exposure' listed under verified_skills.",
+      "source_id": "DOC-001",
+      "note": "These appear only as items in a CV skills list (welding) or process list (painting/coating); no role or project evidence demonstrates hands-on use. 'Verified' framing is stronger than evidence."
+    },
+    {
+      "claim": "'FDM' listed under verified_skills and verified_methods.",
+      "source_id": "DOC-001",
+      "note": "FDM appears only as a listed AM skill in the CV; no project specifically evidences FDM use. Source flags AM process list as not individually evidenced."
+    }
+  ],
+  "weak_evidence_claims": [
+    {
+      "claim": "Imaging ellipsometry / thin-film analysis details in TU Wien project.",
+      "source_id": "DOC-001",
+      "note": "Only DOC-001 (self-reported CV) lists ellipsometry specifics; the referee letter (DOC-003) describes optical measurement setups generally without naming ellipsometry. Confidence on specific terminology is lower than presented."
+    },
+    {
+      "claim": "Strengths such as 'Bridging academic research with industrial needs' and 'Technical communication with management'.",
+      "source_id": "DOC-003",
+      "note": "These derive from opinion-based referee praise (MEDIUM confidence). Acceptable as referee-supported, but should be framed as referee assessment rather than objective fact."
+    },
+    {
+      "claim": "EIT Manufacturing scholarship recipient.",
+      "source_id": "DOC-001",
+      "note": "Only in self-reported CV; no certificate or selection criteria. Reasonable but single-source and unverified."
+    },
+    {
+      "claim": "M.Sc. degree presented in education block as completed degree ('M.Sc. Additive Manufacturing ... 2023-2025').",
+      "source_id": "DOC-001, DOC-002, DOC-003",
+      "note": "Multiple sources confirm student status and graded thesis, but none explicitly state degree conferral. Education block reads as a completed degree; uncertain_claims notes this, creating internal tension."
+    },
+    {
+      "claim": "Topology optimization '75% mass reduction and safety factor 2.3' listed under verified_achievements.",
+      "source_id": "DOC-004",
+      "note": "Self-reported project result with no supporting calculations/validation. Labeling as 'verified achievement' overstates; the keyword version ('reported') is more appropriate."
+    }
+  ],
+  "compression_opportunities": [
+    {
+      "item": "verified_skills contains ~90 entries with heavy overlap with verified_methods, verified_software, and verified_domains.",
+      "note": "Many items (DFM/DFA, GD&T, SLA/MSLA, PolyJet, Topology Optimization, Material Selection, FEM) are duplicated across skills/methods. Deduplicate to a single canonical list."
+    },
+    {
+      "item": "Numerous '... exposure' skills (CNC machining exposure, sand-casting mold exposure, rubber injection molding exposure, painting/coating exposure) could be consolidated into one 'manufacturing process exposure' grouping.",
+      "note": "Reduces inflation and clarifies depth distinction."
+    },
+    {
+      "item": "safe_claim_bank and verified_strengths partially restate career_timeline and project content.",
+      "note": "Could be trimmed; some safe_claim_bank entries duplicate evidence_index assertions."
+    },
+    {
+      "item": "Software list duplicates variants (PTC Creo / Creo Parametric 11; Autodesk Moldflow / Synergy / Insight; Ultimaker Cura variants).",
+      "note": "Collapse versioned variants under a single tool entry with version noted parenthetically."
+    },
+    {
+      "item": "Achievements duplicate GPA across multiple entries (4.68/5, 4.7/5, thesis grade 5, course grades).",
+      "note": "Consolidate academic performance into one grouped achievement to avoid repetition and source conflation."
+    }
+  ],
+  "recommended_additions": [
+    {
+      "item": "Add explicit caveat to candidate_identity.location indicating it is self-presented (DOC-003 cover page) while current role is in Turku.",
+      "source_id": "DOC-003, DOC-001"
+    },
+    {
+      "item": "Add thesis supervisors and Karl Storz advisor names as reference/collaboration context.",
+      "source_id": "DOC-002, DOC-003"
+    },
+    {
+      "item": "Add named Atron industrial clients (IKCO, Golgohar Mining & Industrial, SSECO) to strengthen customer-coordination evidence.",
+      "source_id": "DOC-001"
+    },
+    {
+      "item": "Add concrete thesis technical conclusions (demolding bottleneck; coating vs chemical-release comparison; closure stack-up as key prerequisite) for CV tailoring toward AM tooling roles.",
+      "source_id": "DOC-002, DOC-004"
+    },
+    {
+      "item": "Add target_roles inference guidance is empty; consider populating from domain evidence (AM engineer, manufacturing engineer, R&D/commercialization).",
+      "source_id": "DOC-001"
+    }
+  ],
+  "recommended_removals": [
+    {
+      "item": "Reclassify the three 'certifications' (Production Engineering, Advanced Casting Technology, Manufacturing Methods 2) out of the certifications field.",
+      "note": "These are course/exam results, not certifications. Move to education details or achievements to avoid overstatement."
+    },
+    {
+      "item": "Remove or down-rank 'Welding exposure' and 'Painting/coating exposure' from verified_skills.",
+      "note": "List-only items with no role/project evidence; presenting as verified skills is risky."
+    },
+    {
+      "item": "Remove the conflated GPA range '4.68-4.7/5' as a single metric.",
+      "note": "Separate the CV self-report (4.7/5) from the referee-reported study average (4.68/5)."
+    },
+    {
+      "item": "Down-rank self-reported quantified project result (75% mass reduction, SF 2.3) from 'verified_achievements'.",
+      "note": "No supporting calculations; keep only as a reported project outcome."
+    },
+    {
+      "item": "Consider removing date-of-birth if added, unless jurisdiction requires it.",
+      "note": "Sensitive personal data; include only where appropriate."
+    }
+  ],
+  "overall_assessment": "The profile is comprehensive, well-sourced, and largely faithful to the four source documents, with strong evidence indexing, a useful safe_claim_bank, and a well-constructed forbidden_claims list that correctly guards against the main risks (degree conferral, Karl Storz employment, sole founder status, certifications, regulatory and publication claims). Truthfulness is generally high. The main weaknesses are: (1) mislabeling course grades and an exam distinction as 'certifications'; (2) conflating two distinct GPA figures (4.7 self-reported vs 4.68 referee-reported) into one range; (3) presenting the M.Sc. and Espoo location as settled facts at the top level despite the profile's own uncertain_claims caveats; and (4) over-broad 'verified_skills' that include list-only items (welding, painting/coating, FDM) and many redundant 'exposure' entries. Compression potential is high: the skills, methods, software, and domains arrays overlap heavily and could be deduplicated and grouped, and versioned software variants collapsed. Adding documented but missing details (supervisors, named Atron clients, concrete thesis conclusions) would improve CV-tailoring value without inventing facts. With these corrections, the profile would be both more truthful and more concise.",
+  "review_metadata": {
+    "review_type": "cross_review",
+    "version": "1.0"
+  }
+}

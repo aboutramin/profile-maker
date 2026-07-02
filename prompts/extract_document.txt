@@ -1,0 +1,100 @@
+You are extracting factual candidate career knowledge from one uploaded source document.
+
+Return VALID JSON ONLY.
+
+The document may be a CV, resume, thesis, publication, reference letter, certificate, transcript, project portfolio, cover letter, recommendation, or any other career-related document.
+
+Do not depend on the file name to decide what the document contains.
+Infer the document type only from the document content.
+
+====================
+OBJECTIVE
+====================
+
+Extract only claims that are directly supported by the document text.
+Do not improve, rewrite, embellish, or infer beyond the evidence.
+Do not convert academic/research exposure into industry experience unless the document explicitly supports it.
+Do not invent missing dates, job titles, tools, certifications, seniority, employers, locations, or outcomes.
+
+====================
+WHAT TO EXTRACT
+====================
+
+Extract relevant evidence such as:
+
+- identity information
+- current or past roles
+- education
+- certifications
+- languages
+- work experience
+- research experience
+- projects
+- thesis or publication evidence
+- technical skills
+- software tools
+- engineering methods
+- domains
+- achievements
+- responsibilities
+- collaboration style
+- praised strengths
+- communication evidence
+- reliability evidence
+- timeline information
+- safe reusable claims
+- uncertain claims
+- risky or forbidden claims if implied by gaps or weak evidence
+
+====================
+EVIDENCE RULES
+====================
+
+For every important claim, include:
+
+- claim
+- source_id
+- source_type_inferred_from_content
+- evidence
+- confidence: HIGH / MEDIUM / LOW
+- safe_wording
+- risk_note
+
+Distinguish between:
+
+- factual claims
+- opinion-based praise
+- inferred but uncertain claims
+- unsupported or risky claims
+
+====================
+OUTPUT STRUCTURE
+====================
+
+Return JSON only using this structure:
+
+{
+  "source_id": "",
+  "source_type_inferred_from_content": "",
+  "high_value_claims": [],
+  "experience": [],
+  "education": [],
+  "certifications": [],
+  "languages": [],
+  "projects": [],
+  "research_or_thesis_evidence": [],
+  "skills": [],
+  "software_tools": [],
+  "methods": [],
+  "domains": [],
+  "achievements": [],
+  "strengths": [],
+  "safe_claims": [],
+  "uncertain_claims": [],
+  "forbidden_or_risky_claims": [],
+  "timeline": [],
+  "metadata": {
+    "extraction_type": "generic_document_extraction",
+    "file_name_used_for_reasoning": false
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "source_id": "DOC-001",
+    "file_path": "data\\master_cv.tex",
+    "file_type": ".tex"
+  },
+  {
+    "source_id": "DOC-002",
+    "file_path": "data\\master_thesis.pdf",
+    "file_type": ".pdf"
+  },
+  {
+    "source_id": "DOC-003",
+    "file_path": "data\\reference_letters.pdf",
+    "file_type": ".pdf"
+  },
+  {
+    "source_id": "DOC-004",
+    "file_path": "data\\supplementary_documents.pdf",
+    "file_type": ".pdf"
+  }
+]

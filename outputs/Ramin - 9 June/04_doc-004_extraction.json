@@ -1,0 +1,1067 @@
+{
+  "source_id": "DOC-004",
+  "source_type_inferred_from_content": "resume supplementary portfolio document",
+  "high_value_claims": [
+    {
+      "claim": "Ramin Mahmoudi is identified as a Mechanical Engineer in the document.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "Resume Supplementary Document\nMechanical Engineer \nRamin Mahmoudi",
+      "confidence": "HIGH",
+      "safe_wording": "Ramin Mahmoudi is presented in the document as a Mechanical Engineer.",
+      "risk_note": "The document is self-presented; no independent license or employment verification is provided."
+    },
+    {
+      "claim": "The document summarizes selected industrial, academic, and personal projects related to mechanical design, manufacturing, simulation, and product development.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "The experiences section highlights selected industrial, academic, and personal projects that reflect my skills in mechanical design, manufacturing, simulation, and product development.",
+      "confidence": "HIGH",
+      "safe_wording": "The portfolio presents selected industrial, academic, and personal projects in mechanical design, manufacturing, simulation, and product development.",
+      "risk_note": "This is a summary statement from the document; individual project claims should be tied to specific project evidence."
+    },
+    {
+      "claim": "He was involved in establishing Atron, a startup focused on industrial gas equipment, in August 2020.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "In August 2020, my colleagues and I officially established Atron, a startup dedicated to bringing innovation to the industrial gas equipment market.",
+      "confidence": "HIGH",
+      "safe_wording": "He states that he and colleagues established Atron, an industrial gas equipment startup, in August 2020.",
+      "risk_note": "The document does not provide legal registration evidence or his exact title at Atron."
+    },
+    {
+      "claim": "Atron released its first product, an Industrial Gas Pressure Regulator, in February 2022.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "Over the next 18 months, we worked tirelessly toward our vision, and in February 2022, we proudly released our first product — the Industrial Gas Pressure Regulator.",
+      "confidence": "HIGH",
+      "safe_wording": "The document states that Atron released an Industrial Gas Pressure Regulator in February 2022.",
+      "risk_note": "The document does not independently verify commercial sales volume or market adoption."
+    },
+    {
+      "claim": "His master thesis evaluated additively manufactured photopolymer mold inserts embedded in metallic frames for micro-injection molding of thin-walled, endoscopy-representative components.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "This thesis evaluates additively manufactured photopolymer mold inserts embedded in metallic frames for micro-injection molding of thin-walled, endoscopy-representative components.",
+      "confidence": "HIGH",
+      "safe_wording": "His master thesis focused on additively manufactured photopolymer mold inserts for micro-injection molding of thin-walled, endoscopy-representative components.",
+      "risk_note": "The document does not include the thesis institution, supervisor, grade, or formal thesis title."
+    },
+    {
+      "claim": "He used Autodesk Moldflow, PTC Creo 11, and ZEISS DuraMax CMM in the thesis project.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "Autodesk Moldflow studies supported the workflow... Cavity, Core, and Sliders are designed by PTC Creo 11. The flatness of the top and front surfaces and the roundness deviation were inspected using a ZEISS DuraMax 5/5/5 CMM.",
+      "confidence": "HIGH",
+      "safe_wording": "The thesis project involved Autodesk Moldflow studies, PTC Creo 11 design work, and ZEISS DuraMax 5/5/5 CMM inspection.",
+      "risk_note": "The document supports project usage, not certification or expert-level proficiency."
+    },
+    {
+      "claim": "He contributed to a BikePark project that won third place in the Rail Innovation Challenge by FERROCAMPUS among 120 teams in France in 2024.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "We secured third place in the Rail Innovation Challenge by FERROCAMPUS among 120 teams in France, 2024, for this idea.",
+      "confidence": "HIGH",
+      "safe_wording": "He states that his team secured third place in the 2024 Rail Innovation Challenge by FERROCAMPUS among 120 teams in France.",
+      "risk_note": "The document does not include the original award certificate text in the extracted pages, though the claim is explicitly stated."
+    }
+  ],
+  "experience": [
+    {
+      "claim": "He participated in a startup project at Atron involving an Industrial Gas Pressure Regulator.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "In August 2020, my colleagues and I officially established Atron... in February 2022, we proudly released our first product — the Industrial Gas Pressure Regulator.",
+      "confidence": "HIGH",
+      "safe_wording": "He states that he participated with colleagues in establishing Atron and developing its Industrial Gas Pressure Regulator product.",
+      "risk_note": "Do not infer a formal job title, employment contract, founder equity, or exact responsibilities beyond what is stated."
+    },
+    {
+      "claim": "The Atron regulator project involved design, manufacturing, testing, and final delivery.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "At Atron, we took pride in managing the entire product lifecycle — from initial design to manufacturing, testing, and final delivery.",
+      "confidence": "HIGH",
+      "safe_wording": "The Atron team managed work across design, manufacturing, testing, and final delivery for the regulator product.",
+      "risk_note": "The statement is collective; it should not be converted into individual ownership of every lifecycle activity."
+    },
+    {
+      "claim": "The Industrial Gas Pressure Regulator contained more than 60 individual components.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "The Gas Pressure Regulator is composed of more than 60 individual components.",
+      "confidence": "HIGH",
+      "safe_wording": "The regulator product described in the portfolio consisted of more than 60 individual components.",
+      "risk_note": "No bill of materials is included in the extracted text."
+    },
+    {
+      "claim": "The Atron regulator project involved manufacturing methods including casting, rubber injection molding, CNC machining, laser cutting, and pressing.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "Page 5 presents a selection of components manufactured using various methods, including casting, rubber injection molding, CNC machining, laser cutting, and pressing.",
+      "confidence": "HIGH",
+      "safe_wording": "The Atron regulator portfolio section describes components made using casting, rubber injection molding, CNC machining, laser cutting, and pressing.",
+      "risk_note": "The exact level of the candidate's hands-on involvement in each method is not specified."
+    }
+  ],
+  "education": [
+    {
+      "claim": "The document references Aalto University in connection with Dean's List recognition.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "The certificates section showcases academic and professional achievements, including the Dean’s List at Aalto University...",
+      "confidence": "MEDIUM",
+      "safe_wording": "The portfolio states that the certificates section includes Dean’s List recognition at Aalto University.",
+      "risk_note": "The extracted document text does not state degree name, study dates, department, GPA, or the actual Dean’s List certificate content."
+    },
+    {
+      "claim": "He completed or produced a master thesis project.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "Master Thesis\nAdditive manufacturing (AM) enables rapid tooling for low-volume injection molding...",
+      "confidence": "HIGH",
+      "safe_wording": "The document includes a master thesis project section on additive manufacturing and micro-injection molding.",
+      "risk_note": "Do not infer graduation status, degree completion, university, or thesis grade from this document alone."
+    }
+  ],
+  "certifications": [
+    {
+      "claim": "The document states that the certificates section includes Dean’s List at Aalto University.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "The certificates section showcases academic and professional achievements, including the Dean’s List at Aalto University...",
+      "confidence": "MEDIUM",
+      "safe_wording": "The portfolio says it includes Dean’s List recognition at Aalto University.",
+      "risk_note": "The certificate pages are present but their extracted text is blank; avoid claiming certificate details not shown."
+    },
+    {
+      "claim": "The document states that the certificates section includes completion of Summer School 2024.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "The certificates section showcases academic and professional achievements, including... completion of the Summer School 2024...",
+      "confidence": "MEDIUM",
+      "safe_wording": "The portfolio states that it includes a Summer School 2024 completion certificate.",
+      "risk_note": "The provider, topic, location, and exact credential details are not visible in the extracted text."
+    },
+    {
+      "claim": "The document states that the certificates section includes completion of Winter School 2026.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "The certificates section showcases academic and professional achievements, including... the Winter School 2026...",
+      "confidence": "MEDIUM",
+      "safe_wording": "The portfolio states that it includes a Winter School 2026 completion certificate.",
+      "risk_note": "The provider, topic, location, and exact credential details are not visible in the extracted text."
+    },
+    {
+      "claim": "The document states that the certificates section includes three INDUSAC innovation project certificates.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "The certificates section showcases academic and professional achievements, including... three INDUSAC innovation project certificates...",
+      "confidence": "MEDIUM",
+      "safe_wording": "The portfolio states that it includes three INDUSAC innovation project certificates.",
+      "risk_note": "The extracted text does not include certificate names, dates, issuing bodies beyond INDUSAC, or project descriptions."
+    },
+    {
+      "claim": "The document states that the certificates section includes the 3rd Prize in the Rail Innovation Challenge 2023–2024.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "The certificates section showcases academic and professional achievements, including... the 3rd Prize in the Rail Innovation Challenge 2023–2024.",
+      "confidence": "MEDIUM",
+      "safe_wording": "The portfolio states that it includes recognition for 3rd Prize in the Rail Innovation Challenge 2023–2024.",
+      "risk_note": "The award is also described in the BikePark project section; however, the extracted certificate page text is blank."
+    }
+  ],
+  "languages": [],
+  "projects": [
+    {
+      "claim": "Gas Pressure Regulator project: development of an industrial gas pressure regulator product at Atron.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "Gas Pressure Regulator (Atron product)... in February 2022, we proudly released our first product — the Industrial Gas Pressure Regulator.",
+      "confidence": "HIGH",
+      "safe_wording": "He presents an Atron Industrial Gas Pressure Regulator product project released in February 2022.",
+      "risk_note": "Avoid assigning exact individual responsibilities not listed in this document."
+    },
+    {
+      "claim": "Valve Casting project: selected an industrial valve as a case study and designed mold and core using PTC Creo.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "In this project, an industrial valve was selected as a case study. The mold and core were designed using PTC Creo...",
+      "confidence": "HIGH",
+      "safe_wording": "In the Valve Casting project, he worked on an industrial valve case study and used PTC Creo for mold and core design.",
+      "risk_note": "The document does not state whether the valve was manufactured physically."
+    },
+    {
+      "claim": "Valve Casting project: analyzed casting using Altair Inspire Casting and used Granta EduPack for material selection.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "the casting process was analyzed with Altair Inspire Casting. Additionally, Granta EduPack was employed for material selection.",
+      "confidence": "HIGH",
+      "safe_wording": "The Valve Casting project used Altair Inspire Casting for casting analysis and Granta EduPack for material selection.",
+      "risk_note": "This supports tool usage in a project, not professional certification."
+    },
+    {
+      "claim": "Key Holder project: designed a portable key holder, simulated motion, and adjusted design for support-free 3D printing.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "I designed a portable key holder with innovative features, simulated its motion, and ensured printability without support.",
+      "confidence": "HIGH",
+      "safe_wording": "He designed a portable key holder, simulated its motion, and considered support-free 3D printability.",
+      "risk_note": "The word 'innovative' is self-descriptive; use cautiously as opinion unless externally validated."
+    },
+    {
+      "claim": "Key Holder project: used Ultimaker Cura, Corel Draw, and nTop software.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "improvements to Ultimaker Cura settings... I designed and laser cut a wooden box using Corel Draw... the lattice structure was designed using nTop software.",
+      "confidence": "HIGH",
+      "safe_wording": "The Key Holder project involved Ultimaker Cura settings, Corel Draw for a laser-cut wooden box, and nTop for lattice design.",
+      "risk_note": "Supports project exposure, not certified proficiency."
+    },
+    {
+      "claim": "Mobile Stand project: designed a two-angle mobile stand using PTC Creo and optimized 3D print settings in UltiMaker Cura.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "I designed a practical two-angle mobile stand using PTC Creo... Utilizing UltiMaker Cura, I optimized the print settings...",
+      "confidence": "HIGH",
+      "safe_wording": "He designed a two-angle mobile stand in PTC Creo and optimized print settings in UltiMaker Cura.",
+      "risk_note": "The document does not provide design files or print parameter values."
+    },
+    {
+      "claim": "Topology Optimization project: used Altair Inspire to reduce mass of an aircraft nose landing gear lower torsion link while maintaining structural integrity.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "In the Topology Optimization project for the Lower Torsion Link (LTL) of an aircraft's nose landing gear (NLG), I used Altair Inspire software to minimize the LTL's mass while ensuring structural integrity and safety.",
+      "confidence": "HIGH",
+      "safe_wording": "He used Altair Inspire for topology optimization of a lower torsion link for aircraft nose landing gear.",
+      "risk_note": "This is a project result, not necessarily an aircraft-certified engineering outcome."
+    },
+    {
+      "claim": "Topology Optimization project: reported a 75% mass reduction and final safety factor of 2.3.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "The results demonstrated a successful 75% reduction in the LTL's mass while achieving a final safety factor of 2.3...",
+      "confidence": "HIGH",
+      "safe_wording": "The project reported a 75% mass reduction and a final safety factor of 2.3.",
+      "risk_note": "The document does not show calculations, validation data, or certification context."
+    },
+    {
+      "claim": "Manufacturing Methods 1 project: performed turning and milling exercises to produce a grooved shaft and sleeve.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "I conducted a machining exercise focusing on turning and milling to produce a grooved shaft (Tolerance Bar) and a sleeve.",
+      "confidence": "HIGH",
+      "safe_wording": "He completed a machining exercise involving turning and milling of a grooved shaft and sleeve.",
+      "risk_note": "This appears to be project or training experience; do not present it as paid industrial employment unless separately verified."
+    },
+    {
+      "claim": "Manufacturing Methods 1 project: used Colchester Mascot 1600 lathe and Enrique Holke machines.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "Using the Colchester Mascot 1600 lathe... The milling phase included... with the Enrique Holke machines.",
+      "confidence": "HIGH",
+      "safe_wording": "The machining project used a Colchester Mascot 1600 lathe and Enrique Holke machines.",
+      "risk_note": "The document does not specify duration or independent operating certification."
+    },
+    {
+      "claim": "Manufacturing Methods 2 project: used Okuma CNC Lathe concepts and NC/CAD-CAM programming fundamentals.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "This project focused on utilizing common machine tools, specifically the Okuma CNC Lathe, and the fundamentals of NC and CAD/CAM programming.",
+      "confidence": "HIGH",
+      "safe_wording": "The project covered Okuma CNC Lathe use and fundamentals of NC and CAD/CAM programming.",
+      "risk_note": "The wording may refer to project scope rather than full independent machine operation."
+    },
+    {
+      "claim": "Manufacturing Methods 2 project: simulated lathe operations in PTC Creo and generated CNC code.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "One section involved simulating lathe operations using PTC Creo... Additionally, CNC code was generated, and the total machining time was calculated.",
+      "confidence": "HIGH",
+      "safe_wording": "He simulated lathe operations in PTC Creo, specified toolpaths, generated CNC code, and calculated machining time.",
+      "risk_note": "The document does not specify the CNC language, controller, or whether code was run on a physical machine."
+    },
+    {
+      "claim": "Sewing Machine Mechanism project: involved mechanism design, kinematic, dynamic, and strength analyses using Siemens NX.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "The Sewing Machine Mechanism project involves... the design of mechanisms, and detailed kinematic, dynamic, and strength analyses... Siemens NX was utilized in this project.",
+      "confidence": "HIGH",
+      "safe_wording": "The Sewing Machine Mechanism project used Siemens NX and included mechanism design plus kinematic, dynamic, and strength analyses.",
+      "risk_note": "The project context and deliverables are not fully detailed."
+    },
+    {
+      "claim": "Sewing Machine Mechanism project: used FEM with forces from multibody simulation and constraints from a requirement list.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "I focused specifically on strength analysis using the finite element method (FEM). I utilized calculated forces from multibody simulation (MBS) and constraints derived from the requirement list...",
+      "confidence": "HIGH",
+      "safe_wording": "He performed FEM strength analysis using forces from MBS and constraints derived from requirements.",
+      "risk_note": "No numerical analysis results are provided."
+    },
+    {
+      "claim": "BikePark project: contributed to an electric vertical bike rack concept for train bike storage.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "I contributed to developing a solution for improving bike storage on trains... we designed an electric vertical bike rack that lifts bikes with the push of a button...",
+      "confidence": "HIGH",
+      "safe_wording": "He contributed to a team project designing an electric vertical bike rack for trains.",
+      "risk_note": "The document does not specify his exact role within the team."
+    },
+    {
+      "claim": "BikePark project: the team built a full-size prototype for a rack accommodating bikes up to 35 kg.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "accommodating bikes up to 35 kg. We built a full-size prototype...",
+      "confidence": "HIGH",
+      "safe_wording": "The team built a full-size prototype designed to accommodate bikes up to 35 kg.",
+      "risk_note": "The document does not include formal load test data."
+    },
+    {
+      "claim": "CubeSat project: team designed and prototyped a magnetometer deployment mechanism for a Cube Satellite.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "Our team designed and prototyped a magnetometer deployment mechanism for the Cube Satellite.",
+      "confidence": "HIGH",
+      "safe_wording": "He participated in a team project to design and prototype a CubeSat magnetometer deployment mechanism.",
+      "risk_note": "Do not infer that the mechanism was flown in space."
+    },
+    {
+      "claim": "CubeSat project: used 3D CAD, MBS, and FEM, and selected aluminum and titanium.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "We used CAE tools, including 3D CAD for design, MBS for dynamic analysis, and FEM for stress assessment. We selected aluminum and titanium...",
+      "confidence": "HIGH",
+      "safe_wording": "The CubeSat project used 3D CAD, multibody simulation, FEM, and material selection involving aluminum and titanium.",
+      "risk_note": "Exact software packages are not named for this project."
+    },
+    {
+      "claim": "Metal Printing Simulation project: investigated part orientations of 0°, 45°, and 90° in metal additive manufacturing using MCF Simufact Additive.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "The project investigates the effects of different part orientations (0°, 45°, and 90°)... The study uses MCF Simufact Additive software for simulations.",
+      "confidence": "HIGH",
+      "safe_wording": "The Metal Printing Simulation project used MCF Simufact Additive to study 0°, 45°, and 90° part orientations in metal AM.",
+      "risk_note": "The document does not provide quantitative simulation results."
+    }
+  ],
+  "research_or_thesis_evidence": [
+    {
+      "claim": "The thesis studied rapid tooling for low-volume injection molding using photopolymer inserts.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "Additive manufacturing (AM) enables rapid tooling for low-volume injection molding; however, photopolymer inserts remain constrained by thermomechanical performance.",
+      "confidence": "HIGH",
+      "safe_wording": "The thesis addressed AM-enabled rapid tooling for low-volume injection molding using photopolymer inserts.",
+      "risk_note": "No thesis defense outcome or publication status is stated."
+    },
+    {
+      "claim": "The thesis tested four insert materials: Formlabs Rigid 10K, Formlabs High Temp, BASF Ultracur3D RG 3280, and Stratasys Digital ABS Plus.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "Four insert materials (Formlabs Rigid 10K, Formlabs High Temp, BASF Ultracur3D RG 3280, and Stratasys Digital ABS Plus) were produced using SLA/MSLA or PolyJet...",
+      "confidence": "HIGH",
+      "safe_wording": "The thesis involved four photopolymer insert materials: Formlabs Rigid 10K, Formlabs High Temp, BASF Ultracur3D RG 3280, and Stratasys Digital ABS Plus.",
+      "risk_note": "The document does not state which printer models were used."
+    },
+    {
+      "claim": "The thesis used a Babyplast 6/12 machine with medical-grade LDPE Purell 2410T.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "tested on a Babyplast 6/12 with medical-grade LDPE (Purell 2410T).",
+      "confidence": "HIGH",
+      "safe_wording": "The thesis testing used a Babyplast 6/12 machine and medical-grade LDPE Purell 2410T.",
+      "risk_note": "The exact test facility and operating parameters are not provided in the extracted text."
+    },
+    {
+      "claim": "The thesis evaluated dimensional accuracy, deformation, demolding performance, and durability across three iterative trials.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "three iterative trials evaluated dimensional accuracy, deformation, demolding performance, and durability.",
+      "confidence": "HIGH",
+      "safe_wording": "The thesis included three iterative trials assessing dimensional accuracy, deformation, demolding performance, and durability.",
+      "risk_note": "The document summarizes results but does not provide detailed raw data."
+    },
+    {
+      "claim": "Autodesk Moldflow supported gate-location selection, nominal machine capability checks, and machine-driven shot reconstruction.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "Autodesk Moldflow studies supported the workflow through gate-location selection, nominal machine capability checks, and machine-driven shot reconstruction.",
+      "confidence": "HIGH",
+      "safe_wording": "Autodesk Moldflow was used in the thesis workflow for gate-location selection, machine capability checks, and shot reconstruction.",
+      "risk_note": "Do not infer professional Moldflow certification."
+    },
+    {
+      "claim": "The thesis found demolding to be the dominant bottleneck.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "Demolding remained the dominant bottleneck.",
+      "confidence": "HIGH",
+      "safe_wording": "The thesis concluded that demolding was the dominant bottleneck.",
+      "risk_note": "This is a project-specific conclusion, not a universal claim about all photopolymer inserts."
+    },
+    {
+      "claim": "The thesis evaluated a low-temperature ta-C + TiO PVD coating and found no measurable improvement in release under the applied conditions.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "a low-temperature ta-C + TiO PVD coating was evaluated but produced no measurable improvement in release under the applied conditions...",
+      "confidence": "HIGH",
+      "safe_wording": "A low-temperature ta-C + TiO PVD coating was evaluated in the thesis but did not measurably improve release under the applied conditions.",
+      "risk_note": "Do not generalize beyond the stated applied conditions."
+    },
+    {
+      "claim": "The thesis found that semi-permanent chemical release qualitatively reduced adhesion but did not fully eliminate it.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "a semi-permanent chemical release led to a qualitative reduction in adhesion, without fully eliminating it...",
+      "confidence": "HIGH",
+      "safe_wording": "The thesis observed qualitative adhesion reduction from a semi-permanent chemical release, without full elimination.",
+      "risk_note": "The effect is described qualitatively, not as a quantified performance improvement."
+    },
+    {
+      "claim": "The thesis concluded that hybrid photopolymer inserts are feasible within a bounded operating window.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "Overall, hybrid photopolymer inserts are feasible within a bounded operating window.",
+      "confidence": "HIGH",
+      "safe_wording": "The thesis concluded that hybrid photopolymer inserts can be feasible within a bounded operating window.",
+      "risk_note": "This is a thesis conclusion; avoid presenting it as industry-standard validation."
+    }
+  ],
+  "skills": [
+    {
+      "claim": "Mechanical design",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "skills in mechanical design, manufacturing, simulation, and product development",
+      "confidence": "HIGH",
+      "safe_wording": "The portfolio presents mechanical design experience through multiple projects.",
+      "risk_note": "Skill level is not independently assessed."
+    },
+    {
+      "claim": "Manufacturing process exposure",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "components manufactured using various methods, including casting, rubber injection molding, CNC machining, laser cutting, and pressing",
+      "confidence": "HIGH",
+      "safe_wording": "The portfolio documents exposure to multiple manufacturing processes.",
+      "risk_note": "Exact hands-on responsibility varies by project and is not always specified."
+    },
+    {
+      "claim": "Simulation and CAE analysis",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "CAE tools, including 3D CAD for design, MBS for dynamic analysis, and FEM for stress assessment",
+      "confidence": "HIGH",
+      "safe_wording": "The portfolio includes CAE, MBS, and FEM project experience.",
+      "risk_note": "Do not infer commercial expert status."
+    },
+    {
+      "claim": "Topology optimization",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "In the Topology Optimization project... I used Altair Inspire software to minimize the LTL's mass...",
+      "confidence": "HIGH",
+      "safe_wording": "He has project experience with topology optimization using Altair Inspire.",
+      "risk_note": "Project context only; no certification stated."
+    },
+    {
+      "claim": "CNC machining and NC/CAD-CAM programming fundamentals",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "fundamentals of NC and CAD/CAM programming... CNC code was generated",
+      "confidence": "HIGH",
+      "safe_wording": "He has project exposure to CNC machining concepts and NC/CAD-CAM programming fundamentals.",
+      "risk_note": "Do not overstate as advanced CNC programming unless confirmed elsewhere."
+    },
+    {
+      "claim": "Additive manufacturing and 3D printing process optimization",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "The additive manufacturing process involved iterative design adjustments, quality evaluations, and improvements to Ultimaker Cura settings.",
+      "confidence": "HIGH",
+      "safe_wording": "He has project experience with additive manufacturing design iteration and 3D print setting adjustments.",
+      "risk_note": "Materials, printer types, and production scale vary by project."
+    },
+    {
+      "claim": "Micro-injection molding research exposure",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "micro-injection molding of thin-walled, endoscopy-representative components",
+      "confidence": "HIGH",
+      "safe_wording": "His thesis involved micro-injection molding research for thin-walled, endoscopy-representative components.",
+      "risk_note": "This is research/thesis exposure, not necessarily industry production experience."
+    },
+    {
+      "claim": "Metrology and CMM inspection exposure",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "The flatness of the top and front surfaces and the roundness deviation were inspected using a ZEISS DuraMax 5/5/5 CMM.",
+      "confidence": "HIGH",
+      "safe_wording": "The thesis included inspection of flatness and roundness deviation using a ZEISS DuraMax CMM.",
+      "risk_note": "Do not infer certified CMM operator status."
+    },
+    {
+      "claim": "Material selection exposure",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "Granta EduPack was employed for material selection.",
+      "confidence": "HIGH",
+      "safe_wording": "He has project exposure to material selection using Granta EduPack.",
+      "risk_note": "The document does not describe the final material decision in the Valve Casting project."
+    }
+  ],
+  "software_tools": [
+    {
+      "claim": "PTC Creo",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "The mold and core were designed using PTC Creo; I designed a practical two-angle mobile stand using PTC Creo; simulating lathe operations using PTC Creo",
+      "confidence": "HIGH",
+      "safe_wording": "PTC Creo was used across several projects for design and simulation tasks.",
+      "risk_note": "No certification or proficiency level is stated."
+    },
+    {
+      "claim": "PTC Creo 11",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "Cavity, Core, and Sliders are designed by PTC Creo 11.",
+      "confidence": "HIGH",
+      "safe_wording": "PTC Creo 11 was used for cavity, core, and slider design in the thesis project.",
+      "risk_note": "Project-specific usage only."
+    },
+    {
+      "claim": "Autodesk Moldflow",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "Autodesk Moldflow studies supported the workflow...",
+      "confidence": "HIGH",
+      "safe_wording": "Autodesk Moldflow was used in the thesis workflow.",
+      "risk_note": "No formal training certificate is stated."
+    },
+    {
+      "claim": "Altair Inspire",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "I used Altair Inspire software to minimize the LTL's mass...",
+      "confidence": "HIGH",
+      "safe_wording": "Altair Inspire was used for topology optimization.",
+      "risk_note": "No certification stated."
+    },
+    {
+      "claim": "Altair Inspire Casting",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "the casting process was analyzed with Altair Inspire Casting.",
+      "confidence": "HIGH",
+      "safe_wording": "Altair Inspire Casting was used for casting process analysis.",
+      "risk_note": "Project-specific tool usage."
+    },
+    {
+      "claim": "Granta EduPack",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "Granta EduPack was employed for material selection.",
+      "confidence": "HIGH",
+      "safe_wording": "Granta EduPack was used for material selection.",
+      "risk_note": "No certification stated."
+    },
+    {
+      "claim": "Ultimaker Cura / UltiMaker Cura",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "improvements to Ultimaker Cura settings; Utilizing UltiMaker Cura, I optimized the print settings",
+      "confidence": "HIGH",
+      "safe_wording": "Ultimaker Cura was used for 3D print settings and optimization.",
+      "risk_note": "No slicer certification or production-scale use stated."
+    },
+    {
+      "claim": "Corel Draw",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "I designed and laser cut a wooden box using Corel Draw...",
+      "confidence": "HIGH",
+      "safe_wording": "Corel Draw was used to design a laser-cut wooden box.",
+      "risk_note": "Project-specific usage."
+    },
+    {
+      "claim": "nTop software",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "the lattice structure was designed using nTop software.",
+      "confidence": "HIGH",
+      "safe_wording": "nTop software was used for lattice structure design.",
+      "risk_note": "No proficiency level stated."
+    },
+    {
+      "claim": "Siemens NX",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "Siemens NX was utilized in this project.",
+      "confidence": "HIGH",
+      "safe_wording": "Siemens NX was used in the Sewing Machine Mechanism project.",
+      "risk_note": "No certification stated."
+    },
+    {
+      "claim": "MCF Simufact Additive",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "The study uses MCF Simufact Additive software for simulations.",
+      "confidence": "HIGH",
+      "safe_wording": "MCF Simufact Additive was used for metal additive manufacturing simulations.",
+      "risk_note": "No certification stated."
+    },
+    {
+      "claim": "ZEISS DuraMax 5/5/5 CMM",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "inspected using a ZEISS DuraMax 5/5/5 CMM.",
+      "confidence": "HIGH",
+      "safe_wording": "A ZEISS DuraMax 5/5/5 CMM was used for inspection in the thesis project.",
+      "risk_note": "No operator certification stated."
+    }
+  ],
+  "methods": [
+    {
+      "claim": "Casting and sand-casting mold work",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "Page 6 shows the sand-casting molds and outlines the production stages of two regulator components.",
+      "confidence": "HIGH",
+      "safe_wording": "The portfolio includes casting and sand-casting mold-related project evidence.",
+      "risk_note": "Exact personal hands-on involvement in mold production is not fully described."
+    },
+    {
+      "claim": "Rubber injection molding",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "components manufactured using various methods, including... rubber injection molding...",
+      "confidence": "HIGH",
+      "safe_wording": "The Atron product section references rubber injection molding as one of the manufacturing methods used for components.",
+      "risk_note": "Do not infer individual machine operation."
+    },
+    {
+      "claim": "CNC machining",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "components manufactured using various methods, including... CNC machining...",
+      "confidence": "HIGH",
+      "safe_wording": "The portfolio references CNC machining in product component manufacturing and machining projects.",
+      "risk_note": "Specific CNC controller expertise is not stated."
+    },
+    {
+      "claim": "Laser cutting",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "designed and laser cut a wooden box using Corel Draw, meticulously considering kerf width for precise assembly",
+      "confidence": "HIGH",
+      "safe_wording": "He used laser cutting in the Key Holder project and considered kerf width for assembly.",
+      "risk_note": "No laser safety certification is stated."
+    },
+    {
+      "claim": "Turning, milling, drilling, grooving, filleting, chamfering",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "rough and finish turning, grooving, drilling, and filleting operations... surface milling, edge filleting, drilling, and chamfering",
+      "confidence": "HIGH",
+      "safe_wording": "The Manufacturing Methods 1 project involved turning, milling, drilling, grooving, filleting, and chamfering operations.",
+      "risk_note": "This is project/training evidence, not necessarily industrial employment."
+    },
+    {
+      "claim": "Finite element method analysis",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "strength analysis using the finite element method (FEM)",
+      "confidence": "HIGH",
+      "safe_wording": "He used FEM for strength analysis in the Sewing Machine Mechanism project.",
+      "risk_note": "No solver package or validation method is specified in that section."
+    },
+    {
+      "claim": "Multibody simulation",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "calculated forces from multibody simulation (MBS)",
+      "confidence": "HIGH",
+      "safe_wording": "He used forces from multibody simulation in a mechanism strength analysis workflow.",
+      "risk_note": "The document does not include simulation setup details."
+    },
+    {
+      "claim": "Topology optimization with frequency constraints",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "By applying frequency constraints to mitigate shimmy effects, the first natural frequency was maintained above the critical range.",
+      "confidence": "HIGH",
+      "safe_wording": "The topology optimization project applied frequency constraints to address shimmy-related concerns.",
+      "risk_note": "No numerical critical frequency range is stated."
+    },
+    {
+      "claim": "Metrology-driven calibration",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "reliable performance requires... metrology-driven calibration...",
+      "confidence": "HIGH",
+      "safe_wording": "The thesis emphasized metrology-driven calibration as part of reliable hybrid photopolymer insert performance.",
+      "risk_note": "This is a thesis conclusion rather than a general engineering standard."
+    }
+  ],
+  "domains": [
+    {
+      "claim": "Industrial gas equipment",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "Atron, a startup dedicated to bringing innovation to the industrial gas equipment market",
+      "confidence": "HIGH",
+      "safe_wording": "The Atron project relates to industrial gas equipment.",
+      "risk_note": "Do not infer regulatory compliance expertise unless documented elsewhere."
+    },
+    {
+      "claim": "Micro-injection molding and medical/endoscopy-representative components",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "micro-injection molding of thin-walled, endoscopy-representative components",
+      "confidence": "HIGH",
+      "safe_wording": "His thesis relates to micro-injection molding of thin-walled, endoscopy-representative components.",
+      "risk_note": "The document says endoscopy-representative, not necessarily clinical or regulated medical device production."
+    },
+    {
+      "claim": "Aerospace / aircraft landing gear concept analysis",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "Lower Torsion Link (LTL) of an aircraft's nose landing gear (NLG)",
+      "confidence": "HIGH",
+      "safe_wording": "The topology optimization project used an aircraft nose landing gear lower torsion link as the subject.",
+      "risk_note": "Do not infer aerospace industry employment or certified aerospace design authority."
+    },
+    {
+      "claim": "Rail transportation and bike storage",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "improving bike storage on trains to encourage intercity transportation and reduce greenhouse gas emissions",
+      "confidence": "HIGH",
+      "safe_wording": "The BikePark project addressed bike storage on trains.",
+      "risk_note": "Impact on emissions is project motivation, not a measured outcome in the document."
+    },
+    {
+      "claim": "CubeSat / space mechanism prototyping",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "magnetometer deployment mechanism for the Cube Satellite",
+      "confidence": "HIGH",
+      "safe_wording": "The CubeSat project involved prototyping a magnetometer deployment mechanism.",
+      "risk_note": "No flight qualification or launch is stated."
+    },
+    {
+      "claim": "Metal additive manufacturing simulation",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "metal additive manufacturing (AM) such as printability, support requirements, total displacement, surface deviation, and cost",
+      "confidence": "HIGH",
+      "safe_wording": "The Metal Printing Simulation project addressed metal AM simulation factors such as printability, supports, displacement, surface deviation, and cost.",
+      "risk_note": "Simulation only; no physical metal print is stated."
+    }
+  ],
+  "achievements": [
+    {
+      "claim": "Third place in the Rail Innovation Challenge by FERROCAMPUS among 120 teams in France in 2024.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "We secured third place in the Rail Innovation Challenge by FERROCAMPUS among 120 teams in France, 2024, for this idea.",
+      "confidence": "HIGH",
+      "safe_wording": "His team secured third place in the 2024 Rail Innovation Challenge by FERROCAMPUS among 120 teams in France.",
+      "risk_note": "The claim is team-based; avoid presenting it as an individual solo award."
+    },
+    {
+      "claim": "Dean’s List at Aalto University is listed as an academic achievement.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "academic and professional achievements, including the Dean’s List at Aalto University",
+      "confidence": "MEDIUM",
+      "safe_wording": "The portfolio states that Dean’s List recognition at Aalto University is included among the certificates.",
+      "risk_note": "The actual certificate content is not visible in extracted text."
+    },
+    {
+      "claim": "The topology optimization project reported 75% mass reduction with a final safety factor of 2.3.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "75% reduction in the LTL's mass while achieving a final safety factor of 2.3",
+      "confidence": "HIGH",
+      "safe_wording": "A project result reported 75% mass reduction and a final safety factor of 2.3.",
+      "risk_note": "Do not treat as externally validated engineering performance without supporting calculations."
+    },
+    {
+      "claim": "The CubeSat prototype demonstrated successful magnetometer deployment, stability, and alignment.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "The final prototype demonstrated the magnetometer's successful deployment, stability, and alignment...",
+      "confidence": "HIGH",
+      "safe_wording": "The CubeSat project prototype is described as demonstrating deployment, stability, and alignment.",
+      "risk_note": "No test procedure or acceptance criteria are included."
+    },
+    {
+      "claim": "The BikePark team built a full-size prototype and received positive feedback from users and experts.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "We built a full-size prototype and received positive feedback from users and experts, including insights from VR, the Finnish train company, and SNCF's Emmanuel Grebel.",
+      "confidence": "HIGH",
+      "safe_wording": "The BikePark team built a full-size prototype and received positive feedback from users and experts.",
+      "risk_note": "Feedback is summarized qualitatively; the document does not include survey data or formal endorsements."
+    }
+  ],
+  "strengths": [
+    {
+      "claim": "Hands-on orientation in mechanical projects",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "providing detailed insights into my technical background, hands-on experiences, and academic accomplishments",
+      "confidence": "MEDIUM",
+      "safe_wording": "The document presents the candidate as having hands-on experience through selected projects.",
+      "risk_note": "This is self-described and should be supported by specific project examples."
+    },
+    {
+      "claim": "Iterative design approach",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "The project underscored the importance of iterative design and practical experience with manufacturing technologies.",
+      "confidence": "HIGH",
+      "safe_wording": "Several projects describe iterative design and adjustment, especially in additive manufacturing contexts.",
+      "risk_note": "The phrase describes project learning rather than a formally assessed competency."
+    },
+    {
+      "claim": "Team collaboration experience",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "my colleagues and I... Our team designed and prototyped... I contributed to developing a solution...",
+      "confidence": "HIGH",
+      "safe_wording": "The portfolio includes multiple team-based projects.",
+      "risk_note": "The document usually does not specify exact individual role distribution within teams."
+    },
+    {
+      "claim": "Attention to manufacturing constraints",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "considering kerf width for precise assembly; ensured printability without support; optimized the print settings",
+      "confidence": "HIGH",
+      "safe_wording": "Project descriptions show consideration of manufacturing constraints such as kerf, printability, and print settings.",
+      "risk_note": "This is derived from project descriptions, not third-party evaluation."
+    },
+    {
+      "claim": "Quality and testing orientation",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "manufacturing, testing, and final delivery; quality evaluations; followed by rigorous testing",
+      "confidence": "MEDIUM",
+      "safe_wording": "The portfolio references testing and quality evaluation activities in several projects.",
+      "risk_note": "The term 'rigorous' is self-descriptive and not supported by detailed test protocols."
+    }
+  ],
+  "safe_claims": [
+    {
+      "claim": "He can safely be described as having project experience in CAD, CAE, manufacturing processes, additive manufacturing, and mechanical product development.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "skills in mechanical design, manufacturing, simulation, and product development",
+      "confidence": "HIGH",
+      "safe_wording": "Ramin Mahmoudi has documented project experience in CAD/CAE, manufacturing processes, additive manufacturing, and mechanical product development.",
+      "risk_note": "Avoid using unsupported seniority labels such as senior, expert, or lead unless another document confirms them."
+    },
+    {
+      "claim": "He has documented experience using PTC Creo, Autodesk Moldflow, Altair Inspire, Altair Inspire Casting, Granta EduPack, Ultimaker Cura, Corel Draw, nTop, Siemens NX, Simufact Additive, and ZEISS DuraMax CMM in projects.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "Multiple project sections explicitly name these tools.",
+      "confidence": "HIGH",
+      "safe_wording": "The portfolio documents project use of several engineering tools, including PTC Creo, Autodesk Moldflow, Altair Inspire, Siemens NX, and Simufact Additive.",
+      "risk_note": "Do not claim formal certification or advanced proficiency for these tools based only on this document."
+    },
+    {
+      "claim": "He has participated in team-based engineering projects.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "my colleagues and I... Our team designed and prototyped... We secured third place...",
+      "confidence": "HIGH",
+      "safe_wording": "The document supports that he participated in team-based engineering projects.",
+      "risk_note": "Exact team size, role, and leadership responsibility are not generally specified."
+    },
+    {
+      "claim": "His project portfolio includes both academic and product-oriented engineering work.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "selected industrial, academic, and personal projects",
+      "confidence": "HIGH",
+      "safe_wording": "The portfolio includes academic, personal, and product-oriented engineering projects.",
+      "risk_note": "Do not classify all projects as professional work experience."
+    }
+  ],
+  "uncertain_claims": [
+    {
+      "claim": "He may have formal employment or founder status at Atron.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "my colleagues and I officially established Atron, a startup...",
+      "confidence": "LOW",
+      "safe_wording": "He states that he and colleagues established Atron.",
+      "risk_note": "The document does not state his legal role, title, ownership stake, employment dates, or full-time/part-time status."
+    },
+    {
+      "claim": "He may have completed a master's degree.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "Master Thesis",
+      "confidence": "LOW",
+      "safe_wording": "The document includes a master thesis project.",
+      "risk_note": "A master thesis section does not by itself prove degree completion."
+    },
+    {
+      "claim": "He may hold certificates shown on pages 23-29.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "Certificates section showcases academic and professional achievements...",
+      "confidence": "MEDIUM",
+      "safe_wording": "The portfolio states that the certificates section includes several academic and professional recognitions.",
+      "risk_note": "The extracted text from certificate pages is blank, so certificate details cannot be independently extracted from those pages."
+    },
+    {
+      "claim": "He may have direct hands-on experience with every manufacturing method listed in the Atron regulator project.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "components manufactured using various methods, including casting, rubber injection molding, CNC machining, laser cutting, and pressing",
+      "confidence": "LOW",
+      "safe_wording": "The Atron regulator project involved components manufactured by these methods.",
+      "risk_note": "The text does not specify which methods he personally performed."
+    },
+    {
+      "claim": "The BikePark prototype may have been evaluated by VR and SNCF representatives.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "received positive feedback from users and experts, including insights from VR, the Finnish train company, and SNCF's Emmanuel Grebel",
+      "confidence": "MEDIUM",
+      "safe_wording": "The document states the team received feedback and insights from users and experts, including VR and SNCF-related input.",
+      "risk_note": "The document does not provide formal letters, survey results, or named user-test protocols."
+    }
+  ],
+  "forbidden_or_risky_claims": [
+    {
+      "claim": "He is certified in PTC Creo, Autodesk Moldflow, Altair Inspire, Siemens NX, or other software tools.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "The document names tool usage in projects but does not state software certifications.",
+      "confidence": "HIGH",
+      "safe_wording": "He has project experience using these tools.",
+      "risk_note": "Tool usage is not equivalent to formal certification."
+    },
+    {
+      "claim": "He has completed a master's degree at Aalto University.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "The document mentions Master Thesis and Dean’s List at Aalto University, but not degree completion.",
+      "confidence": "HIGH",
+      "safe_wording": "The document includes a master thesis section and mentions Dean’s List at Aalto University.",
+      "risk_note": "Degree name, completion date, and institution for the thesis are not explicitly stated."
+    },
+    {
+      "claim": "He was the sole founder or CEO of Atron.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "my colleagues and I officially established Atron",
+      "confidence": "HIGH",
+      "safe_wording": "He states that he and colleagues established Atron.",
+      "risk_note": "The document does not state CEO, sole founder, co-founder title, or ownership percentage."
+    },
+    {
+      "claim": "He personally performed all design, manufacturing, testing, and delivery activities for Atron's regulator.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "At Atron, we took pride in managing the entire product lifecycle...",
+      "confidence": "HIGH",
+      "safe_wording": "The Atron team managed the lifecycle from design to delivery.",
+      "risk_note": "The evidence is collective and does not allocate individual responsibility."
+    },
+    {
+      "claim": "The CubeSat mechanism was space-qualified or launched.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "designed and prototyped a magnetometer deployment mechanism for the Cube Satellite",
+      "confidence": "HIGH",
+      "safe_wording": "The team designed and prototyped a CubeSat magnetometer deployment mechanism.",
+      "risk_note": "Prototype success does not imply flight qualification or launch."
+    },
+    {
+      "claim": "The thesis proves commercial viability or regulatory readiness for medical device production.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "endoscopy-representative components; feasible within a bounded operating window",
+      "confidence": "HIGH",
+      "safe_wording": "The thesis studied endoscopy-representative components and concluded feasibility within a bounded operating window.",
+      "risk_note": "The document does not state regulatory testing, clinical use, or commercial validation."
+    }
+  ],
+  "timeline": [
+    {
+      "claim": "August 2020: Atron was established by the candidate and colleagues.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "In August 2020, my colleagues and I officially established Atron...",
+      "confidence": "HIGH",
+      "safe_wording": "August 2020: He states that he and colleagues established Atron.",
+      "risk_note": "No legal registration document is included."
+    },
+    {
+      "claim": "February 2022: Atron released its first product, the Industrial Gas Pressure Regulator.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "in February 2022, we proudly released our first product — the Industrial Gas Pressure Regulator.",
+      "confidence": "HIGH",
+      "safe_wording": "February 2022: Atron released the Industrial Gas Pressure Regulator according to the portfolio.",
+      "risk_note": "No sales or shipment records are included."
+    },
+    {
+      "claim": "2023–2024: The portfolio lists 3rd Prize in the Rail Innovation Challenge 2023–2024.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "the 3rd Prize in the Rail Innovation Challenge 2023–2024",
+      "confidence": "MEDIUM",
+      "safe_wording": "The document states that the certificates section includes a 3rd Prize recognition for the Rail Innovation Challenge 2023–2024.",
+      "risk_note": "Certificate page text is not visible in the extraction."
+    },
+    {
+      "claim": "2024: The BikePark team secured third place in the Rail Innovation Challenge by FERROCAMPUS among 120 teams in France.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "We secured third place in the Rail Innovation Challenge by FERROCAMPUS among 120 teams in France, 2024...",
+      "confidence": "HIGH",
+      "safe_wording": "2024: His BikePark team secured third place in the FERROCAMPUS Rail Innovation Challenge among 120 teams in France.",
+      "risk_note": "Team-based award; individual role not specified."
+    },
+    {
+      "claim": "2024: The document states completion of Summer School 2024.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "completion of the Summer School 2024",
+      "confidence": "MEDIUM",
+      "safe_wording": "The portfolio states that a Summer School 2024 completion certificate is included.",
+      "risk_note": "The school name, subject, and issuer are not visible."
+    },
+    {
+      "claim": "2026: The document states completion of Winter School 2026.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "the Winter School 2026",
+      "confidence": "MEDIUM",
+      "safe_wording": "The portfolio states that a Winter School 2026 certificate is included.",
+      "risk_note": "The school name, subject, and issuer are not visible."
+    },
+    {
+      "claim": "24 May 2026: The supplementary document was last updated.",
+      "source_id": "DOC-004",
+      "source_type_inferred_from_content": "resume supplementary portfolio document",
+      "evidence": "Last Update: 24 May 2026",
+      "confidence": "HIGH",
+      "safe_wording": "The document states a last update date of 24 May 2026.",
+      "risk_note": "This is the document update date, not necessarily the date of any specific project."
+    }
+  ],
+  "metadata": {
+    "extraction_type": "generic_document_extraction",
+    "file_name_used_for_reasoning": false
+  }
+}

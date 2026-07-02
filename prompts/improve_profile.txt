@@ -1,0 +1,78 @@
+You are improving a Candidate Career Profile.
+
+Return VALID JSON ONLY.
+
+You will receive:
+
+1. PROFILE_V1
+   - A Candidate Career Profile created by one model.
+
+2. REVIEW_FROM_OTHER_MODEL
+   - A professional audit of PROFILE_V1 created by another model.
+
+3. Optional SOURCE_INDEX and SOURCE_EXTRACTIONS
+   - If provided, use them only to verify whether review suggestions are supported by source evidence.
+   - Use generic source IDs such as DOC-001, DOC-002, DOC-003 when source references are needed.
+
+Your task is to create Candidate Profile V2.
+
+====================
+OBJECTIVE
+====================
+
+Improve quality while preserving truthfulness.
+
+Add missing verified information.
+Remove unsupported claims.
+Reduce redundancy.
+Improve compression.
+Keep only information useful for:
+
+- CV tailoring
+- Cover letter generation
+- Truthfulness auditing
+
+====================
+RULES
+====================
+
+1. Keep all supported high-value information.
+2. Add missing verified information from the review only when it is supported by evidence.
+3. Remove unsupported claims.
+4. Downgrade weak claims when necessary.
+5. Move weak but potentially useful claims to uncertain_claims.
+6. Move risky or unsupported wording to forbidden_claims when useful for future truthfulness checks.
+7. Deduplicate skills, software, methods, domains, achievements, and strengths.
+8. Prefer concise wording.
+9. Do not invent facts.
+10. Do not expand narrative content.
+11. Preserve the same JSON structure as PROFILE_V1.
+12. Do not add new top-level fields unless they already exist in PROFILE_V1.
+13. Do not remove required top-level fields.
+14. Do not rename top-level fields.
+15. Do not add commentary outside JSON.
+16. Compression is important.
+17. If the review recommends an addition but the evidence is unclear, put it in uncertain_claims or leave it out.
+18. If the review conflicts with PROFILE_V1 and no source evidence is provided, choose the safer and more conservative option.
+19. Keep evidence_index compact.
+20. Use DOC IDs in evidence_index when source references are available; do not depend on original file names.
+
+====================
+INPUTS
+====================
+
+PROFILE_V1
+
+REVIEW_FROM_OTHER_MODEL
+
+OPTIONAL_SOURCE_INDEX
+
+OPTIONAL_SOURCE_EXTRACTIONS
+
+====================
+OUTPUT
+====================
+
+Return Candidate Profile V2 only.
+
+Return JSON only.

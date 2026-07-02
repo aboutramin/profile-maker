@@ -1,0 +1,634 @@
+{
+  "source_id": "DOC-002",
+  "source_type_inferred_from_content": "Master's thesis",
+  "high_value_claims": [
+    {
+      "claim": "Ramin Mahmoudi authored a master's thesis titled \"Additively Manufactured Photopolymer Mold Inserts for Low-Volume Micro-Injection Molding.\"",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "Master’s Thesis; Additively Manufactured Photopolymer Mold Inserts for Low-Volume Micro-Injection Molding; Author: Ramin Mahmoudi",
+      "confidence": "HIGH",
+      "safe_wording": "Authored a master's thesis on additively manufactured photopolymer mold inserts for low-volume micro-injection molding.",
+      "risk_note": "Do not infer that the degree has been awarded unless separately confirmed."
+    },
+    {
+      "claim": "The thesis was associated with a Master's Programme in Manufacturing and the major Additive Manufacturing for Full Flexibility.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "Degree programme: Master’s Programme in Manufacturing; Major: Additive Manufacturing for Full Flexibility",
+      "confidence": "HIGH",
+      "safe_wording": "Completed thesis work within a Master's Programme in Manufacturing, majoring in Additive Manufacturing for Full Flexibility.",
+      "risk_note": "The document identifies the programme and major but does not independently prove graduation or degree conferral."
+    },
+    {
+      "claim": "The thesis investigated additively manufactured photopolymer mold inserts embedded in metallic frames for micro-injection molding of thin-walled, endoscopy-representative components.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "This thesis evaluates additively manufactured photopolymer mold inserts embedded in metallic frames for micro-injection molding of thin-walled, endoscopy-representative components.",
+      "confidence": "HIGH",
+      "safe_wording": "Investigated AM photopolymer mold inserts in metallic frames for micro-injection molding of thin-walled endoscopy-representative components.",
+      "risk_note": "This is academic/research work; do not describe it as commercial production experience unless separately supported."
+    },
+    {
+      "claim": "The thesis used SLA/MSLA and PolyJet additive manufacturing processes.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "Four insert materials ... were produced using SLA/MSLA or PolyJet",
+      "confidence": "HIGH",
+      "safe_wording": "Worked with SLA/MSLA and PolyJet processes for photopolymer mold insert fabrication in thesis research.",
+      "risk_note": "The document supports research use, not necessarily professional certification or production-level mastery."
+    },
+    {
+      "claim": "The thesis involved Autodesk Moldflow studies for gate-location selection, nominal machine capability checks, and machine-driven shot reconstruction.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "Autodesk Moldflow studies supported the workflow through gate-location selection, nominal machine capability checks, and machine-driven shot reconstruction.",
+      "confidence": "HIGH",
+      "safe_wording": "Used Autodesk Moldflow for gate-location analysis, capability checks, and shot reconstruction in thesis research.",
+      "risk_note": "Do not infer formal Moldflow certification."
+    },
+    {
+      "claim": "The thesis included experimental micro-injection molding using a Babyplast 6/12 machine and medical-grade LDPE Purell 2410T.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "Experimental micro-molding is performed using a medical-grade LDPE (Purell 2410T, low-density polyethylene) on a Babyplast 6/12 machine.",
+      "confidence": "HIGH",
+      "safe_wording": "Performed thesis experiments using Babyplast 6/12 micro-injection molding with medical-grade LDPE Purell 2410T.",
+      "risk_note": "This supports hands-on academic experimentation, not necessarily industry employment."
+    },
+    {
+      "claim": "The thesis had a collaborative partner, Karl Storz Video Endoscopy Estonia.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "Collaborative partner: Karl Storz Video Endoscopy Estonia",
+      "confidence": "HIGH",
+      "safe_wording": "Conducted thesis work with Karl Storz Video Endoscopy Estonia listed as a collaborative partner.",
+      "risk_note": "Do not claim employment at Karl Storz."
+    }
+  ],
+  "experience": [
+    {
+      "claim": "Ramin Mahmoudi conducted thesis research involving design, fabrication, simulation, metrology, and experimental evaluation of polymer AM mold inserts.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "Chapter 3 describes the methodology, including demonstrator design, simulation approach, insert fabrication and post-processing, and the experimental setup for the three injection-molding trials.",
+      "confidence": "HIGH",
+      "safe_wording": "Conducted master's thesis research covering demonstrator design, Moldflow simulation, insert fabrication, post-processing, metrology, and injection-molding trials.",
+      "risk_note": "Classify as academic/research experience unless other documents establish employment."
+    },
+    {
+      "claim": "The thesis included collaboration with Karl Storz advisors Siim Jäger and Vadim Satsivkin.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "Advisors: Siim Jäger, Head of the Plastic Processing Department at Karl Storz; Vadim Satsivkin, Production Engineer at Karl Storz",
+      "confidence": "HIGH",
+      "safe_wording": "Worked on thesis under academic supervisors and with advisors from Karl Storz.",
+      "risk_note": "The document does not specify the candidate's role at Karl Storz or any employment contract."
+    },
+    {
+      "claim": "The thesis involved three iterative experimental trials evaluating dimensional accuracy, deformation, demolding performance, and durability.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "To assess feasibility under realistic constraints, three iterative trials evaluated dimensional accuracy, deformation, demolding performance, and durability.",
+      "confidence": "HIGH",
+      "safe_wording": "Ran three thesis trial iterations evaluating dimensional accuracy, deformation, demolding performance, and durability.",
+      "risk_note": "Do not infer that these trials were part of a paid industrial role."
+    }
+  ],
+  "education": [
+    {
+      "claim": "The document identifies Ramin Mahmoudi as the author of a master's thesis.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "Master’s Thesis ... Author: Ramin Mahmoudi",
+      "confidence": "HIGH",
+      "safe_wording": "Authored a master's thesis.",
+      "risk_note": "A thesis document alone does not prove degree completion unless degree award is stated."
+    },
+    {
+      "claim": "The thesis is part of a Master's Programme in Manufacturing.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "Degree programme: Master’s Programme in Manufacturing",
+      "confidence": "HIGH",
+      "safe_wording": "Thesis work associated with a Master's Programme in Manufacturing.",
+      "risk_note": "Do not state graduation date unless independently verified."
+    },
+    {
+      "claim": "The stated major is Additive Manufacturing for Full Flexibility.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "Major: Additive Manufacturing for Full Flexibility",
+      "confidence": "HIGH",
+      "safe_wording": "Major: Additive Manufacturing for Full Flexibility.",
+      "risk_note": "No degree conferral statement is present."
+    },
+    {
+      "claim": "The thesis supervisors were Prof. Friedrich Bleicher from TU Wien, Austria, and Prof. Mika Salmi from Aalto University, Finland.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "Supervisors: Prof. Friedrich Bleicher (TU Wien, Austria); Prof. Mika Salmi (Aalto University, Finland)",
+      "confidence": "HIGH",
+      "safe_wording": "Supervised by Prof. Friedrich Bleicher and Prof. Mika Salmi.",
+      "risk_note": "Supervision does not by itself establish institutional enrollment details beyond what is stated."
+    }
+  ],
+  "certifications": [],
+  "languages": [],
+  "projects": [
+    {
+      "claim": "The thesis project evaluated photopolymer mold inserts for low-volume micro-injection molding.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "The overall objective of this thesis is to evaluate the feasibility of using additively manufactured photopolymer mold inserts, embedded in metallic support frames, for low-volume micro-injection molding of thin-walled components representative of endoscopic products.",
+      "confidence": "HIGH",
+      "safe_wording": "Evaluated AM photopolymer mold inserts for low-volume micro-injection molding in a master's thesis project.",
+      "risk_note": "Do not generalize the result to all photopolymer tooling or all medical devices."
+    },
+    {
+      "claim": "The project compared Formlabs Rigid 10K, Formlabs High Temp, BASF Ultracur3D RG 3280, and Stratasys Digital ABS Plus as mold insert materials.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "Four insert materials are investigated (Formlabs Rigid 10K, Formlabs High Temp, BASF Ultracur3D RG 3280, and Stratasys Digital ABS Plus)",
+      "confidence": "HIGH",
+      "safe_wording": "Compared Rigid 10K, High Temp, Ultracur3D RG 3280, and Digital ABS Plus as candidate AM mold insert materials.",
+      "risk_note": "Do not claim broad materials expertise beyond these researched materials unless separately supported."
+    },
+    {
+      "claim": "The project evaluated antisticking strategies including ta-C-based PVD coating and semi-permanent chemical release.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "compare anti-sticking strategies (e.g., ta-C-based PVD coatings versus semi-permanent chemical release)",
+      "confidence": "HIGH",
+      "safe_wording": "Evaluated ta-C-based PVD coating and semi-permanent chemical release as antisticking strategies.",
+      "risk_note": "The document reports thesis-specific results; do not claim coating process ownership or industrial coating qualification."
+    },
+    {
+      "claim": "The project included a scaled 0.6x part geometry in Trial 3 to investigate size effects on flow and demolding.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "Trial 3 targeted three coupled levers... uniformly downscaling the part geometry to 0.6× to shorten flow length, reduce projected contact area, and lower the required pressure/packing severity.",
+      "confidence": "HIGH",
+      "safe_wording": "Investigated a 0.6x scaled geometry to study flow robustness and demolding behavior.",
+      "risk_note": "Do not infer full product design ownership."
+    }
+  ],
+  "research_or_thesis_evidence": [
+    {
+      "claim": "The thesis included a literature review on AM mold inserts, photopolymer tooling behavior, and rapid tooling strategies.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "Chapter 2 reviews the relevant literature on AM mold inserts, photopolymer tooling behavior, and rapid tooling strategies.",
+      "confidence": "HIGH",
+      "safe_wording": "Conducted literature review on AM mold inserts, photopolymer tooling behavior, and rapid tooling strategies.",
+      "risk_note": "Do not infer publication in a peer-reviewed journal."
+    },
+    {
+      "claim": "The research used a systematic parameter extraction from prior studies.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "To move beyond a purely narrative literature review and toward a data-driven understanding of AM mold inserts, a systematic parameter extraction was carried out across a focused set of prior studies.",
+      "confidence": "HIGH",
+      "safe_wording": "Performed systematic parameter extraction from prior AM rapid tooling studies.",
+      "risk_note": "This is thesis research methodology, not necessarily a formal systematic review publication."
+    },
+    {
+      "claim": "The thesis defined four research objectives covering fabrication fidelity, hybrid tool integration, process-window feasibility, and demolding/adhesion.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "The specific research objectives are: Objective O1... Objective O2... Objective O3... Objective O4...",
+      "confidence": "HIGH",
+      "safe_wording": "Structured thesis research around fabrication fidelity, hybrid tool integration, process-window feasibility, and demolding/adhesion.",
+      "risk_note": "Objectives describe research scope, not proven industry responsibilities."
+    },
+    {
+      "claim": "The thesis concluded that hybrid photopolymer inserts are feasible only within a bounded operating window.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "Overall, hybrid photopolymer inserts are feasible within a bounded operating window.",
+      "confidence": "HIGH",
+      "safe_wording": "Concluded that hybrid photopolymer inserts are feasible within a bounded operating window under the studied conditions.",
+      "risk_note": "Do not state universal feasibility for all tooling, polymers, machines, or geometries."
+    }
+  ],
+  "skills": [
+    {
+      "claim": "Additive manufacturing for polymer tooling",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "Polymer-based AM mold inserts produced by vat photopolymerization and material jetting enable rapid fabrication of fine cavity details...",
+      "confidence": "HIGH",
+      "safe_wording": "Applied additive manufacturing to polymer mold insert tooling in thesis research.",
+      "risk_note": "Skill level is not independently rated."
+    },
+    {
+      "claim": "Micro-injection molding experimentation",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "Experimental micro-molding is performed using a medical-grade LDPE... on a Babyplast 6/12 machine.",
+      "confidence": "HIGH",
+      "safe_wording": "Conducted micro-injection molding experiments using Babyplast 6/12.",
+      "risk_note": "Do not claim commercial production experience."
+    },
+    {
+      "claim": "Mold insert design and feed-system design",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "The essential mold functions that remained (cavity count, gate placement, and runner system) were designed according to standard principles adapted to the constraints of 3D-printed tooling.",
+      "confidence": "HIGH",
+      "safe_wording": "Designed cavity count, gate placement, and runner systems for 3D-printed mold inserts.",
+      "risk_note": "The designs were within a thesis scope and specific tooling constraints."
+    },
+    {
+      "claim": "Dimensional metrology and geometric inspection",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "Several measurement tools were used across the trials to evaluate the dimensional accuracy of the printed inserts... Digital calipers, micrometers, Micro-Hite, Mitutoyo digital indicator, KEYENCE Digital Microscope, Coordinate Measuring Machine.",
+      "confidence": "HIGH",
+      "safe_wording": "Used dimensional metrology tools including calipers, micrometers, height gauge, digital indicator, Keyence microscope, and CMM.",
+      "risk_note": "Do not infer formal metrology certification."
+    },
+    {
+      "claim": "Thermal process monitoring",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "During injection trials, two thermal imaging devices captured insert temperature distributions and time-varying profiles.",
+      "confidence": "HIGH",
+      "safe_wording": "Used thermal imaging to monitor insert temperature distributions and cooling behavior during injection trials.",
+      "risk_note": "Absolute thermography accuracy was treated qualitatively in the thesis."
+    },
+    {
+      "claim": "Experimental design and iterative troubleshooting",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "Trial 1 served as an initial feasibility study... Trial 2 was designed to evaluate improved mold performance... Trial 3 was formulated directly from the Trial 2 lessons...",
+      "confidence": "HIGH",
+      "safe_wording": "Applied iterative experimental troubleshooting across three trial campaigns.",
+      "risk_note": "This is supported as academic experimentation."
+    }
+  ],
+  "software_tools": [
+    {
+      "claim": "Autodesk Moldflow Synergy 2026 and Insight 2026 were used in the thesis workflow.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "The Autodesk Moldflow in this thesis used Synergy 2026 for defining geometry, meshing, materials, and process parameters, while Insight 2026 executed the simulations...",
+      "confidence": "HIGH",
+      "safe_wording": "Used Autodesk Moldflow Synergy 2026 and Insight 2026 for injection molding simulation workflow.",
+      "risk_note": "Do not infer certification or expert-level proficiency."
+    },
+    {
+      "claim": "Creo Parametric 11 was used for part modeling.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "the initial part was modeled using Creo Parametric 11",
+      "confidence": "HIGH",
+      "safe_wording": "Used Creo Parametric 11 for CAD modeling in the thesis.",
+      "risk_note": "Only thesis usage is supported."
+    },
+    {
+      "claim": "PreForm and Lychee Slicer were used for SLA/MSLA slicing.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "Slicing utilized PreForm (Formlabs) and Lychee Slicer (Phrozen).",
+      "confidence": "HIGH",
+      "safe_wording": "Used PreForm and Lychee Slicer for SLA/MSLA print preparation.",
+      "risk_note": "Do not infer professional certification."
+    },
+    {
+      "claim": "GrabCAD Print was used for PolyJet fabrication preparation.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "Digital ABS Plus inserts were fabricated using GrabCAD Print",
+      "confidence": "HIGH",
+      "safe_wording": "Used GrabCAD Print for PolyJet insert fabrication workflow.",
+      "risk_note": "Only usage in the thesis context is supported."
+    },
+    {
+      "claim": "ZEISS Calypso plot protocols were used for CMM surface deviation maps.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "CMM surface deviation maps (ZEISS Calypso plot protocols) were evaluated...",
+      "confidence": "HIGH",
+      "safe_wording": "Evaluated CMM surface deviation maps using ZEISS Calypso plot protocols.",
+      "risk_note": "Do not infer advanced ZEISS Calypso programming expertise beyond the described evaluation."
+    }
+  ],
+  "methods": [
+    {
+      "claim": "Metrology-driven dimensional compensation",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "establish a metrology-driven compensation strategy that accounts for post-curing distortion, geometry-dependent shrinkage/expansion, and axis-dependent anisotropy",
+      "confidence": "HIGH",
+      "safe_wording": "Applied metrology-driven compensation for post-curing distortion and axis-dependent anisotropy.",
+      "risk_note": "Specific scale factors are thesis-specific and should not be generalized."
+    },
+    {
+      "claim": "Gate-location analysis and flow simulation",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "Moldflow results were used to select a robust gate location for the part geometry.",
+      "confidence": "HIGH",
+      "safe_wording": "Used Moldflow gate-location and flow analyses to support mold design decisions.",
+      "risk_note": "The thesis states simulations were design-support tools, not absolute outcome predictors."
+    },
+    {
+      "claim": "Thermal post-curing workflow evaluation",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "Thermal post-curing induced material- and axis-dependent deformation.",
+      "confidence": "HIGH",
+      "safe_wording": "Evaluated the dimensional effects of thermal post-curing on photopolymer inserts.",
+      "risk_note": "Mechanical property validation after curing was not fully established."
+    },
+    {
+      "claim": "Surface roughness and microscopic surface evaluation",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "Surface roughness was evaluated for representative regions... Microscopic inspection was performed to complement the qualitative roughness analysis...",
+      "confidence": "HIGH",
+      "safe_wording": "Performed surface roughness and microscopic inspection of printed mold inserts.",
+      "risk_note": "Do not infer all surface metrology standards used unless stated."
+    },
+    {
+      "claim": "Comparative antisticking evaluation",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "Trial 3 introduced a dedicated antisticking workflow based on two complementary strategies... PVD coating... semi-permanent mold-release system.",
+      "confidence": "HIGH",
+      "safe_wording": "Compared ta-C-based PVD coating and semi-permanent chemical release as antisticking approaches.",
+      "risk_note": "Results are limited to the tested geometry, materials, and process conditions."
+    }
+  ],
+  "domains": [
+    {
+      "claim": "Additive manufacturing",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "Additive manufacturing (AM) enables rapid tooling for low-volume injection molding...",
+      "confidence": "HIGH",
+      "safe_wording": "Thesis domain: additive manufacturing for rapid tooling.",
+      "risk_note": "Domain exposure does not imply all AM technologies."
+    },
+    {
+      "claim": "Micro-injection molding",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "micro-injection molding of thin-walled components representative of endoscopic products",
+      "confidence": "HIGH",
+      "safe_wording": "Thesis domain: micro-injection molding of thin-walled components.",
+      "risk_note": "Do not claim broad industrial micro-molding production experience."
+    },
+    {
+      "claim": "Rapid tooling and polymer mold inserts",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "polymer-based AM mold inserts produced by vat photopolymerization and material jetting enable rapid fabrication...",
+      "confidence": "HIGH",
+      "safe_wording": "Worked in the domain of polymer AM rapid tooling and mold inserts.",
+      "risk_note": "Specific to low-volume and prototype/pre-series contexts."
+    },
+    {
+      "claim": "Endoscopy-representative components",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "thin-walled components representative of endoscopic products",
+      "confidence": "HIGH",
+      "safe_wording": "Studied thin-walled geometries representative of endoscopic product features.",
+      "risk_note": "Do not claim medical device design authorization or regulatory experience."
+    },
+    {
+      "claim": "Photopolymer tooling and thermomechanical behavior",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "photopolymer inserts remain constrained by thermomechanical performance",
+      "confidence": "HIGH",
+      "safe_wording": "Studied thermomechanical constraints of photopolymer mold inserts.",
+      "risk_note": "Do not overstate as comprehensive polymer materials engineering expertise."
+    }
+  ],
+  "achievements": [
+    {
+      "claim": "The thesis achieved a stable operating phase in Trial 3 with Rigid 10K small-geometry inserts producing filled parts with minimal flash and smooth demolding.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "A distinct steady-state regime was reached between Shots 57 and 75... the insert consistently produced filled parts with minimal flash and smooth demolding.",
+      "confidence": "HIGH",
+      "safe_wording": "Established a stable Trial 3 molding phase for scaled Rigid 10K inserts with filled parts, minimal flash, and smooth demolding.",
+      "risk_note": "The result is limited to the tested scaled geometry and process conditions."
+    },
+    {
+      "claim": "The Rigid 10K insert endured more than 60 high-load cycles without structural degradation in Trial 3.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "The Rigid10K insert endured more than 60 high-load cycles without structural degradation, and the injection campaign concluded due to scheduling constraints rather than tool failure.",
+      "confidence": "HIGH",
+      "safe_wording": "Demonstrated more than 60 high-load cycles without structural degradation for the scaled Rigid 10K insert in Trial 3.",
+      "risk_note": "Do not generalize this cycle count to all Rigid 10K inserts or geometries."
+    },
+    {
+      "claim": "The thesis identified closure stack-up as a primary gating condition for hybrid photopolymer tooling success.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "the primary prerequisite for reliable polymer AM tooling in this thesis is closure suitability: the insert height relative to the pocket depth must be tightly controlled...",
+      "confidence": "HIGH",
+      "safe_wording": "Identified closure stack-up control as a key requirement for reliable hybrid photopolymer tooling.",
+      "risk_note": "This is a thesis conclusion based on the studied setup."
+    },
+    {
+      "claim": "The thesis found that chemical release treatment was more effective than ta-C + TiO coating for the tested SLA inserts.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "the chemically treated core showed clearly smoother release and less severe sticking than its ta-C-based coated counterpart.",
+      "confidence": "HIGH",
+      "safe_wording": "Found that semi-permanent chemical release gave better practical demolding behavior than ta-C + TiO coating under the tested conditions.",
+      "risk_note": "Do not present as a universal coating conclusion beyond the tested materials and geometry."
+    }
+  ],
+  "strengths": [
+    {
+      "claim": "Evidence of systematic experimental iteration",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "Trial 3 was formulated directly from the Trial 2 lessons...",
+      "confidence": "HIGH",
+      "safe_wording": "Demonstrated systematic iteration from Trial 1 through Trial 3 based on observed failure modes and measurements.",
+      "risk_note": "This is a factual process strength, not third-party praise."
+    },
+    {
+      "claim": "Evidence of careful limitation handling and cautious interpretation",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "The simulations were not intended to define final process settings... thermal results are interpreted only as qualitative cycling-level indicators...",
+      "confidence": "HIGH",
+      "safe_wording": "Interpreted simulation and thermal measurement results with explicit limitations.",
+      "risk_note": "Do not convert this into a personality claim such as 'always cautious' without external evidence."
+    },
+    {
+      "claim": "Evidence of cross-functional collaboration with academic supervisors and industrial advisors",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "Supervisors: Prof. Friedrich Bleicher... Prof. Mika Salmi... Collaborative partner: Karl Storz Video Endoscopy Estonia; Advisors: Siim Jäger... Vadim Satsivkin...",
+      "confidence": "HIGH",
+      "safe_wording": "Worked in a supervised academic project with industrial collaboration from Karl Storz advisors.",
+      "risk_note": "Do not claim employment, management responsibility, or direct customer-facing role."
+    }
+  ],
+  "safe_claims": [
+    {
+      "claim": "Ramin Mahmoudi can safely claim thesis research experience in AM photopolymer mold inserts for micro-injection molding.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "This thesis evaluates additively manufactured photopolymer mold inserts embedded in metallic frames for micro-injection molding...",
+      "confidence": "HIGH",
+      "safe_wording": "Master's thesis research in additively manufactured photopolymer mold inserts for low-volume micro-injection molding.",
+      "risk_note": "Use 'thesis research' or 'academic research' wording."
+    },
+    {
+      "claim": "Ramin Mahmoudi can safely claim experience using Autodesk Moldflow in a thesis context.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "Autodesk Moldflow studies supported the workflow through gate-location selection, nominal machine capability checks, and machine-driven shot reconstruction.",
+      "confidence": "HIGH",
+      "safe_wording": "Used Autodesk Moldflow for thesis-based gate-location, capability, and shot-reconstruction analyses.",
+      "risk_note": "Avoid claiming certified Moldflow specialist."
+    },
+    {
+      "claim": "Ramin Mahmoudi can safely claim hands-on exposure to Babyplast 6/12 micro-injection molding experiments.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "Experimental trials used the Babyplast 6/12...",
+      "confidence": "HIGH",
+      "safe_wording": "Conducted thesis experiments on a Babyplast 6/12 micro-injection molding machine.",
+      "risk_note": "Avoid claiming production operator role unless supported elsewhere."
+    },
+    {
+      "claim": "Ramin Mahmoudi can safely claim use of CMM, Keyence digital microscope, thermal imaging, and conventional dimensional tools in thesis measurements.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "KEYENCE Digital Microscope VHX-X1 Series... Coordinate Measuring Machine... FLIR E6-XT Wi-Fi... TE-SQ1...",
+      "confidence": "HIGH",
+      "safe_wording": "Used CMM, Keyence digital microscopy, thermal imaging, and handheld metrology tools for thesis evaluation.",
+      "risk_note": "Avoid claiming accredited inspection authority."
+    }
+  ],
+  "uncertain_claims": [
+    {
+      "claim": "The master's degree may have been completed in December 2025.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "Date: December 2025",
+      "confidence": "LOW",
+      "safe_wording": "The thesis document is dated December 2025.",
+      "risk_note": "The date may refer to thesis date, submission date, or planned date; do not state degree completion or graduation without confirmation."
+    },
+    {
+      "claim": "Ramin Mahmoudi may have direct industrial collaboration experience with Karl Storz.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "Collaborative partner: Karl Storz Video Endoscopy Estonia; Advisors: Siim Jäger... Vadim Satsivkin...",
+      "confidence": "MEDIUM",
+      "safe_wording": "The thesis lists Karl Storz Video Endoscopy Estonia as a collaborative partner and includes Karl Storz advisors.",
+      "risk_note": "Do not infer employment, internship, contractor status, or duration."
+    },
+    {
+      "claim": "The candidate has English writing ability.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "Abstract (English): ...",
+      "confidence": "MEDIUM",
+      "safe_wording": "The thesis includes an English abstract and English technical content.",
+      "risk_note": "Do not claim English fluency or language proficiency level from this document alone."
+    }
+  ],
+  "forbidden_or_risky_claims": [
+    {
+      "claim": "Ramin Mahmoudi is employed by Karl Storz.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "Collaborative partner: Karl Storz Video Endoscopy Estonia; Advisors: Siim Jäger... Vadim Satsivkin...",
+      "confidence": "HIGH",
+      "safe_wording": "Karl Storz Video Endoscopy Estonia was the collaborative partner for the thesis.",
+      "risk_note": "The document names Karl Storz as a partner and names advisors, but does not state that the author was employed there."
+    },
+    {
+      "claim": "Ramin Mahmoudi has a completed master's degree.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "Master’s Thesis... Degree programme: Master’s Programme in Manufacturing... Date: December 2025",
+      "confidence": "HIGH",
+      "safe_wording": "Authored a master's thesis associated with a Master's Programme in Manufacturing.",
+      "risk_note": "The document does not state degree awarded, graduation, or completion status."
+    },
+    {
+      "claim": "Ramin Mahmoudi is certified in Autodesk Moldflow, CMM, injection molding, or additive manufacturing.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "The document describes use of Autodesk Moldflow, CMM, injection molding equipment, and AM processes but lists no certifications.",
+      "confidence": "HIGH",
+      "safe_wording": "Used these tools and methods in thesis research.",
+      "risk_note": "No certification evidence is present."
+    },
+    {
+      "claim": "Ramin Mahmoudi has medical device regulatory experience.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "thin-walled components representative of endoscopic products; medical-grade LDPE",
+      "confidence": "HIGH",
+      "safe_wording": "Worked on endoscopy-representative component geometries and medical-grade LDPE in thesis experiments.",
+      "risk_note": "The document does not discuss regulatory compliance, validation, ISO 13485, FDA, CE marking, or medical device approval work."
+    },
+    {
+      "claim": "The thesis results prove the process is ready for industrial production.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "hybrid photopolymer inserts are feasible within a bounded operating window; findings are most directly applicable to short-run prototyping and pre-series contexts...",
+      "confidence": "HIGH",
+      "safe_wording": "The thesis supports bounded feasibility for short-run prototyping and pre-series contexts under comparable constraints.",
+      "risk_note": "The document explicitly limits applicability and does not claim full production readiness."
+    }
+  ],
+  "timeline": [
+    {
+      "claim": "The thesis document is dated December 2025.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "Date: December 2025",
+      "confidence": "HIGH",
+      "safe_wording": "Thesis date: December 2025.",
+      "risk_note": "Do not infer graduation or employment dates from this date."
+    },
+    {
+      "claim": "Trial 1 served as the initial feasibility study.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "Trial 1 served as an initial feasibility study of this thesis.",
+      "confidence": "HIGH",
+      "safe_wording": "Trial 1 was the initial feasibility study.",
+      "risk_note": "No exact calendar date for Trial 1 is provided."
+    },
+    {
+      "claim": "Trial 2 evaluated improved mold performance after Trial 1 updates.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "Trial 2 was designed to evaluate improved mold performance after implementing the design, post-processing, and dimensional-compensation adjustments derived from Trial 1.",
+      "confidence": "HIGH",
+      "safe_wording": "Trial 2 followed Trial 1 and evaluated updated design and compensation strategies.",
+      "risk_note": "No exact calendar date for Trial 2 is provided."
+    },
+    {
+      "claim": "Trial 3 was formulated from Trial 2 lessons and targeted flow capability, release reliability, and closure repeatability.",
+      "source_id": "DOC-002",
+      "source_type_inferred_from_content": "Master's thesis",
+      "evidence": "Trial 3 was formulated directly from the Trial 2 lessons... targeted three coupled levers to widen the feasible operating window: improving flow capability, improving release reliability, and improving closure repeatability.",
+      "confidence": "HIGH",
+      "safe_wording": "Trial 3 built on Trial 2 lessons and targeted flow, release, and closure improvements.",
+      "risk_note": "No exact calendar date for Trial 3 is provided."
+    }
+  ],
+  "metadata": {
+    "extraction_type": "generic_document_extraction",
+    "file_name_used_for_reasoning": false
+  }
+}

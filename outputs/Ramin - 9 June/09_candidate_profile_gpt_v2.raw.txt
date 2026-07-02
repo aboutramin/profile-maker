@@ -1,0 +1,786 @@
+{
+  "candidate_identity": {
+    "name": "Ramin Mahmoudi",
+    "current_role": "Laser Metal Additive Manufacturing Researcher",
+    "location": "Espoo, Finland (self-presented; current role listed at University of Turku, Finland)",
+    "target_roles": []
+  },
+  "languages": [
+    "English (Fluent)",
+    "Persian (Native)"
+  ],
+  "certifications": [],
+  "education": [
+    {
+      "degree": "M.Sc. Additive Manufacturing / Master's Programme in Manufacturing (listed; degree conferral not independently verified)",
+      "field": "Additive Manufacturing for Full Flexibility",
+      "institution": "Aalto University and Vienna University of Technology",
+      "location": "Finland and Austria",
+      "dates": "2023-2025",
+      "details": [
+        "CV lists GPA 4.7/5; Aalto reference reports average grade 4.68/5",
+        "Thesis: Additively Manufactured Photopolymer Mold Inserts for Low-Volume Micro-Injection Molding",
+        "Thesis grade reported as 5",
+        "Thesis supervisors: Prof. Friedrich Bleicher and Prof. Mika Salmi; Karl Storz advisors: Siim Jäger and Vadim Satsivkin"
+      ]
+    },
+    {
+      "degree": "B.Sc.",
+      "field": "Mechanical Engineering",
+      "institution": "Azad University",
+      "location": "",
+      "dates": "2009-2014",
+      "details": []
+    },
+    {
+      "degree": "B.Sc.",
+      "field": "Industrial Management",
+      "institution": "Payam Noor University",
+      "location": "",
+      "dates": "2010-2015",
+      "details": []
+    }
+  ],
+  "career_timeline": [
+    {
+      "role": "Laser Metal Additive Manufacturing Researcher",
+      "organization": "University of Turku",
+      "location": "Finland",
+      "dates": "April 2026-present",
+      "keywords": [
+        "laser metal additive manufacturing",
+        "technical development",
+        "commercialization planning",
+        "market validation",
+        "stakeholder interviews",
+        "NVivo",
+        "competitor analysis",
+        "IP-related documentation"
+      ]
+    },
+    {
+      "role": "Master Thesis Student - Manufacturing / Additive Manufacturing Engineering",
+      "organization": "Karl Storz Video Endoscopy Estonia / Aalto University collaboration",
+      "location": "Estonia",
+      "dates": "April 2025-December 2025",
+      "keywords": [
+        "thesis-based industrial collaboration",
+        "AM photopolymer mold inserts",
+        "micro-injection molding",
+        "PTC Creo",
+        "Autodesk Moldflow",
+        "CMM",
+        "microscopy",
+        "profilometry",
+        "Babyplast 6/12",
+        "LDPE"
+      ]
+    },
+    {
+      "role": "Research Assistant - Photonic Measurement Systems",
+      "organization": "Institute of Production Engineering and Photonic Technologies, TU Wien",
+      "location": "Austria",
+      "dates": "October 2024-March 2025",
+      "keywords": [
+        "optical measurement setups",
+        "opto-mechanical fixtures",
+        "motion stages",
+        "imaging ellipsometry",
+        "thin-film analysis",
+        "sample positioning automation",
+        "measurement data processing"
+      ]
+    },
+    {
+      "role": "Mechanical Engineer & Co-founder",
+      "organization": "Atron",
+      "location": "",
+      "dates": "August 2020-August 2023",
+      "keywords": [
+        "industrial gas equipment",
+        "industrial gas pressure regulator",
+        "60+ component assembly",
+        "CAD",
+        "prototyping",
+        "DFM/DFA",
+        "supplier coordination",
+        "manufacturing coordination",
+        "testing",
+        "assembly",
+        "delivery",
+        "customer coordination",
+        "IKCO",
+        "Golgohar Mining & Industrial",
+        "SSECO",
+        "Tehran-based distributor"
+      ]
+    },
+    {
+      "role": "Mechanical Engineer & Operations Supervisor",
+      "organization": "Novin Technic",
+      "location": "",
+      "dates": "July 2018-July 2020",
+      "keywords": [
+        "display systems for textiles and flooring",
+        "product improvement",
+        "technical documentation",
+        "process standards",
+        "production workflows",
+        "inventory management",
+        "Excel scheduling tools",
+        "cost analysis",
+        "international exhibition technical communication"
+      ]
+    }
+  ],
+  "verified_projects": [
+    {
+      "name": "AM photopolymer mold inserts for low-volume micro-injection molding",
+      "keywords": [
+        "master's thesis",
+        "Karl Storz Video Endoscopy Estonia collaboration",
+        "thin-walled endoscopy-representative components",
+        "hybrid metallic frames",
+        "SLA/MSLA",
+        "PolyJet",
+        "Rigid 10K",
+        "High Temp",
+        "Ultracur3D RG 3280",
+        "Digital ABS Plus",
+        "three iterative trials",
+        "demolding bottleneck",
+        "closure stack-up control",
+        "bounded operating window",
+        "ta-C + TiO PVD coating no measurable release improvement under tested conditions",
+        "semi-permanent chemical release qualitatively reduced adhesion",
+        "durability",
+        "dimensional accuracy"
+      ],
+      "tools": [
+        "PTC Creo",
+        "Autodesk Moldflow",
+        "Babyplast 6/12",
+        "ZEISS DuraMax CMM",
+        "KEYENCE microscope",
+        "PreForm",
+        "Lychee Slicer",
+        "GrabCAD Print",
+        "ZEISS Calypso"
+      ],
+      "domains": [
+        "Additive Manufacturing",
+        "Rapid Tooling",
+        "Micro-Injection Molding",
+        "Polymer Tooling",
+        "Medical/Endoscopy-Representative Components"
+      ]
+    },
+    {
+      "name": "Industrial Gas Pressure Regulator",
+      "keywords": [
+        "Atron",
+        "industrial gas equipment",
+        "60+ components",
+        "18-month development cycle",
+        "released February 2022 according to portfolio",
+        "CAD",
+        "prototyping",
+        "manufacturing coordination",
+        "testing",
+        "assembly",
+        "supplier coordination",
+        "customer coordination",
+        "IKCO",
+        "Golgohar Mining & Industrial",
+        "SSECO"
+      ],
+      "tools": [],
+      "domains": [
+        "Mechanical Design",
+        "Product Development",
+        "Industrial Hardware",
+        "Manufacturing Engineering"
+      ]
+    },
+    {
+      "name": "Photonic measurement systems and opto-mechanical fixtures",
+      "keywords": [
+        "TU Wien",
+        "optical measurement experiments",
+        "lenses",
+        "cameras",
+        "laser-based elements",
+        "custom fixtures",
+        "alignment stability",
+        "motor-driven linear motion",
+        "sample positioning automation",
+        "imaging ellipsometry"
+      ],
+      "tools": [
+        "in-house measurement software"
+      ],
+      "domains": [
+        "Photonic Measurement Systems",
+        "Opto-Mechanical Design",
+        "Laboratory Automation",
+        "Metrology"
+      ]
+    },
+    {
+      "name": "Laser metal additive manufacturing commercialization research",
+      "keywords": [
+        "stakeholder interviews",
+        "expert interviews",
+        "application needs",
+        "adoption barriers",
+        "technical requirements",
+        "market research",
+        "competitor analysis",
+        "commercialization planning",
+        "IP-related documentation"
+      ],
+      "tools": [
+        "NVivo"
+      ],
+      "domains": [
+        "Laser Metal Additive Manufacturing",
+        "Research",
+        "Commercialization",
+        "Market Validation"
+      ]
+    },
+    {
+      "name": "BikePark rail innovation challenge",
+      "keywords": [
+        "electric vertical bike rack",
+        "train bike storage",
+        "full-size prototype",
+        "35 kg bike capacity",
+        "team project",
+        "3rd place",
+        "FERROCAMPUS",
+        "120 teams"
+      ],
+      "tools": [],
+      "domains": [
+        "Rail Transportation",
+        "Product Concept Development",
+        "Prototype Development"
+      ]
+    },
+    {
+      "name": "Valve casting case study",
+      "keywords": [
+        "industrial valve",
+        "mold design",
+        "core design",
+        "casting analysis",
+        "material selection"
+      ],
+      "tools": [
+        "PTC Creo",
+        "Altair Inspire Casting",
+        "Granta EduPack"
+      ],
+      "domains": [
+        "Casting",
+        "Manufacturing Simulation",
+        "Material Selection"
+      ]
+    },
+    {
+      "name": "Lower torsion link topology optimization",
+      "keywords": [
+        "aircraft nose landing gear",
+        "topology optimization",
+        "frequency constraints",
+        "shimmy mitigation",
+        "75% mass reduction reported",
+        "safety factor 2.3 reported"
+      ],
+      "tools": [
+        "Altair Inspire"
+      ],
+      "domains": [
+        "CAE",
+        "Structural Optimization",
+        "Aerospace Concept Analysis"
+      ]
+    },
+    {
+      "name": "Sewing machine mechanism analysis",
+      "keywords": [
+        "mechanism design",
+        "kinematic analysis",
+        "dynamic analysis",
+        "strength analysis",
+        "FEM",
+        "MBS-derived forces",
+        "requirements-based constraints"
+      ],
+      "tools": [
+        "Siemens NX"
+      ],
+      "domains": [
+        "Mechanism Design",
+        "CAE",
+        "Mechanical Analysis"
+      ]
+    },
+    {
+      "name": "CubeSat magnetometer deployment mechanism",
+      "keywords": [
+        "team project",
+        "prototype",
+        "deployment mechanism",
+        "magnetometer",
+        "3D CAD",
+        "MBS",
+        "FEM",
+        "aluminum",
+        "titanium"
+      ],
+      "tools": [],
+      "domains": [
+        "Space Mechanism Prototyping",
+        "Mechanical Design",
+        "CAE"
+      ]
+    },
+    {
+      "name": "Metal additive manufacturing simulation",
+      "keywords": [
+        "part orientation",
+        "0 degrees",
+        "45 degrees",
+        "90 degrees",
+        "printability",
+        "support requirements",
+        "displacement",
+        "surface deviation",
+        "cost"
+      ],
+      "tools": [
+        "Simufact Additive"
+      ],
+      "domains": [
+        "Metal Additive Manufacturing",
+        "Process Simulation"
+      ]
+    },
+    {
+      "name": "Manufacturing methods machining projects",
+      "keywords": [
+        "turning",
+        "milling",
+        "drilling",
+        "grooving",
+        "filleting",
+        "chamfering",
+        "NC programming",
+        "CAD/CAM fundamentals",
+        "CNC code generation",
+        "machining time calculation"
+      ],
+      "tools": [
+        "PTC Creo",
+        "Colchester Mascot 1600",
+        "Enrique Holke machines",
+        "Okuma CNC Lathe"
+      ],
+      "domains": [
+        "Machining",
+        "Manufacturing Training",
+        "CNC"
+      ]
+    },
+    {
+      "name": "3D-printed consumer product concepts",
+      "keywords": [
+        "key holder",
+        "mobile stand",
+        "support-free printability",
+        "lattice design",
+        "laser-cut packaging",
+        "kerf consideration",
+        "print setting optimization"
+      ],
+      "tools": [
+        "PTC Creo",
+        "Ultimaker Cura",
+        "Corel Draw",
+        "nTop"
+      ],
+      "domains": [
+        "Product Design",
+        "Additive Manufacturing",
+        "Prototyping"
+      ]
+    }
+  ],
+  "verified_skills": [
+    "Mechanical design and product development",
+    "CAD and assembly design",
+    "Prototype development, testing, assembly, and delivery",
+    "Technical drawings, GD&T, tolerance analysis, and design reviews",
+    "DFM/DFA and manufacturing planning",
+    "Supplier and manufacturing partner coordination",
+    "Production workflow coordination, inventory management, scheduling, and cost analysis",
+    "Technical documentation and process standards",
+    "Additive manufacturing for rapid tooling and prototyping",
+    "Laser metal additive manufacturing research support",
+    "SLA/MSLA and PolyJet thesis workflows",
+    "Build preparation, support strategy, post-processing, and print-setting optimization",
+    "AM process simulation and metal AM orientation studies",
+    "Photopolymer mold insert design and micro-injection molding experimentation",
+    "Gate-location evaluation and runner/feed-system design",
+    "Injection molding process evaluation",
+    "Manufacturing process exposure including casting, rubber injection molding, CNC machining, laser cutting, pressing, and assembly",
+    "Turning, milling, drilling, NC/CAD-CAM fundamentals, and CNC code generation",
+    "Metrology and dimensional inspection",
+    "CMM inspection, profilometry, digital microscopy, surface roughness evaluation, and thermal imaging",
+    "Failure mode identification and iterative troubleshooting",
+    "Opto-mechanical fixture design and optical measurement setup operation",
+    "Laboratory automation and sample positioning mechanisms",
+    "Measurement data processing, data analysis, and data visualization",
+    "Experimental design and systematic documentation",
+    "Market research, competitor analysis, stakeholder interviews, and qualitative interview analysis",
+    "Commercialization planning support",
+    "Material selection",
+    "CAE, FEM, multibody simulation workflow, and topology optimization",
+    "Technical communication and customer coordination",
+    "Cross-functional collaboration"
+  ],
+  "verified_software": [
+    "PTC Creo / Creo Parametric 11",
+    "Siemens NX",
+    "Autodesk Moldflow / Synergy / Insight",
+    "Altair Inspire",
+    "Altair Inspire Casting",
+    "Simufact Additive",
+    "Materialise Magics",
+    "nTop",
+    "Granta EduPack",
+    "Ultimaker Cura",
+    "PreForm",
+    "Lychee Slicer",
+    "GrabCAD Print",
+    "ZEISS Calypso",
+    "ZEISS DuraMax CMM",
+    "Corel Draw",
+    "Excel",
+    "VBA",
+    "Python",
+    "NVivo"
+  ],
+  "verified_methods": [
+    "DFM/DFA",
+    "GD&T",
+    "Tolerance Analysis",
+    "Failure Analysis",
+    "FEM",
+    "Multibody Simulation",
+    "Topology Optimization",
+    "Frequency-Constrained Optimization",
+    "Design for Additive Manufacturing",
+    "AM Process Simulation",
+    "Micro-Injection Molding",
+    "Injection Molding Simulation",
+    "Gate-Location Analysis",
+    "Metrology-Driven Dimensional Compensation",
+    "Thermal Post-Curing Evaluation",
+    "Surface Roughness Evaluation",
+    "Microscopic Inspection",
+    "Comparative Antisticking Evaluation",
+    "PVD Coating Evaluation",
+    "Semi-Permanent Chemical Release Evaluation",
+    "Casting Simulation",
+    "Material Selection",
+    "CNC Machining",
+    "NC/CAD-CAM Programming",
+    "Optical Measurement Experiments",
+    "Calibration and Repeatability Practices",
+    "Qualitative Interview Analysis",
+    "Competitor Analysis",
+    "Market Validation"
+  ],
+  "verified_domains": [
+    "Mechanical Engineering",
+    "Manufacturing Engineering",
+    "Additive Manufacturing",
+    "Laser Metal Additive Manufacturing",
+    "Rapid Tooling",
+    "Polymer Mold Inserts",
+    "Micro-Injection Molding",
+    "Photopolymer Tooling",
+    "Endoscopy-Representative Components",
+    "Medical Device Manufacturing Context",
+    "Product Development",
+    "Mechanical Design",
+    "Industrial Gas Equipment",
+    "Industrial Control Equipment",
+    "Display Systems for Textiles and Flooring",
+    "Photonic Measurement Systems",
+    "Opto-Mechanical Systems",
+    "Metrology",
+    "Casting",
+    "Machining",
+    "CNC",
+    "CAE",
+    "Rail Transportation Concepts",
+    "Space Mechanism Prototyping",
+    "Metal Additive Manufacturing Simulation",
+    "Research",
+    "Commercialization"
+  ],
+  "verified_achievements": [
+    "Dean's List, Aalto School of Engineering, 2023-2024",
+    "EIT Manufacturing scholarship recipient, as listed in CV",
+    "Academic references report average grade 4.68/5, thesis grade 5, Production Engineering grade 5/top 5%, Advanced Casting Technology grade 5, and Manufacturing Methods 2 NC-exam pass with distinction",
+    "CV lists M.Sc. GPA as 4.7/5",
+    "3rd place with Team BikePark in the 2024 Rail Innovation Challenge by FERROCAMPUS, reported among 120 teams in France",
+    "Contributed to launching an Industrial Gas Pressure Regulator after an 18-month development cycle",
+    "Thesis Trial 3 reported more than 60 high-load cycles without structural degradation for scaled Rigid 10K insert under tested conditions",
+    "Thesis identified demolding as the dominant bottleneck and closure stack-up control as a key prerequisite for reliable hybrid photopolymer tooling"
+  ],
+  "verified_strengths": [
+    "Cross-functional collaboration with suppliers, manufacturing partners, stakeholders, customers, academic supervisors, and industrial advisors",
+    "Hands-on mechanical design and prototyping orientation",
+    "Measurement-driven engineering decisions",
+    "Systematic experimental iteration",
+    "Structured technical documentation",
+    "Technical communication with customers, engineers, and exhibition contexts",
+    "Referee-supported ability to bridge academic research with industrial needs",
+    "Attention to manufacturing constraints",
+    "Team-based engineering project experience",
+    "Analytical problem solving in research and CAE contexts"
+  ],
+  "safe_claim_bank": [
+    "Mechanical engineer with education in additive manufacturing, manufacturing, and mechanical engineering.",
+    "Listed M.Sc. in Additive Manufacturing; degree conferral should not be asserted without a diploma or transcript.",
+    "Experience in mechanical design, product development, manufacturing coordination, prototyping, testing, assembly, and delivery for industrial hardware.",
+    "Co-founded or helped establish an industrial gas equipment startup and contributed to launching an Industrial Gas Pressure Regulator.",
+    "Experience with DFM/DFA and manufacturing planning across multiple conventional manufacturing processes.",
+    "Research assistant experience in photonic measurement systems, optical measurement setups, opto-mechanical fixtures, and laboratory automation.",
+    "Research experience in laser metal additive manufacturing, including market validation and commercialization planning support.",
+    "Master's thesis research in additively manufactured photopolymer mold inserts for low-volume micro-injection molding.",
+    "Thesis collaboration was with Karl Storz Video Endoscopy Estonia and Aalto University; do not present as regular Karl Storz employment.",
+    "Used Autodesk Moldflow for thesis-based gate-location, pressure/flow feasibility, capability, and shot-reconstruction analyses.",
+    "Used PTC Creo for mold insert, casting, product, and machining-related design tasks.",
+    "Used CMM, microscopy, profilometry, thermal imaging, and handheld tools for thesis metrology and validation.",
+    "Conducted thesis experiments on a Babyplast 6/12 micro-injection molding machine using medical-grade LDPE Purell 2410T.",
+    "Project experience with CAE methods including FEM, MBS, topology optimization, casting simulation, and metal AM simulation.",
+    "Project experience with additive manufacturing workflows including SLA/MSLA, PolyJet, print preparation, support strategy, post-processing, and print-setting optimization.",
+    "Experience coordinating production workflows, inventory, technical documentation, and Excel-based scheduling/cost-analysis tools.",
+    "Academic references report strong performance, including a 4.68/5 average, thesis grade 5, and multiple grade-5 course results.",
+    "Team-based innovation project experience, including a 3rd-place Rail Innovation Challenge result with Team BikePark."
+  ],
+  "forbidden_claims": [
+    "Licensed Professional Engineer, chartered engineer, or regulated engineering license holder.",
+    "Certified user or expert in PTC Creo, Autodesk Moldflow, Siemens NX, Altair Inspire, Simufact Additive, CMM, injection molding, additive manufacturing, or other tools without separate certification evidence.",
+    "Course grades, Dean's List, or Manufacturing Methods 2 NC-exam distinction described as professional certifications.",
+    "ISO 13485, FDA, MDR, CE marking, or regulated medical-device compliance experience.",
+    "Published academic papers, peer-reviewed publications, granted patents, patent applications, or named inventor status.",
+    "Sole founder, CEO, or sole owner of Atron.",
+    "Solely developed, commercialized, or delivered the Industrial Gas Pressure Regulator.",
+    "Quantified revenue growth, cost savings, production volume, market share, or operational improvement metrics.",
+    "Regular full-time engineering employment at Karl Storz unless separately verified; supported wording is thesis student/collaborative thesis work.",
+    "Commercial production readiness or regulatory readiness of the thesis tooling process.",
+    "Universal feasibility of hybrid photopolymer mold inserts beyond the tested bounded operating window.",
+    "Space-qualified, launched, or flight-proven CubeSat mechanism.",
+    "Aerospace-certified design authority based on the landing-gear topology optimization project.",
+    "Advanced Python, VBA, LabVIEW, MATLAB, or automation programming expertise unless separately supported.",
+    "Medical-device design authorization or clinical product development responsibility.",
+    "Completed M.Sc. degree or graduation date unless supported by official degree evidence."
+  ],
+  "uncertain_claims": [
+    "Official M.Sc. degree conferral is not independently proven by diploma/transcript in the extracted evidence, although the CV lists an M.Sc. and references report a graded thesis.",
+    "Current residence is stated as Espoo, Finland in a portfolio cover page; institutional role is at University of Turku, Finland.",
+    "Hands-on experience with every listed AM process is not equally evidenced; FDM appears mainly as a listed skill rather than a project-specific process.",
+    "Advanced Python or VBA proficiency is not supported beyond listing these as data/productivity skills.",
+    "Patent or IP filing experience is not supported; only IP-related documentation is mentioned.",
+    "Exact legal founder status, ownership share, and company registration details for Atron are not provided.",
+    "Depth of direct hands-on work in each Atron manufacturing process is unclear, especially welding and painting/coating.",
+    "Summer School 2024, Winter School 2026, and three INDUSAC innovation project certificates are mentioned, but issuer/topic/details are not visible in extracted text.",
+    "BikePark feedback from VR/SNCF-related stakeholders is summarized but not independently documented with formal evaluation data.",
+    "Employment type, contract type, and working hours for University of Turku and TU Wien roles are not specified.",
+    "Topology optimization project reported 75% mass reduction and safety factor 2.3, but supporting calculations/validation are not visible.",
+    "Date of birth 13 October 1990 appears in a reference letter; it is sensitive personal data and should only be used where required."
+  ],
+  "evidence_index": [
+    {
+      "claim": "Candidate identity: Ramin Mahmoudi",
+      "sources": [
+        "DOC-002",
+        "DOC-003",
+        "DOC-004"
+      ]
+    },
+    {
+      "claim": "Location stated as Espoo, Finland; willing to relocate/travel",
+      "sources": [
+        "DOC-003"
+      ]
+    },
+    {
+      "claim": "Current role listed as Laser Metal Additive Manufacturing Researcher at University of Turku",
+      "sources": [
+        "DOC-001"
+      ]
+    },
+    {
+      "claim": "M.Sc. / Master's Programme in Manufacturing with Additive Manufacturing for Full Flexibility focus; degree conferral not independently proven",
+      "sources": [
+        "DOC-001",
+        "DOC-002",
+        "DOC-003"
+      ]
+    },
+    {
+      "claim": "Thesis on additively manufactured photopolymer mold inserts for low-volume micro-injection molding",
+      "sources": [
+        "DOC-002",
+        "DOC-003",
+        "DOC-004"
+      ]
+    },
+    {
+      "claim": "Thesis supervisors and Karl Storz advisors",
+      "sources": [
+        "DOC-002",
+        "DOC-003"
+      ]
+    },
+    {
+      "claim": "Thesis grade 5 and average study grade 4.68/5 reported by academic reference; CV lists GPA 4.7/5",
+      "sources": [
+        "DOC-001",
+        "DOC-003"
+      ]
+    },
+    {
+      "claim": "B.Sc. Mechanical Engineering and B.Sc. Industrial Management listed",
+      "sources": [
+        "DOC-001"
+      ]
+    },
+    {
+      "claim": "English fluent and Persian native listed",
+      "sources": [
+        "DOC-001"
+      ]
+    },
+    {
+      "claim": "Atron co-founder / industrial gas regulator product development experience",
+      "sources": [
+        "DOC-001",
+        "DOC-004"
+      ]
+    },
+    {
+      "claim": "Industrial Gas Pressure Regulator had 60+ components and launched/released after an 18-month development cycle",
+      "sources": [
+        "DOC-001",
+        "DOC-004"
+      ]
+    },
+    {
+      "claim": "Atron customer/distributor coordination included IKCO, Golgohar Mining & Industrial, SSECO, and Tehran-based distributor",
+      "sources": [
+        "DOC-001"
+      ]
+    },
+    {
+      "claim": "Research Assistant experience at TU Wien in photonic measurement systems",
+      "sources": [
+        "DOC-001",
+        "DOC-003"
+      ]
+    },
+    {
+      "claim": "Master thesis student / collaborative thesis work with Karl Storz context",
+      "sources": [
+        "DOC-001",
+        "DOC-002",
+        "DOC-003"
+      ]
+    },
+    {
+      "claim": "Autodesk Moldflow and PTC Creo used in thesis/tooling work",
+      "sources": [
+        "DOC-001",
+        "DOC-002",
+        "DOC-004"
+      ]
+    },
+    {
+      "claim": "CMM, microscopy, profilometry, thermal imaging, and metrology used in thesis validation",
+      "sources": [
+        "DOC-001",
+        "DOC-002",
+        "DOC-004"
+      ]
+    },
+    {
+      "claim": "Babyplast 6/12 micro-injection molding with medical-grade LDPE Purell 2410T",
+      "sources": [
+        "DOC-002",
+        "DOC-004"
+      ]
+    },
+    {
+      "claim": "Thesis conclusions: demolding bottleneck, bounded operating window, closure stack-up, coating/release comparison",
+      "sources": [
+        "DOC-002",
+        "DOC-004"
+      ]
+    },
+    {
+      "claim": "CAD/CAE/project software exposure including Siemens NX, Altair Inspire, Altair Inspire Casting, Simufact Additive, nTop, Granta EduPack, Ultimaker Cura",
+      "sources": [
+        "DOC-001",
+        "DOC-004"
+      ]
+    },
+    {
+      "claim": "BikePark team placed 3rd in Rail Innovation Challenge by FERROCAMPUS",
+      "sources": [
+        "DOC-001",
+        "DOC-004"
+      ]
+    },
+    {
+      "claim": "Dean's List and EIT Manufacturing scholarship",
+      "sources": [
+        "DOC-001",
+        "DOC-004"
+      ]
+    },
+    {
+      "claim": "Production Engineering grade 5/top 5%, Advanced Casting Technology grade 5, Manufacturing Methods 2 distinction",
+      "sources": [
+        "DOC-003"
+      ]
+    },
+    {
+      "claim": "Novin Technic display systems for textiles/flooring and international exhibition technical communication",
+      "sources": [
+        "DOC-001"
+      ]
+    },
+    {
+      "claim": "No evidence for professional engineering license, software certifications, patents, or medical-device regulatory compliance",
+      "sources": [
+        "DOC-001",
+        "DOC-002",
+        "DOC-003",
+        "DOC-004"
+      ]
+    }
+  ],
+  "metadata": {
+    "profile_type": "candidate_career_profile",
+    "compression_priority": "HIGH",
+    "version": "2.0"
+  }
+}
